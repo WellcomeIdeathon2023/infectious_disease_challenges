@@ -4,6 +4,6 @@ In this repository you will find a *copy* of all the infectious disease challeng
 
 These are available in the folders:
 
-* [correlates]() - For the correlates of protection challenge
+* [correlates]() - For the *Develop a platform for discovery of correlates of protection* challenge
 * [sentiment]() - For the *Develop NLP pipeline for vaccine uptake sentiment analysis* challenge
 * [surveillance]() - For the *Develop a surveillance pipeline to optimise multiple data sources* challenge
