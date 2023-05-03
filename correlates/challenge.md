@@ -1,4 +1,4 @@
-# Machine learning for discovery of correlates of protection
+# Develop a platform for discovery of correlates of protection
 
 ## Background
 
