@@ -1,4 +1,4 @@
-# Develop a platform for discovery of correlates of protection
+# Develop a platform for discovery and analysis of correlates of protection
 
 **Challenge:** A *copy* of the challenge is available [here](), this is identical to the challenge written on [the website]().
 
