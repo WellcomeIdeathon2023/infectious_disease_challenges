@@ -6,6 +6,12 @@ The complexity of this challenge is in understanding which data to use and how i
 We are *not* expecting you to generate novel results from these datasets but to demonstrate how you would integrate datasets from the same study (SDY296 and SDY301) with datasets from different studies (SDY180) and how you would provide functionality including visualization, statistical analysis, and machine learning.
 Your prototype also does not need to show realistic analyses, we are interested in the functionality and its potential; not the results.
 
+**Common files**
+
+* Description: These files provide metadata that may be used by any of the three studies listed below, for example values for mapping variables between numeric codes and their actual values (e.g., [lk_race.csv](https://github.com/WellcomeIdeathon2023/infectious_disease_challenges/blob/main/correlates/datasets/Common%20files/lk_race.csv) shows the mappings between codes (1-9) and race.
+* [link to data](https://www.immport.org/browser/?path=SDY180)
+* [Terms of use](https://docs.immport.org/home/agreement/)
+
 **SDY180**
 
 * Study title: Systems scale interactive exploration reveals quantitative and qualitative differences in response to 2009-2010 Fluzone influenza vaccine and pneumococcal vaccine
