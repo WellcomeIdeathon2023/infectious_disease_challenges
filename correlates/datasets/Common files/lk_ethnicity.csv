@@ -1,0 +1,5 @@
+"","NAME","DESCRIPTION","LINK"
+"1","Hispanic or Latino","A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race. The term, ""Spanish origin,"" can be used in addition to ""Hispanic or Latino.""","https://www.fda.gov/regulatory-information/search-fda-guidance-documents/collection-race-and-ethnicity-data-clinical-trials"
+"2","Not Hispanic or Latino","A person not of Hispanic or Latino origin.","https://www.fda.gov/regulatory-information/search-fda-guidance-documents/collection-race-and-ethnicity-data-clinical-trials"
+"3","Not Specified","Ethnicity is not specified or not received. If no Ethnicity value is received, then this is the system default value.","https://www.fda.gov/regulatory-information/search-fda-guidance-documents/collection-race-and-ethnicity-data-clinical-trials"
+"4","Other","A person having an Ethnicity that is some Other value not in CV Terms.","https://www.fda.gov/regulatory-information/search-fda-guidance-documents/collection-race-and-ethnicity-data-clinical-trials"

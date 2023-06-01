@@ -1,0 +1,3 @@
+"","NAME","DESCRIPTION","LINK"
+"1","Exclusion","Exclusion Criterion used to evaluate whether a subject is a candidate for exclusion in a study.","http://purl.obolibrary.org/obo/NCIT_C25370"
+"2","Inclusion","Inclusion Criterion used to evaluate whether a subject is a candidate for inclusion in a study.","http://purl.obolibrary.org/obo/NCIT_C25532"

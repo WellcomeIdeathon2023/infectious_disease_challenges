@@ -1,0 +1,127 @@
+"","STANDARD_CURVE_ACCESSION","ANALYTE_ACCESSION","ANALYTE_PREFERRED","ANALYTE_REPORTED","ASSAY_GROUP_ID","ASSAY_ID","EXPERIMENT_ACCESSION","FORMULA","LOWER_LIMIT","LOWER_LIMIT_UNIT","RESULT_SCHEMA","UPLOAD_RESULT_STATUS","UPPER_LIMIT","UPPER_LIMIT_UNIT","WORKSPACE_ID"
+"1","SC10","ANA81","EGF","EGF",NA,"LUMFLU1","EXP11771","Regression curve",0.626,"pg/ml","MBAA","Parsed",5060.662,"pg/ml",2799
+"2","SC100","ANA53","GMCSF","GMCSF",NA,"LUMFLU3","EXP11771","Regression curve",0.632,"pg/ml","MBAA","Parsed",5012.37,"pg/ml",2799
+"3","SC101","ANA60","GRO","GRO",NA,"LUMFLU3","EXP11771","Regression curve",0.618,"pg/ml","MBAA","Parsed",6492.624,"pg/ml",2799
+"4","SC102","ANA99","IFNA2","IFNA2",NA,"LUMFLU3","EXP11771","Regression curve",2.807,"pg/ml","MBAA","Parsed",5009.372,"pg/ml",2799
+"5","SC103","ANA110","IFNG","IFN G",NA,"LUMFLU3","EXP11771","Regression curve",0.057,"pg/ml","MBAA","Parsed",5007.502,"pg/ml",2799
+"6","SC104","ANA142","IL1A","IL1-A",NA,"LUMFLU3","EXP11771","Regression curve",9.543,"pg/ml","MBAA","Parsed",4997.7,"pg/ml",2799
+"7","SC105","ANA143","IL1B","IL1-B",NA,"LUMFLU3","EXP11771","Regression curve",0.052,"pg/ml","MBAA","Parsed",1431.136,"pg/ml",2799
+"8","SC106","ANA145","IL1R1","IL1RA",NA,"LUMFLU3","EXP11771","Regression curve",0.88,"pg/ml","MBAA","Parsed",4965.87,"pg/ml",2799
+"9","SC107","ANA148","IL2","IL2",NA,"LUMFLU3","EXP11771","Regression curve",0.676,"pg/ml","MBAA","Parsed",4960.996,"pg/ml",2799
+"10","SC108","ANA166","IL3","IL3",NA,"LUMFLU3","EXP11771","Regression curve",0.056,"pg/ml","MBAA","Parsed",4969.648,"pg/ml",2799
+"11","SC109","ANA174","IL4","IL4",NA,"LUMFLU3","EXP11771","Regression curve",0.701,"pg/ml","MBAA","Parsed",5011.974,"pg/ml",2799
+"12","SC11","ANA3","Eotaxin","EOTAXIN",NA,"LUMFLU1","EXP11771","Regression curve",0.204,"pg/ml","MBAA","Parsed",5109.351,"pg/ml",2799
+"13","SC110","ANA176","IL5","IL5",NA,"LUMFLU3","EXP11771","Regression curve",0.053,"pg/ml","MBAA","Parsed",1429.087,"pg/ml",2799
+"14","SC111","ANA178","IL6","IL6",NA,"LUMFLU3","EXP11771","Regression curve",0.615,"pg/ml","MBAA","Parsed",1429.246,"pg/ml",2799
+"15","SC112","ANA181","IL7","IL7",NA,"LUMFLU3","EXP11771","Regression curve",2.439,"pg/ml","MBAA","Parsed",1429.795,"pg/ml",2799
+"16","SC113","ANA72","IL8","IL8",NA,"LUMFLU3","EXP11771","Regression curve",0.247,"pg/ml","MBAA","Parsed",1466.626,"pg/ml",2799
+"17","SC114","ANA183","IL9","IL9",NA,"LUMFLU3","EXP11771","Regression curve",0.203,"pg/ml","MBAA","Parsed",5516.151,"pg/ml",2799
+"18","SC115","ANA118","IL10","IL10",NA,"LUMFLU3","EXP11771","Regression curve",0.074,"pg/ml","MBAA","Parsed",5024.402,"pg/ml",2799
+"19","SC116","ANA124","IL12p40","IL12 P40",NA,"LUMFLU3","EXP11771","Regression curve",0.574,"pg/ml","MBAA","Parsed",5053.118,"pg/ml",2799
+"20","SC117","ANA800","IL12p70","IL12 P70",NA,"LUMFLU3","EXP11771","Regression curve",0.178,"pg/ml","MBAA","Parsed",5055.095,"pg/ml",2799
+"21","SC118","ANA127","IL13","IL13",NA,"LUMFLU3","EXP11771","Regression curve",0.636,"pg/ml","MBAA","Parsed",5042.018,"pg/ml",2799
+"22","SC119","ANA130","IL15","IL15",NA,"LUMFLU3","EXP11771","Regression curve",0.687,"pg/ml","MBAA","Parsed",5191.463,"pg/ml",2799
+"23","SC12","ANA88","FGFB","FGF-2",NA,"LUMFLU1","EXP11771","Regression curve",2.721,"pg/ml","MBAA","Parsed",4914.206,"pg/ml",2799
+"24","SC120","ANA133","IL17A","IL17A",NA,"LUMFLU3","EXP11771","Regression curve",0.232,"pg/ml","MBAA","Parsed",1424.272,"pg/ml",2799
+"25","SC121","ANA61","IP-10","IP10",NA,"LUMFLU3","EXP11771","Regression curve",2.691,"pg/ml","MBAA","Parsed",1431.454,"pg/ml",2799
+"26","SC122","ANA11","MCP1","MCP1",NA,"LUMFLU3","EXP11771","Regression curve",0.233,"pg/ml","MBAA","Parsed",3560.149,"pg/ml",2799
+"27","SC123","ANA28","MCP3","MCP3",NA,"LUMFLU3","EXP11771","Regression curve",0.717,"pg/ml","MBAA","Parsed",4826.283,"pg/ml",2799
+"28","SC124","ANA14","CCL22","MDC",NA,"LUMFLU3","EXP11771","Regression curve",0.765,"pg/ml","MBAA","Parsed",4800.76,"pg/ml",2799
+"29","SC125","ANA20","MIP1A","MIP1A",NA,"LUMFLU3","EXP11771","Regression curve",0.722,"pg/ml","MBAA","Parsed",1243.457,"pg/ml",2799
+"30","SC126","ANA24","MIP1B","MIPB",NA,"LUMFLU3","EXP11771","Regression curve",2.489,"pg/ml","MBAA","Parsed",5365.545,"pg/ml",2799
+"31","SC127","ANA201","PDGFA","PDGFAA",NA,"LUMFLU3","EXP11771","Regression curve",128.061,"pg/ml","MBAA","Parsed",309.81,"pg/ml",2799
+"32","SC128","ANA803","PDGF","PDGF AB/BB",NA,"LUMFLU3","EXP11771","Regression curve",9.105,"pg/ml","MBAA","Parsed",4999.995,"pg/ml",2799
+"33","SC129","ANA27","RANTES","RANTES",NA,"LUMFLU3","EXP11771","Regression curve",2.959,"pg/ml","MBAA","Parsed",410.234,"pg/ml",2799
+"34","SC13","ANA90","FLT3LG","FLT 3 LIGAND",NA,"LUMFLU1","EXP11771","Regression curve",0.181,"pg/ml","MBAA","Parsed",4855.355,"pg/ml",2799
+"35","SC130","ANA43","CD154","SOL CD40L",NA,"LUMFLU3","EXP11771","Regression curve",8.984,"pg/ml","MBAA","Parsed",4990.808,"pg/ml",2799
+"36","SC131","ANA163","IL2RA","s IL2-RA",NA,"LUMFLU3","EXP11771","Regression curve",0.637,"pg/ml","MBAA","Parsed",5021.826,"pg/ml",2799
+"37","SC132","ANA212","TGFA","TGFA",NA,"LUMFLU3","EXP11771","Regression curve",0.822,"pg/ml","MBAA","Parsed",108.859,"pg/ml",2799
+"38","SC133","ANA220","TNFA","TNFA",NA,"LUMFLU3","EXP11771","Regression curve",0.193,"pg/ml","MBAA","Parsed",1434.652,"pg/ml",2799
+"39","SC134","ANA192","TNFB","TNFB",NA,"LUMFLU3","EXP11771","Regression curve",0.592,"pg/ml","MBAA","Parsed",4995.18,"pg/ml",2799
+"40","SC135","ANA709","VEGFA","VEGF",NA,"LUMFLU3","EXP11771","Regression curve",2.761,"pg/ml","MBAA","Parsed",4955.392,"pg/ml",2799
+"41","SC14","ANA58","FRACTALKINE","FRACTALKINE",NA,"LUMFLU1","EXP11771","Regression curve",9.659,"pg/ml","MBAA","Parsed",4993.437,"pg/ml",2799
+"42","SC15","ANA56","CSF3","G-CSF",NA,"LUMFLU1","EXP11771","Regression curve",0.703,"pg/ml","MBAA","Parsed",5013.744,"pg/ml",2799
+"43","SC16","ANA53","GMCSF","GMCSF",NA,"LUMFLU1","EXP11771","Regression curve",0.267,"pg/ml","MBAA","Parsed",4986.222,"pg/ml",2799
+"44","SC17","ANA60","GRO","GRO",NA,"LUMFLU1","EXP11771","Regression curve",0.69,"pg/ml","MBAA","Parsed",4911.89,"pg/ml",2799
+"45","SC18","ANA99","IFNA2","IFNA2",NA,"LUMFLU1","EXP11771","Regression curve",0.786,"pg/ml","MBAA","Parsed",4999.998,"pg/ml",2799
+"46","SC19","ANA110","IFNG","IFN G",NA,"LUMFLU1","EXP11771","Regression curve",0.17,"pg/ml","MBAA","Parsed",5000.055,"pg/ml",2799
+"47","SC20","ANA142","IL1A","IL1-A",NA,"LUMFLU1","EXP11771","Regression curve",2.438,"pg/ml","MBAA","Parsed",5006.002,"pg/ml",2799
+"48","SC21","ANA143","IL1B","IL1-B",NA,"LUMFLU1","EXP11771","Regression curve",0.071,"pg/ml","MBAA","Parsed",4999.798,"pg/ml",2799
+"49","SC22","ANA145","IL1R1","IL1RA",NA,"LUMFLU1","EXP11771","Regression curve",0.251,"pg/ml","MBAA","Parsed",4965.114,"pg/ml",2799
+"50","SC23","ANA148","IL2","IL2",NA,"LUMFLU1","EXP11771","Regression curve",0.219,"pg/ml","MBAA","Parsed",5315.209,"pg/ml",2799
+"51","SC24","ANA166","IL3","IL3",NA,"LUMFLU1","EXP11771","Regression curve",0.188,"pg/ml","MBAA","Parsed",4870.285,"pg/ml",2799
+"52","SC25","ANA174","IL4","IL4",NA,"LUMFLU1","EXP11771","Regression curve",0.763,"pg/ml","MBAA","Parsed",4999.916,"pg/ml",2799
+"53","SC26","ANA176","IL5","IL5",NA,"LUMFLU1","EXP11771","Regression curve",0.056,"pg/ml","MBAA","Parsed",1429.887,"pg/ml",2799
+"54","SC27","ANA178","IL6","IL6",NA,"LUMFLU1","EXP11771","Regression curve",0.777,"pg/ml","MBAA","Parsed",5007.487,"pg/ml",2799
+"55","SC28","ANA181","IL7","IL7",NA,"LUMFLU1","EXP11771","Regression curve",2.648,"pg/ml","MBAA","Parsed",3707.222,"pg/ml",2799
+"56","SC29","ANA72","IL8","IL8",NA,"LUMFLU1","EXP11771","Regression curve",0.061,"pg/ml","MBAA","Parsed",5149.866,"pg/ml",2799
+"57","SC30","ANA183","IL9","IL9",NA,"LUMFLU1","EXP11771","Regression curve",0.225,"pg/ml","MBAA","Parsed",1428.837,"pg/ml",2799
+"58","SC31","ANA118","IL10","IL10",NA,"LUMFLU1","EXP11771","Regression curve",0.202,"pg/ml","MBAA","Parsed",5008.964,"pg/ml",2799
+"59","SC32","ANA124","IL12p40","IL12 P40",NA,"LUMFLU1","EXP11771","Regression curve",0.562,"pg/ml","MBAA","Parsed",5036.931,"pg/ml",2799
+"60","SC33","ANA800","IL12p70","IL12 P70",NA,"LUMFLU1","EXP11771","Regression curve",0.054,"pg/ml","MBAA","Parsed",5342.581,"pg/ml",2799
+"61","SC34","ANA127","IL13","IL13",NA,"LUMFLU1","EXP11771","Regression curve",0.665,"pg/ml","MBAA","Parsed",5019.173,"pg/ml",2799
+"62","SC35","ANA130","IL15","IL15",NA,"LUMFLU1","EXP11771","Regression curve",0.191,"pg/ml","MBAA","Parsed",5075.127,"pg/ml",2799
+"63","SC36","ANA133","IL17A","IL17A",NA,"LUMFLU1","EXP11771","Regression curve",0.754,"pg/ml","MBAA","Parsed",5142.121,"pg/ml",2799
+"64","SC37","ANA61","IP-10","IP10",NA,"LUMFLU1","EXP11771","Regression curve",0.759,"pg/ml","MBAA","Parsed",1430.574,"pg/ml",2799
+"65","SC38","ANA11","MCP1","MCP1",NA,"LUMFLU1","EXP11771","Regression curve",0.267,"pg/ml","MBAA","Parsed",1384.654,"pg/ml",2799
+"66","SC39","ANA28","MCP3","MCP3",NA,"LUMFLU1","EXP11771","Regression curve",0.552,"pg/ml","MBAA","Parsed",1738.18,"pg/ml",2799
+"67","SC40","ANA14","CCL22","MDC",NA,"LUMFLU1","EXP11771","Regression curve",0.972,"pg/ml","MBAA","Parsed",1437.546,"pg/ml",2799
+"68","SC41","ANA20","MIP1A","MIP1A",NA,"LUMFLU1","EXP11771","Regression curve",0.198,"pg/ml","MBAA","Parsed",1292.745,"pg/ml",2799
+"69","SC42","ANA24","MIP1B","MIPB",NA,"LUMFLU1","EXP11771","Regression curve",2.815,"pg/ml","MBAA","Parsed",1427.687,"pg/ml",2799
+"70","SC43","ANA201","PDGFA","PDGFAA",NA,"LUMFLU1","EXP11771","Regression curve",12.281,"pg/ml","MBAA","Parsed",302.772,"pg/ml",2799
+"71","SC44","ANA803","PDGF","PDGF AB/BB",NA,"LUMFLU1","EXP11771","Regression curve",28.086,"pg/ml","MBAA","Parsed",4985.671,"pg/ml",2799
+"72","SC45","ANA27","RANTES","RANTES",NA,"LUMFLU1","EXP11771","Regression curve",0.852,"pg/ml","MBAA","Parsed",6391.168,"pg/ml",2799
+"73","SC46","ANA43","CD154","SOL CD40L",NA,"LUMFLU1","EXP11771","Regression curve",11.04,"pg/ml","MBAA","Parsed",5062.967,"pg/ml",2799
+"74","SC47","ANA163","IL2RA","s IL2-RA",NA,"LUMFLU1","EXP11771","Regression curve",0.918,"pg/ml","MBAA","Parsed",5061.834,"pg/ml",2799
+"75","SC48","ANA212","TGFA","TGFA",NA,"LUMFLU1","EXP11771","Regression curve",0.004,"pg/ml","MBAA","Parsed",108.53,"pg/ml",2799
+"76","SC49","ANA220","TNFA","TNFA",NA,"LUMFLU1","EXP11771","Regression curve",0.191,"pg/ml","MBAA","Parsed",1434.356,"pg/ml",2799
+"77","SC50","ANA192","TNFB","TNFB",NA,"LUMFLU1","EXP11771","Regression curve",0.229,"pg/ml","MBAA","Parsed",4999.676,"pg/ml",2799
+"78","SC51","ANA709","VEGFA","VEGF",NA,"LUMFLU1","EXP11771","Regression curve",0.931,"pg/ml","MBAA","Parsed",1428.645,"pg/ml",2799
+"79","SC52","ANA81","EGF","EGF",NA,"LUMFLU2","EXP11771","Regression curve",2.674,"pg/ml","MBAA","Parsed",4149.814,"pg/ml",2799
+"80","SC53","ANA3","Eotaxin","EOTAXIN",NA,"LUMFLU2","EXP11771","Regression curve",0.215,"pg/ml","MBAA","Parsed",4353.261,"pg/ml",2799
+"81","SC54","ANA88","FGFB","FGF-2",NA,"LUMFLU2","EXP11771","Regression curve",2.985,"pg/ml","MBAA","Parsed",4301.721,"pg/ml",2799
+"82","SC55","ANA90","FLT3LG","FLT 3 LIGAND",NA,"LUMFLU2","EXP11771","Regression curve",2.952,"pg/ml","MBAA","Parsed",1420.061,"pg/ml",2799
+"83","SC56","ANA58","FRACTALKINE","FRACTALKINE",NA,"LUMFLU2","EXP11771","Regression curve",9.961,"pg/ml","MBAA","Parsed",4982.148,"pg/ml",2799
+"84","SC57","ANA56","CSF3","G-CSF",NA,"LUMFLU2","EXP11771","Regression curve",2.833,"pg/ml","MBAA","Parsed",4993.117,"pg/ml",2799
+"85","SC58","ANA53","GMCSF","GMCSF",NA,"LUMFLU2","EXP11771","Regression curve",0.775,"pg/ml","MBAA","Parsed",4996.91,"pg/ml",2799
+"86","SC59","ANA60","GRO","GRO",NA,"LUMFLU2","EXP11771","Regression curve",2.702,"pg/ml","MBAA","Parsed",4030.317,"pg/ml",2799
+"87","SC60","ANA99","IFNA2","IFNA2",NA,"LUMFLU2","EXP11771","Regression curve",2.388,"pg/ml","MBAA","Parsed",5034.833,"pg/ml",2799
+"88","SC61","ANA110","IFNG","IFN G",NA,"LUMFLU2","EXP11771","Regression curve",0.164,"pg/ml","MBAA","Parsed",4993.492,"pg/ml",2799
+"89","SC62","ANA142","IL1A","IL1-A",NA,"LUMFLU2","EXP11771","Regression curve",2.286,"pg/ml","MBAA","Parsed",1428.57,"pg/ml",2799
+"90","SC63","ANA143","IL1B","IL1-B",NA,"LUMFLU2","EXP11771","Regression curve",0.054,"pg/ml","MBAA","Parsed",1430.863,"pg/ml",2799
+"91","SC64","ANA145","IL1R1","IL1RA",NA,"LUMFLU2","EXP11771","Regression curve",0.715,"pg/ml","MBAA","Parsed",4999.166,"pg/ml",2799
+"92","SC65","ANA148","IL2","IL2",NA,"LUMFLU2","EXP11771","Regression curve",0.712,"pg/ml","MBAA","Parsed",5081.326,"pg/ml",2799
+"93","SC66","ANA166","IL3","IL3",NA,"LUMFLU2","EXP11771","Regression curve",0.714,"pg/ml","MBAA","Parsed",5116.334,"pg/ml",2799
+"94","SC67","ANA174","IL4","IL4",NA,"LUMFLU2","EXP11771","Regression curve",0.167,"pg/ml","MBAA","Parsed",5012.459,"pg/ml",2799
+"95","SC68","ANA176","IL5","IL5",NA,"LUMFLU2","EXP11771","Regression curve",0.193,"pg/ml","MBAA","Parsed",1429.716,"pg/ml",2799
+"96","SC69","ANA178","IL6","IL6",NA,"LUMFLU2","EXP11771","Regression curve",3.406,"pg/ml","MBAA","Parsed",6414.576,"pg/ml",2799
+"97","SC70","ANA181","IL7","IL7",NA,"LUMFLU2","EXP11771","Regression curve",2.952,"pg/ml","MBAA","Parsed",1725.155,"pg/ml",2799
+"98","SC71","ANA72","IL8","IL8",NA,"LUMFLU2","EXP11771","Regression curve",0.187,"pg/ml","MBAA","Parsed",1484.741,"pg/ml",2799
+"99","SC72","ANA183","IL9","IL9",NA,"LUMFLU2","EXP11771","Regression curve",0.167,"pg/ml","MBAA","Parsed",5357.2,"pg/ml",2799
+"100","SC73","ANA118","IL10","IL10",NA,"LUMFLU2","EXP11771","Regression curve",0.183,"pg/ml","MBAA","Parsed",5017.01,"pg/ml",2799
+"101","SC74","ANA124","IL12p40","IL12 P40",NA,"LUMFLU2","EXP11771","Regression curve",2.381,"pg/ml","MBAA","Parsed",5095.999,"pg/ml",2799
+"102","SC75","ANA800","IL12p70","IL12 P70",NA,"LUMFLU2","EXP11771","Regression curve",0.198,"pg/ml","MBAA","Parsed",5036.507,"pg/ml",2799
+"103","SC76","ANA127","IL13","IL13",NA,"LUMFLU2","EXP11771","Regression curve",2.709,"pg/ml","MBAA","Parsed",5064.343,"pg/ml",2799
+"104","SC77","ANA130","IL15","IL15",NA,"LUMFLU2","EXP11771","Regression curve",0.568,"pg/ml","MBAA","Parsed",5120.633,"pg/ml",2799
+"105","SC78","ANA133","IL17A","IL17A",NA,"LUMFLU2","EXP11771","Regression curve",0.193,"pg/ml","MBAA","Parsed",5288.265,"pg/ml",2799
+"106","SC79","ANA61","IP-10","IP10",NA,"LUMFLU2","EXP11771","Regression curve",2.79,"pg/ml","MBAA","Parsed",1424.391,"pg/ml",2799
+"107","SC80","ANA11","MCP1","MCP1",NA,"LUMFLU2","EXP11771","Regression curve",0.765,"pg/ml","MBAA","Parsed",4605.914,"pg/ml",2799
+"108","SC81","ANA28","MCP3","MCP3",NA,"LUMFLU2","EXP11771","Regression curve",0.71,"pg/ml","MBAA","Parsed",1393.486,"pg/ml",2799
+"109","SC82","ANA14","CCL22","MDC",NA,"LUMFLU2","EXP11771","Regression curve",0.709,"pg/ml","MBAA","Parsed",4807.766,"pg/ml",2799
+"110","SC83","ANA20","MIP1A","MIP1A",NA,"LUMFLU2","EXP11771","Regression curve",0.741,"pg/ml","MBAA","Parsed",1278.116,"pg/ml",2799
+"111","SC84","ANA24","MIP1B","MIPB",NA,"LUMFLU2","EXP11771","Regression curve",2.639,"pg/ml","MBAA","Parsed",5107.11,"pg/ml",2799
+"112","SC85","ANA201","PDGFA","PDGFAA",NA,"LUMFLU2","EXP11771","Regression curve",40.822,"pg/ml","MBAA","Parsed",303.529,"pg/ml",2799
+"113","SC86","ANA803","PDGF","PDGF AB/BB",NA,"LUMFLU2","EXP11771","Regression curve",7.31,"pg/ml","MBAA","Parsed",4913.555,"pg/ml",2799
+"114","SC87","ANA27","RANTES","RANTES",NA,"LUMFLU2","EXP11771","Regression curve",8.099,"pg/ml","MBAA","Parsed",1409.933,"pg/ml",2799
+"115","SC88","ANA43","CD154","SOL CD40L",NA,"LUMFLU2","EXP11771","Regression curve",12.368,"pg/ml","MBAA","Parsed",5196.778,"pg/ml",2799
+"116","SC89","ANA163","IL2RA","s IL2-RA",NA,"LUMFLU2","EXP11771","Regression curve",2.531,"pg/ml","MBAA","Parsed",5039.425,"pg/ml",2799
+"117","SC90","ANA212","TGFA","TGFA",NA,"LUMFLU2","EXP11771","Regression curve",0.211,"pg/ml","MBAA","Parsed",120.853,"pg/ml",2799
+"118","SC91","ANA220","TNFA","TNFA",NA,"LUMFLU2","EXP11771","Regression curve",0.166,"pg/ml","MBAA","Parsed",1410.449,"pg/ml",2799
+"119","SC92","ANA192","TNFB","TNFB",NA,"LUMFLU2","EXP11771","Regression curve",3.332,"pg/ml","MBAA","Parsed",5004.277,"pg/ml",2799
+"120","SC93","ANA709","VEGFA","VEGF",NA,"LUMFLU2","EXP11771","Regression curve",2.555,"pg/ml","MBAA","Parsed",1428.532,"pg/ml",2799
+"121","SC94","ANA81","EGF","EGF",NA,"LUMFLU3","EXP11771","Regression curve",0.572,"pg/ml","MBAA","Parsed",1451.743,"pg/ml",2799
+"122","SC95","ANA3","Eotaxin","EOTAXIN",NA,"LUMFLU3","EXP11771","Regression curve",0.702,"pg/ml","MBAA","Parsed",1466.628,"pg/ml",2799
+"123","SC96","ANA88","FGFB","FGF-2",NA,"LUMFLU3","EXP11771","Regression curve",2.826,"pg/ml","MBAA","Parsed",1399.836,"pg/ml",2799
+"124","SC97","ANA90","FLT3LG","FLT 3 LIGAND",NA,"LUMFLU3","EXP11771","Regression curve",0.882,"pg/ml","MBAA","Parsed",4922.639,"pg/ml",2799
+"125","SC98","ANA58","FRACTALKINE","FRACTALKINE",NA,"LUMFLU3","EXP11771","Regression curve",10.501,"pg/ml","MBAA","Parsed",4981.004,"pg/ml",2799
+"126","SC99","ANA56","CSF3","G-CSF",NA,"LUMFLU3","EXP11771","Regression curve",2.662,"pg/ml","MBAA","Parsed",5003.209,"pg/ml",2799

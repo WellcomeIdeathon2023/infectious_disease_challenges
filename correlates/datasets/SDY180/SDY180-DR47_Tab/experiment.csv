@@ -1,0 +1,11 @@
+"","EXPERIMENT_ACCESSION","DESCRIPTION","MEASUREMENT_TECHNIQUE","NAME","STUDY_ACCESSION","WORKSPACE_ID"
+"1","EXP10591",NA,"Transcription profiling by array","Illumina Gene Expressions microarrays","SDY180",2799
+"2","EXP10592",NA,"Hemagglutination Inhibition","Haemagglutinin inhibition assay for quantitating seasonal influenza virus neutralizing antibodies","SDY180",2799
+"3","EXP11770",NA,"Flow Cytometry","Flow Cytometry","SDY180",2799
+"4","EXP11771",NA,"Luminex xMAP","Cytokine Concentration","SDY180",2799
+"5","EXP11772",NA,"Transcription profiling by array","Gene Expression","SDY180",2799
+"6","EXP11773",NA,"Virus Neutralization","Neutralizing Antibody Titer","SDY180",2799
+"7","EXP13539",NA,"Hemagglutination Inhibition","Hemagglutination Inhibition","SDY180",2799
+"8","EXP13540",NA,"Luminex xMAP","Pneumococcal Immunoassay","SDY180",2799
+"9","EXP13887",NA,"Nanostring","Flu_09_Nanostring","SDY180",2799
+"10","EXP29358",NA,"Neutralizing Antibody Titer Assay","Pneumococcal serology","SDY180",2799

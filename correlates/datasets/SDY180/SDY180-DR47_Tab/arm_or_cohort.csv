@@ -1,0 +1,9 @@
+"","ARM_ACCESSION","DESCRIPTION","NAME","STUDY_ACCESSION","TYPE_REPORTED","TYPE_PREFERRED","WORKSPACE_ID"
+"1","ARM773","2009-2010 Fluzone vaccine, Samples at Day -7,0,1,3,7,10,14,21,28","Study group 1 2009-2010 Fluzone","SDY180","Experimental","Experimental Arm",2799
+"2","ARM774","Pneunomax23, Samples at Day -7,0,1,3,7,10,14,21,28","Study group 1 Pneunomax23","SDY180","Experimental","Experimental Arm",2799
+"3","ARM775","Saline, Samples at Day -7,0,1,3,7,10,14,21,28","Study group 1 Saline","SDY180","Placebo","Placebo Comparator Arm",2799
+"4","ARM776","2009-2010 Fluzone vaccine, Samples at Hour -168,0,1.5,3,6,9,12,15,24,36,48","Study group 2 2009-2010 Fluzone","SDY180","Experimental","Experimental Arm",2799
+"5","ARM777","Pneunomax23, Samples at Hour -168,0,1.5,3,6,9,12,15,24,36,48","Study group 2 Pneunomax23","SDY180","Experimental","Experimental Arm",2799
+"6","ARM778","Saline, Samples at Hour -168,0,1.5,3,6,9,12,15,24,36,48","Study group 2 Saline","SDY180","Placebo","Placebo Comparator Arm",2799
+"7","ARM779","2009-2010 Fluzone vaccine, Samples at Day 0,1,28","Study group 3 2009-2010 Fluzone","SDY180","Experimental","Experimental Arm",2799
+"8","ARM780","Saline, Samples at Day 0,1,28","Study group 3 Pneunomax23","SDY180","Placebo","Placebo Comparator Arm",2799

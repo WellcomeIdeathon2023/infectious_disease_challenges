@@ -1,0 +1,856 @@
+"","BIOSAMPLE_ACCESSION","DESCRIPTION","NAME","PLANNED_VISIT_ACCESSION","STUDY_ACCESSION","STUDY_TIME_COLLECTED","STUDY_TIME_COLLECTED_UNIT","STUDY_TIME_T0_EVENT","STUDY_TIME_T0_EVENT_SPECIFY","SUBJECT_ACCESSION","SUBTYPE","TYPE","WORKSPACE_ID"
+"1","BS709299",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"2","BS709300",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"3","BS709301",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122716",NA,"Serum",2799
+"4","BS709302",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"5","BS709303",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122716",NA,"Serum",2799
+"6","BS709304",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"7","BS709305",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"8","BS709306",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"9","BS709307",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"10","BS709308",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"11","BS709309",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"12","BS709310",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"13","BS709311",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122716",NA,"Serum",2799
+"14","BS709312",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"15","BS709313",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122716",NA,"Serum",2799
+"16","BS709314",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"17","BS709315",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"18","BS709316",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"19","BS709317",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"20","BS709318",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"21","BS709319",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122717",NA,"Other",2799
+"22","BS709320",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122717",NA,"Whole blood",2799
+"23","BS709321",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122717",NA,"Other",2799
+"24","BS709322",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122717",NA,"Other",2799
+"25","BS709323",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122717",NA,"Other",2799
+"26","BS709324",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122717",NA,"Whole blood",2799
+"27","BS709325",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122717",NA,"Other",2799
+"28","BS709326",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122717",NA,"Whole blood",2799
+"29","BS709327",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122717",NA,"Other",2799
+"30","BS709328",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122717",NA,"Whole blood",2799
+"31","BS709329",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122717",NA,"Other",2799
+"32","BS709330",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122717",NA,"Whole blood",2799
+"33","BS709331",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122717",NA,"Other",2799
+"34","BS709332",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122717",NA,"Other",2799
+"35","BS709333",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122717",NA,"Other",2799
+"36","BS709334",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122717",NA,"Whole blood",2799
+"37","BS709335",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"38","BS709336",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"39","BS709337",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122718",NA,"Serum",2799
+"40","BS709338",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"41","BS709339",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122718",NA,"Serum",2799
+"42","BS709340",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"43","BS709341",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"44","BS709342",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"45","BS709343",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"46","BS709344",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"47","BS709345",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"48","BS709346",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"49","BS709347",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122718",NA,"Serum",2799
+"50","BS709348",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"51","BS709349",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122718",NA,"Serum",2799
+"52","BS709350",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"53","BS709351",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"54","BS709352",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"55","BS709353",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"56","BS709354",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"57","BS709355",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"58","BS709356",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"59","BS709357",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122719",NA,"Serum",2799
+"60","BS709358",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"61","BS709359",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122719",NA,"Serum",2799
+"62","BS709360",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"63","BS709361",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"64","BS709362",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"65","BS709363",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"66","BS709364",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"67","BS709365",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"68","BS709366",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"69","BS709367",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122719",NA,"Serum",2799
+"70","BS709368",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"71","BS709369",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122719",NA,"Serum",2799
+"72","BS709370",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"73","BS709371",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"74","BS709372",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"75","BS709373",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"76","BS709374",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"77","BS709375",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"78","BS709376",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"79","BS709377",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122720",NA,"Serum",2799
+"80","BS709378",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"81","BS709379",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122720",NA,"Serum",2799
+"82","BS709380",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"83","BS709381",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"84","BS709382",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"85","BS709383",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"86","BS709384",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"87","BS709385",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"88","BS709386",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"89","BS709387",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122720",NA,"Serum",2799
+"90","BS709388",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"91","BS709389",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122720",NA,"Serum",2799
+"92","BS709390",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"93","BS709391",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122720",NA,"Other",2799
+"94","BS709392",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"95","BS709393",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122720",NA,"Other",2799
+"96","BS709394",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"97","BS709395",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122721",NA,"Other",2799
+"98","BS709396",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122721",NA,"Whole blood",2799
+"99","BS709397",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122721",NA,"Other",2799
+"100","BS709398",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122721",NA,"Other",2799
+"101","BS709399",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122721",NA,"Other",2799
+"102","BS709400",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122721",NA,"Whole blood",2799
+"103","BS709401",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122721",NA,"Other",2799
+"104","BS709402",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122721",NA,"Whole blood",2799
+"105","BS709403",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122721",NA,"Other",2799
+"106","BS709404",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122721",NA,"Whole blood",2799
+"107","BS709405",NA,NA,"PV2859","SDY296",8,"Days","Time of enrollment",NA,"SUB122721",NA,"Other",2799
+"108","BS709406",NA,NA,"PV2859","SDY296",8,"Days","Time of enrollment",NA,"SUB122721",NA,"Whole blood",2799
+"109","BS709407",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"110","BS709408",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"111","BS709409",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122722",NA,"Serum",2799
+"112","BS709410",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"113","BS709411",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122722",NA,"Serum",2799
+"114","BS709412",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"115","BS709413",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"116","BS709414",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"117","BS709415",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"118","BS709416",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"119","BS709417",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"120","BS709418",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"121","BS709419",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122722",NA,"Serum",2799
+"122","BS709420",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"123","BS709421",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122722",NA,"Serum",2799
+"124","BS709422",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"125","BS709423",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"126","BS709424",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"127","BS709425",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"128","BS709426",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"129","BS709427",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"130","BS709428",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"131","BS709429",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122723",NA,"Serum",2799
+"132","BS709430",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"133","BS709431",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122723",NA,"Serum",2799
+"134","BS709432",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"135","BS709433",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"136","BS709434",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"137","BS709435",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"138","BS709436",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"139","BS709437",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"140","BS709438",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"141","BS709439",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122723",NA,"Serum",2799
+"142","BS709440",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"143","BS709441",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122723",NA,"Serum",2799
+"144","BS709442",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"145","BS709443",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"146","BS709444",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"147","BS709445",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"148","BS709446",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"149","BS709447",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"150","BS709448",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"151","BS709449",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122724",NA,"Serum",2799
+"152","BS709450",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"153","BS709451",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122724",NA,"Serum",2799
+"154","BS709452",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"155","BS709453",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"156","BS709454",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"157","BS709455",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"158","BS709456",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"159","BS709457",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"160","BS709458",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"161","BS709459",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122724",NA,"Serum",2799
+"162","BS709460",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"163","BS709461",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122724",NA,"Serum",2799
+"164","BS709462",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"165","BS709463",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"166","BS709464",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"167","BS709465",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"168","BS709466",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"169","BS709467",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"170","BS709468",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"171","BS709469",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122725",NA,"Serum",2799
+"172","BS709470",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"173","BS709471",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122725",NA,"Serum",2799
+"174","BS709472",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"175","BS709473",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"176","BS709474",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"177","BS709475",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"178","BS709476",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"179","BS709477",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"180","BS709478",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"181","BS709479",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122725",NA,"Serum",2799
+"182","BS709480",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"183","BS709481",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122725",NA,"Serum",2799
+"184","BS709482",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"185","BS709483",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"186","BS709484",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"187","BS709485",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"188","BS709486",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"189","BS709487",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"190","BS709488",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"191","BS709489",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122726",NA,"Serum",2799
+"192","BS709490",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"193","BS709491",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122726",NA,"Serum",2799
+"194","BS709492",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"195","BS709493",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"196","BS709494",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"197","BS709495",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"198","BS709496",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"199","BS709497",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"200","BS709498",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"201","BS709499",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122726",NA,"Serum",2799
+"202","BS709500",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"203","BS709501",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122726",NA,"Serum",2799
+"204","BS709502",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"205","BS709503",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"206","BS709504",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"207","BS709505",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122727",NA,"Serum",2799
+"208","BS709506",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"209","BS709507",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122727",NA,"Serum",2799
+"210","BS709508",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"211","BS709509",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"212","BS709510",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"213","BS709511",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"214","BS709512",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"215","BS709513",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"216","BS709514",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"217","BS709515",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122727",NA,"Serum",2799
+"218","BS709516",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"219","BS709517",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122727",NA,"Serum",2799
+"220","BS709518",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"221","BS709519",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122727",NA,"Other",2799
+"222","BS709520",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"223","BS709521",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122727",NA,"Other",2799
+"224","BS709522",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"225","BS709523",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"226","BS709524",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"227","BS709525",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122728",NA,"Serum",2799
+"228","BS709526",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"229","BS709527",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122728",NA,"Serum",2799
+"230","BS709528",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"231","BS709529",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"232","BS709530",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"233","BS709531",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"234","BS709532",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"235","BS709533",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"236","BS709534",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"237","BS709535",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122728",NA,"Serum",2799
+"238","BS709536",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"239","BS709537",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122728",NA,"Serum",2799
+"240","BS709538",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"241","BS709539",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"242","BS709540",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"243","BS709541",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"244","BS709542",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"245","BS709543",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"246","BS709544",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"247","BS709545",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122729",NA,"Serum",2799
+"248","BS709546",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"249","BS709547",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122729",NA,"Serum",2799
+"250","BS709548",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"251","BS709549",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"252","BS709550",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"253","BS709551",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"254","BS709552",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"255","BS709553",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"256","BS709554",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"257","BS709555",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122729",NA,"Serum",2799
+"258","BS709556",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"259","BS709557",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122729",NA,"Serum",2799
+"260","BS709558",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"261","BS709559",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"262","BS709560",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"263","BS709561",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"264","BS709562",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"265","BS709563",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"266","BS709564",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"267","BS709565",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122730",NA,"Serum",2799
+"268","BS709566",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"269","BS709567",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122730",NA,"Serum",2799
+"270","BS709568",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"271","BS709569",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"272","BS709570",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"273","BS709571",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"274","BS709572",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"275","BS709573",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"276","BS709574",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"277","BS709575",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122730",NA,"Serum",2799
+"278","BS709576",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"279","BS709577",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122730",NA,"Serum",2799
+"280","BS709578",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"281","BS709579",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122730",NA,"Other",2799
+"282","BS709580",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"283","BS709581",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122730",NA,"Other",2799
+"284","BS709582",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"285","BS709583",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"286","BS709584",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"287","BS709585",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122731",NA,"Serum",2799
+"288","BS709586",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122731",NA,"Other",2799
+"289","BS709587",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122731",NA,"Serum",2799
+"290","BS709588",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"291","BS709589",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"292","BS709590",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"293","BS709591",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"294","BS709592",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"295","BS709593",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"296","BS709594",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"297","BS709595",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122731",NA,"Serum",2799
+"298","BS709596",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"299","BS709597",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122731",NA,"Serum",2799
+"300","BS709598",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"301","BS709599",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122731",NA,"Other",2799
+"302","BS709600",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122731",NA,"Whole blood",2799
+"303","BS709601",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"304","BS709602",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"305","BS709603",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122732",NA,"Serum",2799
+"306","BS709604",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"307","BS709605",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122732",NA,"Serum",2799
+"308","BS709606",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"309","BS709607",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"310","BS709608",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"311","BS709609",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"312","BS709610",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"313","BS709611",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"314","BS709612",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"315","BS709613",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122732",NA,"Serum",2799
+"316","BS709614",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"317","BS709615",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122732",NA,"Serum",2799
+"318","BS709616",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"319","BS709617",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"320","BS709618",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"321","BS709619",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"322","BS709620",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"323","BS709621",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"324","BS709622",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"325","BS709623",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122733",NA,"Serum",2799
+"326","BS709624",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"327","BS709625",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122733",NA,"Serum",2799
+"328","BS709626",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"329","BS709627",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"330","BS709628",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"331","BS709629",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"332","BS709630",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"333","BS709631",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"334","BS709632",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"335","BS709633",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122733",NA,"Serum",2799
+"336","BS709634",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"337","BS709635",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122733",NA,"Serum",2799
+"338","BS709636",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"339","BS709637",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"340","BS709638",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"341","BS709639",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"342","BS709640",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"343","BS709641",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"344","BS709642",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"345","BS709643",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122734",NA,"Serum",2799
+"346","BS709644",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"347","BS709645",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122734",NA,"Serum",2799
+"348","BS709646",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"349","BS709647",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"350","BS709648",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"351","BS709649",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"352","BS709650",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"353","BS709651",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"354","BS709652",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"355","BS709653",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122734",NA,"Serum",2799
+"356","BS709654",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"357","BS709655",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122734",NA,"Serum",2799
+"358","BS709656",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"359","BS709657",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"360","BS709658",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"361","BS709659",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"362","BS709660",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"363","BS709661",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"364","BS709662",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"365","BS709663",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122735",NA,"Serum",2799
+"366","BS709664",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"367","BS709665",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122735",NA,"Serum",2799
+"368","BS709666",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"369","BS709667",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"370","BS709668",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"371","BS709669",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"372","BS709670",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"373","BS709671",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"374","BS709672",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"375","BS709673",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122735",NA,"Serum",2799
+"376","BS709674",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"377","BS709675",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122735",NA,"Serum",2799
+"378","BS709676",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"379","BS709677",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"380","BS709678",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"381","BS709679",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"382","BS709680",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"383","BS709681",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"384","BS709682",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122736",NA,"Whole blood",2799
+"385","BS709683",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"386","BS709684",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"387","BS709685",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"388","BS709686",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122736",NA,"Whole blood",2799
+"389","BS709687",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"390","BS709688",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122736",NA,"Whole blood",2799
+"391","BS709689",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"392","BS709690",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122736",NA,"Whole blood",2799
+"393","BS709691",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"394","BS709692",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122736",NA,"Whole blood",2799
+"395","BS709693",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"396","BS709694",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"397","BS709695",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"398","BS709696",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122736",NA,"Other",2799
+"399","BS709697",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"400","BS709698",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"401","BS709699",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122737",NA,"Serum",2799
+"402","BS709700",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"403","BS709701",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122737",NA,"Serum",2799
+"404","BS709702",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"405","BS709703",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"406","BS709704",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"407","BS709705",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"408","BS709706",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"409","BS709707",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"410","BS709708",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"411","BS709709",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122737",NA,"Serum",2799
+"412","BS709710",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"413","BS709711",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122737",NA,"Serum",2799
+"414","BS709712",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"415","BS709713",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"416","BS709714",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"417","BS709715",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"418","BS709716",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"419","BS709717",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"420","BS709718",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"421","BS709719",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122738",NA,"Serum",2799
+"422","BS709720",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"423","BS709721",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122738",NA,"Serum",2799
+"424","BS709722",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"425","BS709723",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"426","BS709724",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"427","BS709725",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"428","BS709726",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"429","BS709727",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"430","BS709728",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"431","BS709729",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122738",NA,"Serum",2799
+"432","BS709730",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"433","BS709731",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122738",NA,"Serum",2799
+"434","BS709732",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"435","BS709733",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"436","BS709734",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"437","BS709735",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122739",NA,"Serum",2799
+"438","BS709736",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"439","BS709737",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122739",NA,"Serum",2799
+"440","BS709738",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"441","BS709739",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"442","BS709740",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"443","BS709741",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"444","BS709742",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"445","BS709743",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"446","BS709744",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"447","BS709745",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122739",NA,"Serum",2799
+"448","BS709746",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"449","BS709747",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122739",NA,"Serum",2799
+"450","BS709748",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"451","BS709749",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"452","BS709750",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"453","BS709751",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"454","BS709752",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"455","BS709753",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"456","BS709754",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"457","BS709755",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122740",NA,"Serum",2799
+"458","BS709756",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"459","BS709757",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122740",NA,"Serum",2799
+"460","BS709758",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"461","BS709759",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"462","BS709760",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"463","BS709761",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"464","BS709762",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"465","BS709763",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"466","BS709764",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"467","BS709765",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122740",NA,"Serum",2799
+"468","BS709766",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"469","BS709767",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122740",NA,"Serum",2799
+"470","BS709768",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"471","BS709769",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"472","BS709770",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"473","BS709771",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"474","BS709772",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB133685",NA,"Other",2799
+"475","BS709773",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB133685",NA,"Other",2799
+"476","BS709774",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB133685",NA,"Other",2799
+"477","BS709775",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB133685",NA,"Other",2799
+"478","BS709776",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB133685",NA,"Whole blood",2799
+"479","BS709777",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB133685",NA,"Whole blood",2799
+"480","BS709778",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB133686",NA,"Other",2799
+"481","BS709779",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB133686",NA,"Whole blood",2799
+"482","BS709780",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB133686",NA,"Other",2799
+"483","BS709781",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB133686",NA,"Other",2799
+"484","BS709782",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB133686",NA,"Other",2799
+"485","BS709783",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB133686",NA,"Whole blood",2799
+"486","BS709784",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB133686",NA,"Other",2799
+"487","BS709785",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB133686",NA,"Whole blood",2799
+"488","BS709786",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB133686",NA,"Other",2799
+"489","BS709787",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB133686",NA,"Whole blood",2799
+"490","BS709788",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"491","BS709789",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"492","BS709790",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122741",NA,"Serum",2799
+"493","BS709791",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"494","BS709792",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122741",NA,"Serum",2799
+"495","BS709793",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"496","BS709794",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"497","BS709795",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"498","BS709796",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"499","BS709797",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"500","BS709798",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"501","BS709799",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"502","BS709800",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122741",NA,"Serum",2799
+"503","BS709801",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"504","BS709802",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122741",NA,"Serum",2799
+"505","BS709803",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"506","BS709804",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"507","BS709805",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"508","BS709806",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"509","BS709807",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"510","BS709808",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122742",NA,"Serum",2799
+"511","BS709809",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"512","BS709810",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122742",NA,"Serum",2799
+"513","BS709811",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"514","BS709812",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"515","BS709813",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"516","BS709814",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"517","BS709815",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"518","BS709816",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"519","BS709817",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"520","BS709818",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122742",NA,"Serum",2799
+"521","BS709819",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"522","BS709820",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122742",NA,"Serum",2799
+"523","BS709821",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"524","BS709822",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"525","BS709823",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"526","BS709824",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"527","BS709825",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"528","BS709826",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"529","BS709827",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122743",NA,"Serum",2799
+"530","BS709828",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"531","BS709829",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122743",NA,"Serum",2799
+"532","BS709830",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"533","BS709831",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"534","BS709832",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"535","BS709833",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"536","BS709834",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"537","BS709835",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"538","BS709836",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"539","BS709837",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122743",NA,"Serum",2799
+"540","BS709838",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"541","BS709839",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122743",NA,"Serum",2799
+"542","BS709840",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"543","BS709841",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"544","BS709842",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"545","BS709843",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"546","BS709844",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"547","BS709845",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"548","BS709846",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122744",NA,"Serum",2799
+"549","BS709847",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"550","BS709848",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122744",NA,"Serum",2799
+"551","BS709849",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"552","BS709850",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"553","BS709851",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"554","BS709852",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"555","BS709853",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"556","BS709854",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"557","BS709855",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"558","BS709856",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122744",NA,"Serum",2799
+"559","BS709857",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"560","BS709858",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122744",NA,"Serum",2799
+"561","BS709859",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"562","BS709860",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"563","BS709861",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"564","BS709862",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"565","BS709863",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122745",NA,"Serum",2799
+"566","BS709864",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"567","BS709865",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122745",NA,"Serum",2799
+"568","BS709866",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"569","BS709867",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"570","BS709868",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"571","BS709869",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"572","BS709870",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"573","BS709871",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"574","BS709872",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"575","BS709873",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122745",NA,"Serum",2799
+"576","BS709874",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"577","BS709875",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122745",NA,"Serum",2799
+"578","BS709876",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"579","BS709877",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122746",NA,"Other",2799
+"580","BS709878",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122746",NA,"Whole blood",2799
+"581","BS709879",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122746",NA,"Other",2799
+"582","BS709880",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122746",NA,"Other",2799
+"583","BS709881",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122746",NA,"Other",2799
+"584","BS709882",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122746",NA,"Whole blood",2799
+"585","BS709883",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122746",NA,"Other",2799
+"586","BS709884",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122746",NA,"Whole blood",2799
+"587","BS709885",NA,NA,"PV2858","SDY296",4,"Days","Time of enrollment",NA,"SUB122746",NA,"Other",2799
+"588","BS709886",NA,NA,"PV2858","SDY296",4,"Days","Time of enrollment",NA,"SUB122746",NA,"Whole blood",2799
+"589","BS709887",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122746",NA,"Other",2799
+"590","BS709888",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122746",NA,"Whole blood",2799
+"591","BS709889",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"592","BS709890",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"593","BS709891",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122747",NA,"Serum",2799
+"594","BS709892",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"595","BS709893",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122747",NA,"Serum",2799
+"596","BS709894",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"597","BS709895",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"598","BS709896",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"599","BS709897",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"600","BS709898",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"601","BS709899",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"602","BS709900",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"603","BS709901",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122747",NA,"Serum",2799
+"604","BS709902",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"605","BS709903",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122747",NA,"Serum",2799
+"606","BS709904",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"607","BS709905",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"608","BS709906",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"609","BS709907",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"610","BS709908",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"611","BS709909",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB133687",NA,"Other",2799
+"612","BS709910",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB133687",NA,"Whole blood",2799
+"613","BS709911",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"614","BS709912",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"615","BS709913",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122748",NA,"Serum",2799
+"616","BS709914",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"617","BS709915",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122748",NA,"Serum",2799
+"618","BS709916",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"619","BS709917",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"620","BS709918",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"621","BS709919",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"622","BS709920",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"623","BS709921",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"624","BS709922",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"625","BS709923",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122748",NA,"Serum",2799
+"626","BS709924",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"627","BS709925",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122748",NA,"Serum",2799
+"628","BS709926",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"629","BS709927",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"630","BS709928",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"631","BS709929",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"632","BS709930",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"633","BS709931",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"634","BS709932",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122749",NA,"Serum",2799
+"635","BS709933",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"636","BS709934",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122749",NA,"Serum",2799
+"637","BS709935",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"638","BS709936",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"639","BS709937",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"640","BS709938",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"641","BS709939",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"642","BS709940",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"643","BS709941",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"644","BS709942",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122749",NA,"Serum",2799
+"645","BS709943",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"646","BS709944",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122749",NA,"Serum",2799
+"647","BS709945",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"648","BS709946",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"649","BS709947",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"650","BS709948",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"651","BS709949",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"652","BS709950",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"653","BS709951",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122750",NA,"Serum",2799
+"654","BS709952",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"655","BS709953",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122750",NA,"Serum",2799
+"656","BS709954",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"657","BS709955",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"658","BS709956",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"659","BS709957",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"660","BS709958",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"661","BS709959",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"662","BS709960",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"663","BS709961",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122750",NA,"Serum",2799
+"664","BS709962",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"665","BS709963",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122750",NA,"Serum",2799
+"666","BS709964",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"667","BS709965",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"668","BS709966",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"669","BS709967",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"670","BS709968",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"671","BS709969",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122751",NA,"Serum",2799
+"672","BS709970",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"673","BS709971",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122751",NA,"Serum",2799
+"674","BS709972",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"675","BS709973",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"676","BS709974",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"677","BS709975",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"678","BS709976",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"679","BS709977",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"680","BS709978",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"681","BS709979",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122751",NA,"Serum",2799
+"682","BS709980",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"683","BS709981",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122751",NA,"Serum",2799
+"684","BS709982",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"685","BS709983",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122751",NA,"Other",2799
+"686","BS709984",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"687","BS709985",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"688","BS709986",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"689","BS709987",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122752",NA,"Serum",2799
+"690","BS709988",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"691","BS709989",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122752",NA,"Serum",2799
+"692","BS709990",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"693","BS709991",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"694","BS709992",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"695","BS709993",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"696","BS709994",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"697","BS709995",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"698","BS709996",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"699","BS709997",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122752",NA,"Serum",2799
+"700","BS709998",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"701","BS709999",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122752",NA,"Serum",2799
+"702","BS710000",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"703","BS710001",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"704","BS710002",NA,NA,"PV2861","SDY296",120,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"705","BS710003",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"706","BS710004",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"707","BS710005",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"708","BS710006",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122753",NA,"Serum",2799
+"709","BS710007",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"710","BS710008",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122753",NA,"Serum",2799
+"711","BS710009",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"712","BS710010",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"713","BS710011",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"714","BS710012",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"715","BS710013",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"716","BS710014",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"717","BS710015",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"718","BS710016",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122753",NA,"Serum",2799
+"719","BS710017",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"720","BS710018",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122753",NA,"Serum",2799
+"721","BS710019",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"722","BS710020",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"723","BS710021",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"724","BS710022",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB133688",NA,"Other",2799
+"725","BS710023",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB133688",NA,"Whole blood",2799
+"726","BS710024",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"727","BS710025",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"728","BS710026",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122754",NA,"Serum",2799
+"729","BS710027",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"730","BS710028",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122754",NA,"Serum",2799
+"731","BS710029",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"732","BS710030",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"733","BS710031",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"734","BS710032",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"735","BS710033",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"736","BS710034",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"737","BS710035",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"738","BS710036",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122754",NA,"Serum",2799
+"739","BS710037",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"740","BS710038",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122754",NA,"Serum",2799
+"741","BS710039",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"742","BS710040",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"743","BS710041",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"744","BS710042",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122755",NA,"Serum",2799
+"745","BS710043",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"746","BS710044",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122755",NA,"Serum",2799
+"747","BS710045",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"748","BS710046",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"749","BS710047",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"750","BS710048",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"751","BS710049",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"752","BS710050",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"753","BS710051",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"754","BS710052",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122755",NA,"Serum",2799
+"755","BS710053",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"756","BS710054",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122755",NA,"Serum",2799
+"757","BS710055",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"758","BS710056",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122755",NA,"Other",2799
+"759","BS710057",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"760","BS710058",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"761","BS710059",NA,NA,"PV2855","SDY296",-7,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"762","BS710060",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122756",NA,"Serum",2799
+"763","BS710061",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"764","BS710062",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122756",NA,"Serum",2799
+"765","BS710063",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"766","BS710064",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"767","BS710065",NA,NA,"PV2857","SDY296",1,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"768","BS710066",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"769","BS710067",NA,NA,"PV2858","SDY296",3,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"770","BS710068",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"771","BS710069",NA,NA,"PV2859","SDY296",7,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"772","BS710070",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122756",NA,"Serum",2799
+"773","BS710071",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"774","BS710072",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122756",NA,"Serum",2799
+"775","BS710073",NA,NA,"PV2860","SDY296",28,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"776","BS710074",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"777","BS710075",NA,NA,"PV2862","SDY296",240,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"778","BS736869",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122716",NA,"Whole blood",2799
+"779","BS736870",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122716",NA,"Whole blood",2799
+"780","BS736871",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122716",NA,"Whole blood",2799
+"781","BS736872",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122718",NA,"Whole blood",2799
+"782","BS736873",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122718",NA,"Whole blood",2799
+"783","BS736874",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122718",NA,"Whole blood",2799
+"784","BS736875",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122719",NA,"Whole blood",2799
+"785","BS736876",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122719",NA,"Whole blood",2799
+"786","BS736877",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122719",NA,"Whole blood",2799
+"787","BS736878",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122724",NA,"Whole blood",2799
+"788","BS736879",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122724",NA,"Whole blood",2799
+"789","BS736880",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122724",NA,"Whole blood",2799
+"790","BS736881",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122731",NA,"Whole blood",2799
+"791","BS736882",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122731",NA,"Whole blood",2799
+"792","BS736883",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122731",NA,"Whole blood",2799
+"793","BS736884",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122732",NA,"Whole blood",2799
+"794","BS736885",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122732",NA,"Whole blood",2799
+"795","BS736886",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122732",NA,"Whole blood",2799
+"796","BS736887",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122733",NA,"Whole blood",2799
+"797","BS736888",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122733",NA,"Whole blood",2799
+"798","BS736889",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122733",NA,"Whole blood",2799
+"799","BS736890",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122744",NA,"Whole blood",2799
+"800","BS736891",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122744",NA,"Whole blood",2799
+"801","BS736892",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122744",NA,"Whole blood",2799
+"802","BS736893",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122745",NA,"Whole blood",2799
+"803","BS736894",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122745",NA,"Whole blood",2799
+"804","BS736895",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122745",NA,"Whole blood",2799
+"805","BS736896",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122747",NA,"Whole blood",2799
+"806","BS736897",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122747",NA,"Whole blood",2799
+"807","BS736898",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122747",NA,"Whole blood",2799
+"808","BS736899",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122751",NA,"Whole blood",2799
+"809","BS736900",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122751",NA,"Whole blood",2799
+"810","BS736901",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122751",NA,"Whole blood",2799
+"811","BS736902",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122752",NA,"Whole blood",2799
+"812","BS736903",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122752",NA,"Whole blood",2799
+"813","BS736904",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122752",NA,"Whole blood",2799
+"814","BS736905",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122753",NA,"Whole blood",2799
+"815","BS736906",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122753",NA,"Whole blood",2799
+"816","BS736907",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122753",NA,"Whole blood",2799
+"817","BS736908",NA,NA,"PV2856","SDY296",0,"Days","Time of initial vaccine administration",NA,"SUB122755",NA,"Whole blood",2799
+"818","BS736909",NA,NA,"PV2857","SDY296",1,"Days","Time of initial vaccine administration",NA,"SUB122755",NA,"Whole blood",2799
+"819","BS736910",NA,NA,"PV2859","SDY296",7,"Days","Time of initial vaccine administration",NA,"SUB122755",NA,"Whole blood",2799
+"820","BS751092",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"821","BS751093",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"822","BS751094",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"823","BS751095",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122720",NA,"Whole blood",2799
+"824","BS751096",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"825","BS751097",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"826","BS751098",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122724",NA,"Whole blood",2799
+"827","BS751099",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"828","BS751100",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122726",NA,"Whole blood",2799
+"829","BS751101",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122727",NA,"Whole blood",2799
+"830","BS751102",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"831","BS751103",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"832","BS751104",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122730",NA,"Whole blood",2799
+"833","BS751105",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122732",NA,"Whole blood",2799
+"834","BS751106",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"835","BS751107",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"836","BS751108",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"837","BS751109",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"838","BS751110",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122738",NA,"Whole blood",2799
+"839","BS751111",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"840","BS751112",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"841","BS751113",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122741",NA,"Whole blood",2799
+"842","BS751114",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"843","BS751115",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"844","BS751116",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"845","BS751117",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122745",NA,"Whole blood",2799
+"846","BS751118",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"847","BS751119",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"848","BS751120",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"849","BS751121",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"850","BS751122",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122751",NA,"Whole blood",2799
+"851","BS751123",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"852","BS751124",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"853","BS751125",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122754",NA,"Whole blood",2799
+"854","BS751126",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122755",NA,"Whole blood",2799
+"855","BS751127",NA,NA,"PV2856","SDY296",0,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799

@@ -1,0 +1,721 @@
+"","RESULT_ID","ARM_ACCESSION","BIOSAMPLE_ACCESSION","COMMENTS","EXPERIMENT_ACCESSION","EXPSAMPLE_ACCESSION","REPOSITORY_ACCESSION","REPOSITORY_NAME","STUDY_ACCESSION","STUDY_TIME_COLLECTED","STUDY_TIME_COLLECTED_UNIT","SUBJECT_ACCESSION","UNIT_PREFERRED","UNIT_REPORTED","VALUE_PREFERRED","VALUE_REPORTED","VIRUS_STRAIN_PREFERRED","VIRUS_STRAIN_REPORTED","WORKSPACE_ID"
+"1",9167,"ARM2107","BS712296",NA,"EXP13596","ES769833",NA,NA,"SDY301",0,"Days","SUB122716","Antibody titer","Antibody titer",10,10,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"2",9168,"ARM2107","BS712296",NA,"EXP13596","ES769834",NA,NA,"SDY301",0,"Days","SUB122716","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"3",9169,"ARM2107","BS712296",NA,"EXP13596","ES769835",NA,NA,"SDY301",0,"Days","SUB122716","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"4",9170,"ARM2107","BS712310",NA,"EXP13596","ES769836",NA,NA,"SDY301",0,"Days","SUB122718","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"5",9171,"ARM2107","BS712310",NA,"EXP13596","ES769837",NA,NA,"SDY301",0,"Days","SUB122718","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"6",9172,"ARM2107","BS712310",NA,"EXP13596","ES769838",NA,NA,"SDY301",0,"Days","SUB122718","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"7",9173,"ARM2107","BS712324",NA,"EXP13596","ES769839",NA,NA,"SDY301",0,"Days","SUB122719","Antibody titer","Antibody titer",10,10,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"8",9174,"ARM2107","BS712324",NA,"EXP13596","ES769840",NA,NA,"SDY301",0,"Days","SUB122719","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"9",9175,"ARM2107","BS712324",NA,"EXP13596","ES769841",NA,NA,"SDY301",0,"Days","SUB122719","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"10",9176,"ARM2107","BS712338",NA,"EXP13596","ES769842",NA,NA,"SDY301",0,"Days","SUB122722","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"11",9177,"ARM2107","BS712338",NA,"EXP13596","ES769843",NA,NA,"SDY301",0,"Days","SUB122722","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"12",9178,"ARM2107","BS712338",NA,"EXP13596","ES769844",NA,NA,"SDY301",0,"Days","SUB122722","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"13",9179,"ARM2107","BS712352",NA,"EXP13596","ES769845",NA,NA,"SDY301",0,"Days","SUB122723","Antibody titer","Antibody titer",1280,1280,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"14",9180,"ARM2107","BS712352",NA,"EXP13596","ES769846",NA,NA,"SDY301",0,"Days","SUB122723","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"15",9181,"ARM2107","BS712352",NA,"EXP13596","ES769847",NA,NA,"SDY301",0,"Days","SUB122723","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"16",9182,"ARM2107","BS712366",NA,"EXP13596","ES769848",NA,NA,"SDY301",0,"Days","SUB122724","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"17",9183,"ARM2107","BS712366",NA,"EXP13596","ES769849",NA,NA,"SDY301",0,"Days","SUB122724","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"18",9184,"ARM2107","BS712366",NA,"EXP13596","ES769850",NA,NA,"SDY301",0,"Days","SUB122724","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"19",9185,"ARM2107","BS712380",NA,"EXP13596","ES769851",NA,NA,"SDY301",0,"Days","SUB122725","Antibody titer","Antibody titer",1280,1280,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"20",9186,"ARM2107","BS712380",NA,"EXP13596","ES769852",NA,NA,"SDY301",0,"Days","SUB122725","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"21",9187,"ARM2107","BS712380",NA,"EXP13596","ES769853",NA,NA,"SDY301",0,"Days","SUB122725","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"22",9188,"ARM2107","BS712394",NA,"EXP13596","ES769854",NA,NA,"SDY301",0,"Days","SUB122728","Antibody titer","Antibody titer",1280,1280,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"23",9189,"ARM2107","BS712394",NA,"EXP13596","ES769855",NA,NA,"SDY301",0,"Days","SUB122728","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"24",9190,"ARM2107","BS712394",NA,"EXP13596","ES769856",NA,NA,"SDY301",0,"Days","SUB122728","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"25",9191,"ARM2107","BS712408",NA,"EXP13596","ES769857",NA,NA,"SDY301",0,"Days","SUB122729","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"26",9192,"ARM2107","BS712408",NA,"EXP13596","ES769858",NA,NA,"SDY301",0,"Days","SUB122729","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"27",9193,"ARM2107","BS712408",NA,"EXP13596","ES769859",NA,NA,"SDY301",0,"Days","SUB122729","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"28",9194,"ARM2107","BS712422",NA,"EXP13596","ES769860",NA,NA,"SDY301",0,"Days","SUB122732","Antibody titer","Antibody titer",10,10,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"29",9195,"ARM2107","BS712422",NA,"EXP13596","ES769861",NA,NA,"SDY301",0,"Days","SUB122732","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"30",9196,"ARM2107","BS712422",NA,"EXP13596","ES769862",NA,NA,"SDY301",0,"Days","SUB122732","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"31",9197,"ARM2107","BS712435",NA,"EXP13596","ES769863",NA,NA,"SDY301",0,"Days","SUB122733","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"32",9198,"ARM2107","BS712435",NA,"EXP13596","ES769864",NA,NA,"SDY301",0,"Days","SUB122733","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"33",9199,"ARM2107","BS712435",NA,"EXP13596","ES769865",NA,NA,"SDY301",0,"Days","SUB122733","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"34",9200,"ARM2107","BS712449",NA,"EXP13596","ES769866",NA,NA,"SDY301",0,"Days","SUB122734","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"35",9201,"ARM2107","BS712449",NA,"EXP13596","ES769867",NA,NA,"SDY301",0,"Days","SUB122734","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"36",9202,"ARM2107","BS712449",NA,"EXP13596","ES769868",NA,NA,"SDY301",0,"Days","SUB122734","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"37",9203,"ARM2107","BS712463",NA,"EXP13596","ES769869",NA,NA,"SDY301",0,"Days","SUB122735","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"38",9204,"ARM2107","BS712463",NA,"EXP13596","ES769870",NA,NA,"SDY301",0,"Days","SUB122735","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"39",9205,"ARM2107","BS712463",NA,"EXP13596","ES769871",NA,NA,"SDY301",0,"Days","SUB122735","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"40",9206,"ARM2107","BS712477",NA,"EXP13596","ES769872",NA,NA,"SDY301",0,"Days","SUB122737","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"41",9207,"ARM2107","BS712477",NA,"EXP13596","ES769873",NA,NA,"SDY301",0,"Days","SUB122737","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"42",9208,"ARM2107","BS712477",NA,"EXP13596","ES769874",NA,NA,"SDY301",0,"Days","SUB122737","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"43",9209,"ARM2107","BS712491",NA,"EXP13596","ES769875",NA,NA,"SDY301",0,"Days","SUB122739","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"44",9210,"ARM2107","BS712491",NA,"EXP13596","ES769876",NA,NA,"SDY301",0,"Days","SUB122739","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"45",9211,"ARM2107","BS712491",NA,"EXP13596","ES769877",NA,NA,"SDY301",0,"Days","SUB122739","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"46",9212,"ARM2107","BS712505",NA,"EXP13596","ES769878",NA,NA,"SDY301",0,"Days","SUB122740","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"47",9213,"ARM2107","BS712505",NA,"EXP13596","ES769879",NA,NA,"SDY301",0,"Days","SUB122740","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"48",9214,"ARM2107","BS712505",NA,"EXP13596","ES769880",NA,NA,"SDY301",0,"Days","SUB122740","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"49",9215,"ARM2107","BS712519",NA,"EXP13596","ES769881",NA,NA,"SDY301",0,"Days","SUB122742","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"50",9216,"ARM2107","BS712519",NA,"EXP13596","ES769882",NA,NA,"SDY301",0,"Days","SUB122742","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"51",9217,"ARM2107","BS712519",NA,"EXP13596","ES769883",NA,NA,"SDY301",0,"Days","SUB122742","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"52",9218,"ARM2107","BS712533",NA,"EXP13596","ES769884",NA,NA,"SDY301",0,"Days","SUB122743","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"53",9219,"ARM2107","BS712533",NA,"EXP13596","ES769885",NA,NA,"SDY301",0,"Days","SUB122743","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"54",9220,"ARM2107","BS712533",NA,"EXP13596","ES769886",NA,NA,"SDY301",0,"Days","SUB122743","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"55",9221,"ARM2107","BS712547",NA,"EXP13596","ES769887",NA,NA,"SDY301",0,"Days","SUB122744","Antibody titer","Antibody titer",10,10,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"56",9222,"ARM2107","BS712547",NA,"EXP13596","ES769888",NA,NA,"SDY301",0,"Days","SUB122744","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"57",9223,"ARM2107","BS712547",NA,"EXP13596","ES769889",NA,NA,"SDY301",0,"Days","SUB122744","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"58",9224,"ARM2107","BS712561",NA,"EXP13596","ES769890",NA,NA,"SDY301",0,"Days","SUB122747","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"59",9225,"ARM2107","BS712561",NA,"EXP13596","ES769891",NA,NA,"SDY301",0,"Days","SUB122747","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"60",9226,"ARM2107","BS712561",NA,"EXP13596","ES769892",NA,NA,"SDY301",0,"Days","SUB122747","Antibody titer","Antibody titer",10,10,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"61",9227,"ARM2107","BS712575",NA,"EXP13596","ES769893",NA,NA,"SDY301",0,"Days","SUB122748","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"62",9228,"ARM2107","BS712575",NA,"EXP13596","ES769894",NA,NA,"SDY301",0,"Days","SUB122748","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"63",9229,"ARM2107","BS712575",NA,"EXP13596","ES769895",NA,NA,"SDY301",0,"Days","SUB122748","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"64",9230,"ARM2107","BS712589",NA,"EXP13596","ES769896",NA,NA,"SDY301",0,"Days","SUB122749","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"65",9231,"ARM2107","BS712589",NA,"EXP13596","ES769897",NA,NA,"SDY301",0,"Days","SUB122749","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"66",9232,"ARM2107","BS712589",NA,"EXP13596","ES769898",NA,NA,"SDY301",0,"Days","SUB122749","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"67",9233,"ARM2107","BS712603",NA,"EXP13596","ES769899",NA,NA,"SDY301",0,"Days","SUB122750","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"68",9234,"ARM2107","BS712603",NA,"EXP13596","ES769900",NA,NA,"SDY301",0,"Days","SUB122750","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"69",9235,"ARM2107","BS712603",NA,"EXP13596","ES769901",NA,NA,"SDY301",0,"Days","SUB122750","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"70",9236,"ARM2107","BS712617",NA,"EXP13596","ES769902",NA,NA,"SDY301",0,"Days","SUB122752","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"71",9237,"ARM2107","BS712617",NA,"EXP13596","ES769903",NA,NA,"SDY301",0,"Days","SUB122752","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"72",9238,"ARM2107","BS712617",NA,"EXP13596","ES769904",NA,NA,"SDY301",0,"Days","SUB122752","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"73",9239,"ARM2107","BS712631",NA,"EXP13596","ES769905",NA,NA,"SDY301",0,"Days","SUB122753","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"74",9240,"ARM2107","BS712631",NA,"EXP13596","ES769906",NA,NA,"SDY301",0,"Days","SUB122753","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"75",9241,"ARM2107","BS712631",NA,"EXP13596","ES769907",NA,NA,"SDY301",0,"Days","SUB122753","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"76",9242,"ARM2107","BS712645",NA,"EXP13596","ES769908",NA,NA,"SDY301",0,"Days","SUB122756","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"77",9243,"ARM2107","BS712645",NA,"EXP13596","ES769909",NA,NA,"SDY301",0,"Days","SUB122756","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"78",9244,"ARM2107","BS712645",NA,"EXP13596","ES769910",NA,NA,"SDY301",0,"Days","SUB122756","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"79",9245,"ARM2107","BS712292",NA,"EXP13596","ES769911",NA,NA,"SDY301",28,"Days","SUB122716","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"80",9246,"ARM2107","BS712292",NA,"EXP13596","ES769912",NA,NA,"SDY301",28,"Days","SUB122716","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"81",9247,"ARM2107","BS712292",NA,"EXP13596","ES769913",NA,NA,"SDY301",28,"Days","SUB122716","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"82",9248,"ARM2107","BS712306",NA,"EXP13596","ES769914",NA,NA,"SDY301",28,"Days","SUB122718","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"83",9249,"ARM2107","BS712306",NA,"EXP13596","ES769915",NA,NA,"SDY301",28,"Days","SUB122718","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"84",9250,"ARM2107","BS712306",NA,"EXP13596","ES769916",NA,NA,"SDY301",28,"Days","SUB122718","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"85",9251,"ARM2107","BS712320",NA,"EXP13596","ES769917",NA,NA,"SDY301",28,"Days","SUB122719","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"86",9252,"ARM2107","BS712320",NA,"EXP13596","ES769918",NA,NA,"SDY301",28,"Days","SUB122719","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"87",9253,"ARM2107","BS712320",NA,"EXP13596","ES769919",NA,NA,"SDY301",28,"Days","SUB122719","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"88",9254,"ARM2107","BS712334",NA,"EXP13596","ES769920",NA,NA,"SDY301",28,"Days","SUB122722","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"89",9255,"ARM2107","BS712334",NA,"EXP13596","ES769921",NA,NA,"SDY301",28,"Days","SUB122722","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"90",9256,"ARM2107","BS712334",NA,"EXP13596","ES769922",NA,NA,"SDY301",28,"Days","SUB122722","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"91",9257,"ARM2107","BS712348",NA,"EXP13596","ES769923",NA,NA,"SDY301",28,"Days","SUB122723","Antibody titer","Antibody titer",1280,1280,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"92",9258,"ARM2107","BS712348",NA,"EXP13596","ES769924",NA,NA,"SDY301",28,"Days","SUB122723","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"93",9259,"ARM2107","BS712348",NA,"EXP13596","ES769925",NA,NA,"SDY301",28,"Days","SUB122723","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"94",9260,"ARM2107","BS712362",NA,"EXP13596","ES769926",NA,NA,"SDY301",28,"Days","SUB122724","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"95",9261,"ARM2107","BS712362",NA,"EXP13596","ES769927",NA,NA,"SDY301",28,"Days","SUB122724","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"96",9262,"ARM2107","BS712362",NA,"EXP13596","ES769928",NA,NA,"SDY301",28,"Days","SUB122724","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"97",9263,"ARM2107","BS712376",NA,"EXP13596","ES769929",NA,NA,"SDY301",28,"Days","SUB122725","Antibody titer","Antibody titer",1280,1280,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"98",9264,"ARM2107","BS712376",NA,"EXP13596","ES769930",NA,NA,"SDY301",28,"Days","SUB122725","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"99",9265,"ARM2107","BS712376",NA,"EXP13596","ES769931",NA,NA,"SDY301",28,"Days","SUB122725","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"100",9266,"ARM2107","BS712390",NA,"EXP13596","ES769932",NA,NA,"SDY301",28,"Days","SUB122728","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"101",9267,"ARM2107","BS712390",NA,"EXP13596","ES769933",NA,NA,"SDY301",28,"Days","SUB122728","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"102",9268,"ARM2107","BS712390",NA,"EXP13596","ES769934",NA,NA,"SDY301",28,"Days","SUB122728","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"103",9269,"ARM2107","BS712404",NA,"EXP13596","ES769935",NA,NA,"SDY301",28,"Days","SUB122729","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"104",9270,"ARM2107","BS712404",NA,"EXP13596","ES769936",NA,NA,"SDY301",28,"Days","SUB122729","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"105",9271,"ARM2107","BS712404",NA,"EXP13596","ES769937",NA,NA,"SDY301",28,"Days","SUB122729","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"106",9272,"ARM2107","BS712418",NA,"EXP13596","ES769938",NA,NA,"SDY301",28,"Days","SUB122732","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"107",9273,"ARM2107","BS712418",NA,"EXP13596","ES769939",NA,NA,"SDY301",28,"Days","SUB122732","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"108",9274,"ARM2107","BS712418",NA,"EXP13596","ES769940",NA,NA,"SDY301",28,"Days","SUB122732","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"109",9275,"ARM2107","BS712431",NA,"EXP13596","ES769941",NA,NA,"SDY301",28,"Days","SUB122733","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"110",9276,"ARM2107","BS712431",NA,"EXP13596","ES769942",NA,NA,"SDY301",28,"Days","SUB122733","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"111",9277,"ARM2107","BS712431",NA,"EXP13596","ES769943",NA,NA,"SDY301",28,"Days","SUB122733","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"112",9278,"ARM2107","BS712445",NA,"EXP13596","ES769944",NA,NA,"SDY301",28,"Days","SUB122734","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"113",9279,"ARM2107","BS712445",NA,"EXP13596","ES769945",NA,NA,"SDY301",28,"Days","SUB122734","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"114",9280,"ARM2107","BS712445",NA,"EXP13596","ES769946",NA,NA,"SDY301",28,"Days","SUB122734","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"115",9281,"ARM2107","BS712459",NA,"EXP13596","ES769947",NA,NA,"SDY301",28,"Days","SUB122735","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"116",9282,"ARM2107","BS712459",NA,"EXP13596","ES769948",NA,NA,"SDY301",28,"Days","SUB122735","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"117",9283,"ARM2107","BS712459",NA,"EXP13596","ES769949",NA,NA,"SDY301",28,"Days","SUB122735","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"118",9284,"ARM2107","BS712473",NA,"EXP13596","ES769950",NA,NA,"SDY301",28,"Days","SUB122737","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"119",9285,"ARM2107","BS712473",NA,"EXP13596","ES769951",NA,NA,"SDY301",28,"Days","SUB122737","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"120",9286,"ARM2107","BS712473",NA,"EXP13596","ES769952",NA,NA,"SDY301",28,"Days","SUB122737","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"121",9287,"ARM2107","BS712487",NA,"EXP13596","ES769953",NA,NA,"SDY301",28,"Days","SUB122739","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"122",9288,"ARM2107","BS712487",NA,"EXP13596","ES769954",NA,NA,"SDY301",28,"Days","SUB122739","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"123",9289,"ARM2107","BS712487",NA,"EXP13596","ES769955",NA,NA,"SDY301",28,"Days","SUB122739","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"124",9290,"ARM2107","BS712501",NA,"EXP13596","ES769956",NA,NA,"SDY301",28,"Days","SUB122740","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"125",9291,"ARM2107","BS712501",NA,"EXP13596","ES769957",NA,NA,"SDY301",28,"Days","SUB122740","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"126",9292,"ARM2107","BS712501",NA,"EXP13596","ES769958",NA,NA,"SDY301",28,"Days","SUB122740","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"127",9293,"ARM2107","BS712515",NA,"EXP13596","ES769959",NA,NA,"SDY301",28,"Days","SUB122742","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"128",9294,"ARM2107","BS712515",NA,"EXP13596","ES769960",NA,NA,"SDY301",28,"Days","SUB122742","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"129",9295,"ARM2107","BS712515",NA,"EXP13596","ES769961",NA,NA,"SDY301",28,"Days","SUB122742","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"130",9296,"ARM2107","BS712529",NA,"EXP13596","ES769962",NA,NA,"SDY301",28,"Days","SUB122743","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"131",9297,"ARM2107","BS712529",NA,"EXP13596","ES769963",NA,NA,"SDY301",28,"Days","SUB122743","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"132",9298,"ARM2107","BS712529",NA,"EXP13596","ES769964",NA,NA,"SDY301",28,"Days","SUB122743","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"133",9299,"ARM2107","BS712543",NA,"EXP13596","ES769965",NA,NA,"SDY301",28,"Days","SUB122744","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"134",9300,"ARM2107","BS712543",NA,"EXP13596","ES769966",NA,NA,"SDY301",28,"Days","SUB122744","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"135",9301,"ARM2107","BS712543",NA,"EXP13596","ES769967",NA,NA,"SDY301",28,"Days","SUB122744","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"136",9302,"ARM2107","BS712557",NA,"EXP13596","ES769968",NA,NA,"SDY301",28,"Days","SUB122747","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"137",9303,"ARM2107","BS712557",NA,"EXP13596","ES769969",NA,NA,"SDY301",28,"Days","SUB122747","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"138",9304,"ARM2107","BS712557",NA,"EXP13596","ES769970",NA,NA,"SDY301",28,"Days","SUB122747","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"139",9305,"ARM2107","BS712571",NA,"EXP13596","ES769971",NA,NA,"SDY301",28,"Days","SUB122748","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"140",9306,"ARM2107","BS712571",NA,"EXP13596","ES769972",NA,NA,"SDY301",28,"Days","SUB122748","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"141",9307,"ARM2107","BS712571",NA,"EXP13596","ES769973",NA,NA,"SDY301",28,"Days","SUB122748","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"142",9308,"ARM2107","BS712585",NA,"EXP13596","ES769974",NA,NA,"SDY301",28,"Days","SUB122749","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"143",9309,"ARM2107","BS712585",NA,"EXP13596","ES769975",NA,NA,"SDY301",28,"Days","SUB122749","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"144",9310,"ARM2107","BS712585",NA,"EXP13596","ES769976",NA,NA,"SDY301",28,"Days","SUB122749","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"145",9311,"ARM2107","BS712599",NA,"EXP13596","ES769977",NA,NA,"SDY301",28,"Days","SUB122750","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"146",9312,"ARM2107","BS712599",NA,"EXP13596","ES769978",NA,NA,"SDY301",28,"Days","SUB122750","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"147",9313,"ARM2107","BS712599",NA,"EXP13596","ES769979",NA,NA,"SDY301",28,"Days","SUB122750","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"148",9314,"ARM2107","BS712613",NA,"EXP13596","ES769980",NA,NA,"SDY301",28,"Days","SUB122752","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"149",9315,"ARM2107","BS712613",NA,"EXP13596","ES769981",NA,NA,"SDY301",28,"Days","SUB122752","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"150",9316,"ARM2107","BS712613",NA,"EXP13596","ES769982",NA,NA,"SDY301",28,"Days","SUB122752","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"151",9317,"ARM2107","BS712627",NA,"EXP13596","ES769983",NA,NA,"SDY301",28,"Days","SUB122753","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"152",9318,"ARM2107","BS712627",NA,"EXP13596","ES769984",NA,NA,"SDY301",28,"Days","SUB122753","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"153",9319,"ARM2107","BS712627",NA,"EXP13596","ES769985",NA,NA,"SDY301",28,"Days","SUB122753","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"154",9320,"ARM2107","BS712641",NA,"EXP13596","ES769986",NA,NA,"SDY301",28,"Days","SUB122756","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"155",9321,"ARM2107","BS712641",NA,"EXP13596","ES769987",NA,NA,"SDY301",28,"Days","SUB122756","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"156",9322,"ARM2107","BS712641",NA,"EXP13596","ES769988",NA,NA,"SDY301",28,"Days","SUB122756","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"157",9323,"ARM2107","BS712651",NA,"EXP13596","ES769989",NA,NA,"SDY301",0,"Days","SUB133802","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"158",9324,"ARM2107","BS712651",NA,"EXP13596","ES769990",NA,NA,"SDY301",0,"Days","SUB133802","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"159",9325,"ARM2107","BS712651",NA,"EXP13596","ES769991",NA,NA,"SDY301",0,"Days","SUB133802","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"160",9326,"ARM2107","BS712667",NA,"EXP13596","ES769992",NA,NA,"SDY301",0,"Days","SUB133803","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"161",9327,"ARM2107","BS712667",NA,"EXP13596","ES769993",NA,NA,"SDY301",0,"Days","SUB133803","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"162",9328,"ARM2107","BS712667",NA,"EXP13596","ES769994",NA,NA,"SDY301",0,"Days","SUB133803","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"163",9329,"ARM2107","BS712683",NA,"EXP13596","ES769995",NA,NA,"SDY301",0,"Days","SUB133804","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"164",9330,"ARM2107","BS712683",NA,"EXP13596","ES769996",NA,NA,"SDY301",0,"Days","SUB133804","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"165",9331,"ARM2107","BS712683",NA,"EXP13596","ES769997",NA,NA,"SDY301",0,"Days","SUB133804","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"166",9332,"ARM2107","BS712699",NA,"EXP13596","ES769998",NA,NA,"SDY301",0,"Days","SUB133805","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"167",9333,"ARM2107","BS712699",NA,"EXP13596","ES769999",NA,NA,"SDY301",0,"Days","SUB133805","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"168",9334,"ARM2107","BS712699",NA,"EXP13596","ES770000",NA,NA,"SDY301",0,"Days","SUB133805","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"169",9335,"ARM2107","BS712715",NA,"EXP13596","ES770001",NA,NA,"SDY301",0,"Days","SUB133806","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"170",9336,"ARM2107","BS712715",NA,"EXP13596","ES770002",NA,NA,"SDY301",0,"Days","SUB133806","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"171",9337,"ARM2107","BS712715",NA,"EXP13596","ES770003",NA,NA,"SDY301",0,"Days","SUB133806","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"172",9338,"ARM2107","BS712731",NA,"EXP13596","ES770004",NA,NA,"SDY301",0,"Days","SUB133807","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"173",9339,"ARM2107","BS712731",NA,"EXP13596","ES770005",NA,NA,"SDY301",0,"Days","SUB133807","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"174",9340,"ARM2107","BS712731",NA,"EXP13596","ES770006",NA,NA,"SDY301",0,"Days","SUB133807","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"175",9341,"ARM2107","BS712747",NA,"EXP13596","ES770007",NA,NA,"SDY301",0,"Days","SUB133808","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"176",9342,"ARM2107","BS712747",NA,"EXP13596","ES770008",NA,NA,"SDY301",0,"Days","SUB133808","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"177",9343,"ARM2107","BS712747",NA,"EXP13596","ES770009",NA,NA,"SDY301",0,"Days","SUB133808","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"178",9344,"ARM2107","BS712763",NA,"EXP13596","ES770010",NA,NA,"SDY301",0,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"179",9345,"ARM2107","BS712763",NA,"EXP13596","ES770011",NA,NA,"SDY301",0,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"180",9346,"ARM2107","BS712763",NA,"EXP13596","ES770012",NA,NA,"SDY301",0,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"181",9347,"ARM2107","BS712779",NA,"EXP13596","ES770013",NA,NA,"SDY301",0,"Days","SUB133810","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"182",9348,"ARM2107","BS712779",NA,"EXP13596","ES770014",NA,NA,"SDY301",0,"Days","SUB133810","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"183",9349,"ARM2107","BS712779",NA,"EXP13596","ES770015",NA,NA,"SDY301",0,"Days","SUB133810","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"184",9350,"ARM2107","BS712795",NA,"EXP13596","ES770016",NA,NA,"SDY301",0,"Days","SUB133811","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"185",9351,"ARM2107","BS712795",NA,"EXP13596","ES770017",NA,NA,"SDY301",0,"Days","SUB133811","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"186",9352,"ARM2107","BS712795",NA,"EXP13596","ES770018",NA,NA,"SDY301",0,"Days","SUB133811","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"187",9353,"ARM2107","BS712811",NA,"EXP13596","ES770019",NA,NA,"SDY301",0,"Days","SUB133812","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"188",9354,"ARM2107","BS712811",NA,"EXP13596","ES770020",NA,NA,"SDY301",0,"Days","SUB133812","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"189",9355,"ARM2107","BS712811",NA,"EXP13596","ES770021",NA,NA,"SDY301",0,"Days","SUB133812","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"190",9356,"ARM2107","BS712827",NA,"EXP13596","ES770022",NA,NA,"SDY301",0,"Days","SUB133813","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"191",9357,"ARM2107","BS712827",NA,"EXP13596","ES770023",NA,NA,"SDY301",0,"Days","SUB133813","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"192",9358,"ARM2107","BS712827",NA,"EXP13596","ES770024",NA,NA,"SDY301",0,"Days","SUB133813","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"193",9359,"ARM2107","BS712843",NA,"EXP13596","ES770025",NA,NA,"SDY301",0,"Days","SUB133814","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"194",9360,"ARM2107","BS712843",NA,"EXP13596","ES770026",NA,NA,"SDY301",0,"Days","SUB133814","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"195",9361,"ARM2107","BS712843",NA,"EXP13596","ES770027",NA,NA,"SDY301",0,"Days","SUB133814","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"196",9362,"ARM2107","BS712859",NA,"EXP13596","ES770028",NA,NA,"SDY301",0,"Days","SUB133815","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"197",9363,"ARM2107","BS712859",NA,"EXP13596","ES770029",NA,NA,"SDY301",0,"Days","SUB133815","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"198",9364,"ARM2107","BS712859",NA,"EXP13596","ES770030",NA,NA,"SDY301",0,"Days","SUB133815","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"199",9365,"ARM2107","BS712661",NA,"EXP13596","ES770031",NA,NA,"SDY301",28,"Days","SUB133802","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"200",9366,"ARM2107","BS712661",NA,"EXP13596","ES770032",NA,NA,"SDY301",28,"Days","SUB133802","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"201",9367,"ARM2107","BS712661",NA,"EXP13596","ES770033",NA,NA,"SDY301",28,"Days","SUB133802","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"202",9368,"ARM2107","BS712677",NA,"EXP13596","ES770034",NA,NA,"SDY301",28,"Days","SUB133803","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"203",9369,"ARM2107","BS712677",NA,"EXP13596","ES770035",NA,NA,"SDY301",28,"Days","SUB133803","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"204",9370,"ARM2107","BS712677",NA,"EXP13596","ES770036",NA,NA,"SDY301",28,"Days","SUB133803","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"205",9371,"ARM2107","BS712693",NA,"EXP13596","ES770037",NA,NA,"SDY301",28,"Days","SUB133804","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"206",9372,"ARM2107","BS712693",NA,"EXP13596","ES770038",NA,NA,"SDY301",28,"Days","SUB133804","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"207",9373,"ARM2107","BS712693",NA,"EXP13596","ES770039",NA,NA,"SDY301",28,"Days","SUB133804","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"208",9374,"ARM2107","BS712709",NA,"EXP13596","ES770040",NA,NA,"SDY301",28,"Days","SUB133805","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"209",9375,"ARM2107","BS712709",NA,"EXP13596","ES770041",NA,NA,"SDY301",28,"Days","SUB133805","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"210",9376,"ARM2107","BS712709",NA,"EXP13596","ES770042",NA,NA,"SDY301",28,"Days","SUB133805","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"211",9377,"ARM2107","BS712725",NA,"EXP13596","ES770043",NA,NA,"SDY301",28,"Days","SUB133806","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"212",9378,"ARM2107","BS712725",NA,"EXP13596","ES770044",NA,NA,"SDY301",28,"Days","SUB133806","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"213",9379,"ARM2107","BS712725",NA,"EXP13596","ES770045",NA,NA,"SDY301",28,"Days","SUB133806","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"214",9380,"ARM2107","BS712741",NA,"EXP13596","ES770046",NA,NA,"SDY301",28,"Days","SUB133807","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"215",9381,"ARM2107","BS712741",NA,"EXP13596","ES770047",NA,NA,"SDY301",28,"Days","SUB133807","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"216",9382,"ARM2107","BS712741",NA,"EXP13596","ES770048",NA,NA,"SDY301",28,"Days","SUB133807","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"217",9383,"ARM2107","BS712757",NA,"EXP13596","ES770049",NA,NA,"SDY301",28,"Days","SUB133808","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"218",9384,"ARM2107","BS712757",NA,"EXP13596","ES770050",NA,NA,"SDY301",28,"Days","SUB133808","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"219",9385,"ARM2107","BS712757",NA,"EXP13596","ES770051",NA,NA,"SDY301",28,"Days","SUB133808","Antibody titer","Antibody titer",40,40,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"220",9386,"ARM2107","BS712773",NA,"EXP13596","ES770052",NA,NA,"SDY301",28,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"221",9387,"ARM2107","BS712773",NA,"EXP13596","ES770053",NA,NA,"SDY301",28,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"222",9388,"ARM2107","BS712773",NA,"EXP13596","ES770054",NA,NA,"SDY301",28,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"223",9389,"ARM2107","BS712789",NA,"EXP13596","ES770055",NA,NA,"SDY301",28,"Days","SUB133810","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"224",9390,"ARM2107","BS712789",NA,"EXP13596","ES770056",NA,NA,"SDY301",28,"Days","SUB133810","Antibody titer","Antibody titer",1280,1280,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"225",9391,"ARM2107","BS712789",NA,"EXP13596","ES770057",NA,NA,"SDY301",28,"Days","SUB133810","Antibody titer","Antibody titer",1280,1280,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"226",9392,"ARM2107","BS712805",NA,"EXP13596","ES770058",NA,NA,"SDY301",28,"Days","SUB133811","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"227",9393,"ARM2107","BS712805",NA,"EXP13596","ES770059",NA,NA,"SDY301",28,"Days","SUB133811","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"228",9394,"ARM2107","BS712805",NA,"EXP13596","ES770060",NA,NA,"SDY301",28,"Days","SUB133811","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"229",9395,"ARM2107","BS712821",NA,"EXP13596","ES770061",NA,NA,"SDY301",28,"Days","SUB133812","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"230",9396,"ARM2107","BS712821",NA,"EXP13596","ES770062",NA,NA,"SDY301",28,"Days","SUB133812","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"231",9397,"ARM2107","BS712821",NA,"EXP13596","ES770063",NA,NA,"SDY301",28,"Days","SUB133812","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"232",9398,"ARM2107","BS712837",NA,"EXP13596","ES770064",NA,NA,"SDY301",28,"Days","SUB133813","Antibody titer","Antibody titer",20,20,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"233",9399,"ARM2107","BS712837",NA,"EXP13596","ES770065",NA,NA,"SDY301",28,"Days","SUB133813","Antibody titer","Antibody titer",160,160,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"234",9400,"ARM2107","BS712837",NA,"EXP13596","ES770066",NA,NA,"SDY301",28,"Days","SUB133813","Antibody titer","Antibody titer",80,80,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"235",9401,"ARM2107","BS712853",NA,"EXP13596","ES770067",NA,NA,"SDY301",28,"Days","SUB133814","Antibody titer","Antibody titer",1280,1280,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"236",9402,"ARM2107","BS712853",NA,"EXP13596","ES770068",NA,NA,"SDY301",28,"Days","SUB133814","Antibody titer","Antibody titer",2560,2560,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"237",9403,"ARM2107","BS712853",NA,"EXP13596","ES770069",NA,NA,"SDY301",28,"Days","SUB133814","Antibody titer","Antibody titer",2560,2560,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"238",9404,"ARM2107","BS712869",NA,"EXP13596","ES770070",NA,NA,"SDY301",28,"Days","SUB133815","Antibody titer","Antibody titer",320,320,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"239",9405,"ARM2107","BS712869",NA,"EXP13596","ES770071",NA,NA,"SDY301",28,"Days","SUB133815","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"240",9406,"ARM2107","BS712869",NA,"EXP13596","ES770072",NA,NA,"SDY301",28,"Days","SUB133815","Antibody titer","Antibody titer",640,640,"A/California/7/2009","A/California/7/2009 H1N1",2799
+"241",9407,"ARM2107","BS712296",NA,"EXP13596","ES769833",NA,NA,"SDY301",0,"Days","SUB122716","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"242",9408,"ARM2107","BS712296",NA,"EXP13596","ES769834",NA,NA,"SDY301",0,"Days","SUB122716","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"243",9409,"ARM2107","BS712296",NA,"EXP13596","ES769835",NA,NA,"SDY301",0,"Days","SUB122716","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"244",9410,"ARM2107","BS712310",NA,"EXP13596","ES769836",NA,NA,"SDY301",0,"Days","SUB122718","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"245",9411,"ARM2107","BS712310",NA,"EXP13596","ES769837",NA,NA,"SDY301",0,"Days","SUB122718","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"246",9412,"ARM2107","BS712310",NA,"EXP13596","ES769838",NA,NA,"SDY301",0,"Days","SUB122718","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"247",9413,"ARM2107","BS712324",NA,"EXP13596","ES769839",NA,NA,"SDY301",0,"Days","SUB122719","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"248",9414,"ARM2107","BS712324",NA,"EXP13596","ES769840",NA,NA,"SDY301",0,"Days","SUB122719","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"249",9415,"ARM2107","BS712324",NA,"EXP13596","ES769841",NA,NA,"SDY301",0,"Days","SUB122719","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"250",9416,"ARM2107","BS712338",NA,"EXP13596","ES769842",NA,NA,"SDY301",0,"Days","SUB122722","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"251",9417,"ARM2107","BS712338",NA,"EXP13596","ES769843",NA,NA,"SDY301",0,"Days","SUB122722","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"252",9418,"ARM2107","BS712338",NA,"EXP13596","ES769844",NA,NA,"SDY301",0,"Days","SUB122722","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"253",9419,"ARM2107","BS712352",NA,"EXP13596","ES769845",NA,NA,"SDY301",0,"Days","SUB122723","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"254",9420,"ARM2107","BS712352",NA,"EXP13596","ES769846",NA,NA,"SDY301",0,"Days","SUB122723","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"255",9421,"ARM2107","BS712352",NA,"EXP13596","ES769847",NA,NA,"SDY301",0,"Days","SUB122723","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"256",9422,"ARM2107","BS712366",NA,"EXP13596","ES769848",NA,NA,"SDY301",0,"Days","SUB122724","Antibody titer","Antibody titer",20,20,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"257",9423,"ARM2107","BS712366",NA,"EXP13596","ES769849",NA,NA,"SDY301",0,"Days","SUB122724","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"258",9424,"ARM2107","BS712366",NA,"EXP13596","ES769850",NA,NA,"SDY301",0,"Days","SUB122724","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"259",9425,"ARM2107","BS712380",NA,"EXP13596","ES769851",NA,NA,"SDY301",0,"Days","SUB122725","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"260",9426,"ARM2107","BS712380",NA,"EXP13596","ES769852",NA,NA,"SDY301",0,"Days","SUB122725","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"261",9427,"ARM2107","BS712380",NA,"EXP13596","ES769853",NA,NA,"SDY301",0,"Days","SUB122725","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"262",9428,"ARM2107","BS712394",NA,"EXP13596","ES769854",NA,NA,"SDY301",0,"Days","SUB122728","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"263",9429,"ARM2107","BS712394",NA,"EXP13596","ES769855",NA,NA,"SDY301",0,"Days","SUB122728","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"264",9430,"ARM2107","BS712394",NA,"EXP13596","ES769856",NA,NA,"SDY301",0,"Days","SUB122728","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"265",9431,"ARM2107","BS712408",NA,"EXP13596","ES769857",NA,NA,"SDY301",0,"Days","SUB122729","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"266",9432,"ARM2107","BS712408",NA,"EXP13596","ES769858",NA,NA,"SDY301",0,"Days","SUB122729","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"267",9433,"ARM2107","BS712408",NA,"EXP13596","ES769859",NA,NA,"SDY301",0,"Days","SUB122729","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"268",9434,"ARM2107","BS712422",NA,"EXP13596","ES769860",NA,NA,"SDY301",0,"Days","SUB122732","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"269",9435,"ARM2107","BS712422",NA,"EXP13596","ES769861",NA,NA,"SDY301",0,"Days","SUB122732","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"270",9436,"ARM2107","BS712422",NA,"EXP13596","ES769862",NA,NA,"SDY301",0,"Days","SUB122732","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"271",9437,"ARM2107","BS712435",NA,"EXP13596","ES769863",NA,NA,"SDY301",0,"Days","SUB122733","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"272",9438,"ARM2107","BS712435",NA,"EXP13596","ES769864",NA,NA,"SDY301",0,"Days","SUB122733","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"273",9439,"ARM2107","BS712435",NA,"EXP13596","ES769865",NA,NA,"SDY301",0,"Days","SUB122733","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"274",9440,"ARM2107","BS712449",NA,"EXP13596","ES769866",NA,NA,"SDY301",0,"Days","SUB122734","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"275",9441,"ARM2107","BS712449",NA,"EXP13596","ES769867",NA,NA,"SDY301",0,"Days","SUB122734","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"276",9442,"ARM2107","BS712449",NA,"EXP13596","ES769868",NA,NA,"SDY301",0,"Days","SUB122734","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"277",9443,"ARM2107","BS712463",NA,"EXP13596","ES769869",NA,NA,"SDY301",0,"Days","SUB122735","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"278",9444,"ARM2107","BS712463",NA,"EXP13596","ES769870",NA,NA,"SDY301",0,"Days","SUB122735","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"279",9445,"ARM2107","BS712463",NA,"EXP13596","ES769871",NA,NA,"SDY301",0,"Days","SUB122735","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"280",9446,"ARM2107","BS712477",NA,"EXP13596","ES769872",NA,NA,"SDY301",0,"Days","SUB122737","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"281",9447,"ARM2107","BS712477",NA,"EXP13596","ES769873",NA,NA,"SDY301",0,"Days","SUB122737","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"282",9448,"ARM2107","BS712477",NA,"EXP13596","ES769874",NA,NA,"SDY301",0,"Days","SUB122737","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"283",9449,"ARM2107","BS712491",NA,"EXP13596","ES769875",NA,NA,"SDY301",0,"Days","SUB122739","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"284",9450,"ARM2107","BS712491",NA,"EXP13596","ES769876",NA,NA,"SDY301",0,"Days","SUB122739","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"285",9451,"ARM2107","BS712491",NA,"EXP13596","ES769877",NA,NA,"SDY301",0,"Days","SUB122739","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"286",9452,"ARM2107","BS712505",NA,"EXP13596","ES769878",NA,NA,"SDY301",0,"Days","SUB122740","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"287",9453,"ARM2107","BS712505",NA,"EXP13596","ES769879",NA,NA,"SDY301",0,"Days","SUB122740","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"288",9454,"ARM2107","BS712505",NA,"EXP13596","ES769880",NA,NA,"SDY301",0,"Days","SUB122740","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"289",9455,"ARM2107","BS712519",NA,"EXP13596","ES769881",NA,NA,"SDY301",0,"Days","SUB122742","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"290",9456,"ARM2107","BS712519",NA,"EXP13596","ES769882",NA,NA,"SDY301",0,"Days","SUB122742","Antibody titer","Antibody titer",10,10,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"291",9457,"ARM2107","BS712519",NA,"EXP13596","ES769883",NA,NA,"SDY301",0,"Days","SUB122742","Antibody titer","Antibody titer",10,10,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"292",9458,"ARM2107","BS712533",NA,"EXP13596","ES769884",NA,NA,"SDY301",0,"Days","SUB122743","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"293",9459,"ARM2107","BS712533",NA,"EXP13596","ES769885",NA,NA,"SDY301",0,"Days","SUB122743","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"294",9460,"ARM2107","BS712533",NA,"EXP13596","ES769886",NA,NA,"SDY301",0,"Days","SUB122743","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"295",9461,"ARM2107","BS712547",NA,"EXP13596","ES769887",NA,NA,"SDY301",0,"Days","SUB122744","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"296",9462,"ARM2107","BS712547",NA,"EXP13596","ES769888",NA,NA,"SDY301",0,"Days","SUB122744","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"297",9463,"ARM2107","BS712547",NA,"EXP13596","ES769889",NA,NA,"SDY301",0,"Days","SUB122744","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"298",9464,"ARM2107","BS712561",NA,"EXP13596","ES769890",NA,NA,"SDY301",0,"Days","SUB122747","Antibody titer","Antibody titer",20,20,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"299",9465,"ARM2107","BS712561",NA,"EXP13596","ES769891",NA,NA,"SDY301",0,"Days","SUB122747","Antibody titer","Antibody titer",10,10,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"300",9466,"ARM2107","BS712561",NA,"EXP13596","ES769892",NA,NA,"SDY301",0,"Days","SUB122747","Antibody titer","Antibody titer",10,10,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"301",9467,"ARM2107","BS712575",NA,"EXP13596","ES769893",NA,NA,"SDY301",0,"Days","SUB122748","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"302",9468,"ARM2107","BS712575",NA,"EXP13596","ES769894",NA,NA,"SDY301",0,"Days","SUB122748","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"303",9469,"ARM2107","BS712575",NA,"EXP13596","ES769895",NA,NA,"SDY301",0,"Days","SUB122748","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"304",9470,"ARM2107","BS712589",NA,"EXP13596","ES769896",NA,NA,"SDY301",0,"Days","SUB122749","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"305",9471,"ARM2107","BS712589",NA,"EXP13596","ES769897",NA,NA,"SDY301",0,"Days","SUB122749","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"306",9472,"ARM2107","BS712589",NA,"EXP13596","ES769898",NA,NA,"SDY301",0,"Days","SUB122749","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"307",9473,"ARM2107","BS712603",NA,"EXP13596","ES769899",NA,NA,"SDY301",0,"Days","SUB122750","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"308",9474,"ARM2107","BS712603",NA,"EXP13596","ES769900",NA,NA,"SDY301",0,"Days","SUB122750","Antibody titer","Antibody titer",20,20,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"309",9475,"ARM2107","BS712603",NA,"EXP13596","ES769901",NA,NA,"SDY301",0,"Days","SUB122750","Antibody titer","Antibody titer",10,10,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"310",9476,"ARM2107","BS712617",NA,"EXP13596","ES769902",NA,NA,"SDY301",0,"Days","SUB122752","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"311",9477,"ARM2107","BS712617",NA,"EXP13596","ES769903",NA,NA,"SDY301",0,"Days","SUB122752","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"312",9478,"ARM2107","BS712617",NA,"EXP13596","ES769904",NA,NA,"SDY301",0,"Days","SUB122752","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"313",9479,"ARM2107","BS712631",NA,"EXP13596","ES769905",NA,NA,"SDY301",0,"Days","SUB122753","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"314",9480,"ARM2107","BS712631",NA,"EXP13596","ES769906",NA,NA,"SDY301",0,"Days","SUB122753","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"315",9481,"ARM2107","BS712631",NA,"EXP13596","ES769907",NA,NA,"SDY301",0,"Days","SUB122753","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"316",9482,"ARM2107","BS712645",NA,"EXP13596","ES769908",NA,NA,"SDY301",0,"Days","SUB122756","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"317",9483,"ARM2107","BS712645",NA,"EXP13596","ES769909",NA,NA,"SDY301",0,"Days","SUB122756","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"318",9484,"ARM2107","BS712645",NA,"EXP13596","ES769910",NA,NA,"SDY301",0,"Days","SUB122756","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"319",9485,"ARM2107","BS712292",NA,"EXP13596","ES769911",NA,NA,"SDY301",28,"Days","SUB122716","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"320",9486,"ARM2107","BS712292",NA,"EXP13596","ES769912",NA,NA,"SDY301",28,"Days","SUB122716","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"321",9487,"ARM2107","BS712292",NA,"EXP13596","ES769913",NA,NA,"SDY301",28,"Days","SUB122716","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"322",9488,"ARM2107","BS712306",NA,"EXP13596","ES769914",NA,NA,"SDY301",28,"Days","SUB122718","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"323",9489,"ARM2107","BS712306",NA,"EXP13596","ES769915",NA,NA,"SDY301",28,"Days","SUB122718","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"324",9490,"ARM2107","BS712306",NA,"EXP13596","ES769916",NA,NA,"SDY301",28,"Days","SUB122718","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"325",9491,"ARM2107","BS712320",NA,"EXP13596","ES769917",NA,NA,"SDY301",28,"Days","SUB122719","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"326",9492,"ARM2107","BS712320",NA,"EXP13596","ES769918",NA,NA,"SDY301",28,"Days","SUB122719","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"327",9493,"ARM2107","BS712320",NA,"EXP13596","ES769919",NA,NA,"SDY301",28,"Days","SUB122719","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"328",9494,"ARM2107","BS712334",NA,"EXP13596","ES769920",NA,NA,"SDY301",28,"Days","SUB122722","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"329",9495,"ARM2107","BS712334",NA,"EXP13596","ES769921",NA,NA,"SDY301",28,"Days","SUB122722","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"330",9496,"ARM2107","BS712334",NA,"EXP13596","ES769922",NA,NA,"SDY301",28,"Days","SUB122722","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"331",9497,"ARM2107","BS712348",NA,"EXP13596","ES769923",NA,NA,"SDY301",28,"Days","SUB122723","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"332",9498,"ARM2107","BS712348",NA,"EXP13596","ES769924",NA,NA,"SDY301",28,"Days","SUB122723","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"333",9499,"ARM2107","BS712348",NA,"EXP13596","ES769925",NA,NA,"SDY301",28,"Days","SUB122723","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"334",9500,"ARM2107","BS712362",NA,"EXP13596","ES769926",NA,NA,"SDY301",28,"Days","SUB122724","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"335",9501,"ARM2107","BS712362",NA,"EXP13596","ES769927",NA,NA,"SDY301",28,"Days","SUB122724","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"336",9502,"ARM2107","BS712362",NA,"EXP13596","ES769928",NA,NA,"SDY301",28,"Days","SUB122724","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"337",9503,"ARM2107","BS712376",NA,"EXP13596","ES769929",NA,NA,"SDY301",28,"Days","SUB122725","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"338",9504,"ARM2107","BS712376",NA,"EXP13596","ES769930",NA,NA,"SDY301",28,"Days","SUB122725","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"339",9505,"ARM2107","BS712376",NA,"EXP13596","ES769931",NA,NA,"SDY301",28,"Days","SUB122725","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"340",9506,"ARM2107","BS712390",NA,"EXP13596","ES769932",NA,NA,"SDY301",28,"Days","SUB122728","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"341",9507,"ARM2107","BS712390",NA,"EXP13596","ES769933",NA,NA,"SDY301",28,"Days","SUB122728","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"342",9508,"ARM2107","BS712390",NA,"EXP13596","ES769934",NA,NA,"SDY301",28,"Days","SUB122728","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"343",9509,"ARM2107","BS712404",NA,"EXP13596","ES769935",NA,NA,"SDY301",28,"Days","SUB122729","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"344",9510,"ARM2107","BS712404",NA,"EXP13596","ES769936",NA,NA,"SDY301",28,"Days","SUB122729","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"345",9511,"ARM2107","BS712404",NA,"EXP13596","ES769937",NA,NA,"SDY301",28,"Days","SUB122729","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"346",9512,"ARM2107","BS712418",NA,"EXP13596","ES769938",NA,NA,"SDY301",28,"Days","SUB122732","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"347",9513,"ARM2107","BS712418",NA,"EXP13596","ES769939",NA,NA,"SDY301",28,"Days","SUB122732","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"348",9514,"ARM2107","BS712418",NA,"EXP13596","ES769940",NA,NA,"SDY301",28,"Days","SUB122732","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"349",9515,"ARM2107","BS712431",NA,"EXP13596","ES769941",NA,NA,"SDY301",28,"Days","SUB122733","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"350",9516,"ARM2107","BS712431",NA,"EXP13596","ES769942",NA,NA,"SDY301",28,"Days","SUB122733","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"351",9517,"ARM2107","BS712431",NA,"EXP13596","ES769943",NA,NA,"SDY301",28,"Days","SUB122733","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"352",9518,"ARM2107","BS712445",NA,"EXP13596","ES769944",NA,NA,"SDY301",28,"Days","SUB122734","Antibody titer","Antibody titer",2560,2560,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"353",9519,"ARM2107","BS712445",NA,"EXP13596","ES769945",NA,NA,"SDY301",28,"Days","SUB122734","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"354",9520,"ARM2107","BS712445",NA,"EXP13596","ES769946",NA,NA,"SDY301",28,"Days","SUB122734","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"355",9521,"ARM2107","BS712459",NA,"EXP13596","ES769947",NA,NA,"SDY301",28,"Days","SUB122735","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"356",9522,"ARM2107","BS712459",NA,"EXP13596","ES769948",NA,NA,"SDY301",28,"Days","SUB122735","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"357",9523,"ARM2107","BS712459",NA,"EXP13596","ES769949",NA,NA,"SDY301",28,"Days","SUB122735","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"358",9524,"ARM2107","BS712473",NA,"EXP13596","ES769950",NA,NA,"SDY301",28,"Days","SUB122737","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"359",9525,"ARM2107","BS712473",NA,"EXP13596","ES769951",NA,NA,"SDY301",28,"Days","SUB122737","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"360",9526,"ARM2107","BS712473",NA,"EXP13596","ES769952",NA,NA,"SDY301",28,"Days","SUB122737","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"361",9527,"ARM2107","BS712487",NA,"EXP13596","ES769953",NA,NA,"SDY301",28,"Days","SUB122739","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"362",9528,"ARM2107","BS712487",NA,"EXP13596","ES769954",NA,NA,"SDY301",28,"Days","SUB122739","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"363",9529,"ARM2107","BS712487",NA,"EXP13596","ES769955",NA,NA,"SDY301",28,"Days","SUB122739","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"364",9530,"ARM2107","BS712501",NA,"EXP13596","ES769956",NA,NA,"SDY301",28,"Days","SUB122740","Antibody titer","Antibody titer",2560,2560,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"365",9531,"ARM2107","BS712501",NA,"EXP13596","ES769957",NA,NA,"SDY301",28,"Days","SUB122740","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"366",9532,"ARM2107","BS712501",NA,"EXP13596","ES769958",NA,NA,"SDY301",28,"Days","SUB122740","Antibody titer","Antibody titer",2560,2560,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"367",9533,"ARM2107","BS712515",NA,"EXP13596","ES769959",NA,NA,"SDY301",28,"Days","SUB122742","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"368",9534,"ARM2107","BS712515",NA,"EXP13596","ES769960",NA,NA,"SDY301",28,"Days","SUB122742","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"369",9535,"ARM2107","BS712515",NA,"EXP13596","ES769961",NA,NA,"SDY301",28,"Days","SUB122742","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"370",9536,"ARM2107","BS712529",NA,"EXP13596","ES769962",NA,NA,"SDY301",28,"Days","SUB122743","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"371",9537,"ARM2107","BS712529",NA,"EXP13596","ES769963",NA,NA,"SDY301",28,"Days","SUB122743","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"372",9538,"ARM2107","BS712529",NA,"EXP13596","ES769964",NA,NA,"SDY301",28,"Days","SUB122743","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"373",9539,"ARM2107","BS712543",NA,"EXP13596","ES769965",NA,NA,"SDY301",28,"Days","SUB122744","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"374",9540,"ARM2107","BS712543",NA,"EXP13596","ES769966",NA,NA,"SDY301",28,"Days","SUB122744","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"375",9541,"ARM2107","BS712543",NA,"EXP13596","ES769967",NA,NA,"SDY301",28,"Days","SUB122744","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"376",9542,"ARM2107","BS712557",NA,"EXP13596","ES769968",NA,NA,"SDY301",28,"Days","SUB122747","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"377",9543,"ARM2107","BS712557",NA,"EXP13596","ES769969",NA,NA,"SDY301",28,"Days","SUB122747","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"378",9544,"ARM2107","BS712557",NA,"EXP13596","ES769970",NA,NA,"SDY301",28,"Days","SUB122747","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"379",9545,"ARM2107","BS712571",NA,"EXP13596","ES769971",NA,NA,"SDY301",28,"Days","SUB122748","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"380",9546,"ARM2107","BS712571",NA,"EXP13596","ES769972",NA,NA,"SDY301",28,"Days","SUB122748","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"381",9547,"ARM2107","BS712571",NA,"EXP13596","ES769973",NA,NA,"SDY301",28,"Days","SUB122748","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"382",9548,"ARM2107","BS712585",NA,"EXP13596","ES769974",NA,NA,"SDY301",28,"Days","SUB122749","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"383",9549,"ARM2107","BS712585",NA,"EXP13596","ES769975",NA,NA,"SDY301",28,"Days","SUB122749","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"384",9550,"ARM2107","BS712585",NA,"EXP13596","ES769976",NA,NA,"SDY301",28,"Days","SUB122749","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"385",9551,"ARM2107","BS712599",NA,"EXP13596","ES769977",NA,NA,"SDY301",28,"Days","SUB122750","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"386",9552,"ARM2107","BS712599",NA,"EXP13596","ES769978",NA,NA,"SDY301",28,"Days","SUB122750","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"387",9553,"ARM2107","BS712599",NA,"EXP13596","ES769979",NA,NA,"SDY301",28,"Days","SUB122750","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"388",9554,"ARM2107","BS712613",NA,"EXP13596","ES769980",NA,NA,"SDY301",28,"Days","SUB122752","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"389",9555,"ARM2107","BS712613",NA,"EXP13596","ES769981",NA,NA,"SDY301",28,"Days","SUB122752","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"390",9556,"ARM2107","BS712613",NA,"EXP13596","ES769982",NA,NA,"SDY301",28,"Days","SUB122752","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"391",9557,"ARM2107","BS712627",NA,"EXP13596","ES769983",NA,NA,"SDY301",28,"Days","SUB122753","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"392",9558,"ARM2107","BS712627",NA,"EXP13596","ES769984",NA,NA,"SDY301",28,"Days","SUB122753","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"393",9559,"ARM2107","BS712627",NA,"EXP13596","ES769985",NA,NA,"SDY301",28,"Days","SUB122753","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"394",9560,"ARM2107","BS712641",NA,"EXP13596","ES769986",NA,NA,"SDY301",28,"Days","SUB122756","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"395",9561,"ARM2107","BS712641",NA,"EXP13596","ES769987",NA,NA,"SDY301",28,"Days","SUB122756","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"396",9562,"ARM2107","BS712641",NA,"EXP13596","ES769988",NA,NA,"SDY301",28,"Days","SUB122756","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"397",9563,"ARM2107","BS712651",NA,"EXP13596","ES769989",NA,NA,"SDY301",0,"Days","SUB133802","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"398",9564,"ARM2107","BS712651",NA,"EXP13596","ES769990",NA,NA,"SDY301",0,"Days","SUB133802","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"399",9565,"ARM2107","BS712651",NA,"EXP13596","ES769991",NA,NA,"SDY301",0,"Days","SUB133802","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"400",9566,"ARM2107","BS712667",NA,"EXP13596","ES769992",NA,NA,"SDY301",0,"Days","SUB133803","Antibody titer","Antibody titer",10,10,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"401",9567,"ARM2107","BS712667",NA,"EXP13596","ES769993",NA,NA,"SDY301",0,"Days","SUB133803","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"402",9568,"ARM2107","BS712667",NA,"EXP13596","ES769994",NA,NA,"SDY301",0,"Days","SUB133803","Antibody titer","Antibody titer",20,20,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"403",9569,"ARM2107","BS712683",NA,"EXP13596","ES769995",NA,NA,"SDY301",0,"Days","SUB133804","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"404",9570,"ARM2107","BS712683",NA,"EXP13596","ES769996",NA,NA,"SDY301",0,"Days","SUB133804","Antibody titer","Antibody titer",20,20,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"405",9571,"ARM2107","BS712683",NA,"EXP13596","ES769997",NA,NA,"SDY301",0,"Days","SUB133804","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"406",9572,"ARM2107","BS712699",NA,"EXP13596","ES769998",NA,NA,"SDY301",0,"Days","SUB133805","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"407",9573,"ARM2107","BS712699",NA,"EXP13596","ES769999",NA,NA,"SDY301",0,"Days","SUB133805","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"408",9574,"ARM2107","BS712699",NA,"EXP13596","ES770000",NA,NA,"SDY301",0,"Days","SUB133805","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"409",9575,"ARM2107","BS712715",NA,"EXP13596","ES770001",NA,NA,"SDY301",0,"Days","SUB133806","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"410",9576,"ARM2107","BS712715",NA,"EXP13596","ES770002",NA,NA,"SDY301",0,"Days","SUB133806","Antibody titer","Antibody titer",20,20,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"411",9577,"ARM2107","BS712715",NA,"EXP13596","ES770003",NA,NA,"SDY301",0,"Days","SUB133806","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"412",9578,"ARM2107","BS712731",NA,"EXP13596","ES770004",NA,NA,"SDY301",0,"Days","SUB133807","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"413",9579,"ARM2107","BS712731",NA,"EXP13596","ES770005",NA,NA,"SDY301",0,"Days","SUB133807","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"414",9580,"ARM2107","BS712731",NA,"EXP13596","ES770006",NA,NA,"SDY301",0,"Days","SUB133807","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"415",9581,"ARM2107","BS712747",NA,"EXP13596","ES770007",NA,NA,"SDY301",0,"Days","SUB133808","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"416",9582,"ARM2107","BS712747",NA,"EXP13596","ES770008",NA,NA,"SDY301",0,"Days","SUB133808","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"417",9583,"ARM2107","BS712747",NA,"EXP13596","ES770009",NA,NA,"SDY301",0,"Days","SUB133808","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"418",9584,"ARM2107","BS712763",NA,"EXP13596","ES770010",NA,NA,"SDY301",0,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"419",9585,"ARM2107","BS712763",NA,"EXP13596","ES770011",NA,NA,"SDY301",0,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"420",9586,"ARM2107","BS712763",NA,"EXP13596","ES770012",NA,NA,"SDY301",0,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"421",9587,"ARM2107","BS712779",NA,"EXP13596","ES770013",NA,NA,"SDY301",0,"Days","SUB133810","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"422",9588,"ARM2107","BS712779",NA,"EXP13596","ES770014",NA,NA,"SDY301",0,"Days","SUB133810","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"423",9589,"ARM2107","BS712779",NA,"EXP13596","ES770015",NA,NA,"SDY301",0,"Days","SUB133810","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"424",9590,"ARM2107","BS712795",NA,"EXP13596","ES770016",NA,NA,"SDY301",0,"Days","SUB133811","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"425",9591,"ARM2107","BS712795",NA,"EXP13596","ES770017",NA,NA,"SDY301",0,"Days","SUB133811","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"426",9592,"ARM2107","BS712795",NA,"EXP13596","ES770018",NA,NA,"SDY301",0,"Days","SUB133811","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"427",9593,"ARM2107","BS712811",NA,"EXP13596","ES770019",NA,NA,"SDY301",0,"Days","SUB133812","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"428",9594,"ARM2107","BS712811",NA,"EXP13596","ES770020",NA,NA,"SDY301",0,"Days","SUB133812","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"429",9595,"ARM2107","BS712811",NA,"EXP13596","ES770021",NA,NA,"SDY301",0,"Days","SUB133812","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"430",9596,"ARM2107","BS712827",NA,"EXP13596","ES770022",NA,NA,"SDY301",0,"Days","SUB133813","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"431",9597,"ARM2107","BS712827",NA,"EXP13596","ES770023",NA,NA,"SDY301",0,"Days","SUB133813","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"432",9598,"ARM2107","BS712827",NA,"EXP13596","ES770024",NA,NA,"SDY301",0,"Days","SUB133813","Antibody titer","Antibody titer",20,20,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"433",9599,"ARM2107","BS712843",NA,"EXP13596","ES770025",NA,NA,"SDY301",0,"Days","SUB133814","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"434",9600,"ARM2107","BS712843",NA,"EXP13596","ES770026",NA,NA,"SDY301",0,"Days","SUB133814","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"435",9601,"ARM2107","BS712843",NA,"EXP13596","ES770027",NA,NA,"SDY301",0,"Days","SUB133814","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"436",9602,"ARM2107","BS712859",NA,"EXP13596","ES770028",NA,NA,"SDY301",0,"Days","SUB133815","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"437",9603,"ARM2107","BS712859",NA,"EXP13596","ES770029",NA,NA,"SDY301",0,"Days","SUB133815","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"438",9604,"ARM2107","BS712859",NA,"EXP13596","ES770030",NA,NA,"SDY301",0,"Days","SUB133815","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"439",9605,"ARM2107","BS712661",NA,"EXP13596","ES770031",NA,NA,"SDY301",28,"Days","SUB133802","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"440",9606,"ARM2107","BS712661",NA,"EXP13596","ES770032",NA,NA,"SDY301",28,"Days","SUB133802","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"441",9607,"ARM2107","BS712661",NA,"EXP13596","ES770033",NA,NA,"SDY301",28,"Days","SUB133802","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"442",9608,"ARM2107","BS712677",NA,"EXP13596","ES770034",NA,NA,"SDY301",28,"Days","SUB133803","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"443",9609,"ARM2107","BS712677",NA,"EXP13596","ES770035",NA,NA,"SDY301",28,"Days","SUB133803","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"444",9610,"ARM2107","BS712677",NA,"EXP13596","ES770036",NA,NA,"SDY301",28,"Days","SUB133803","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"445",9611,"ARM2107","BS712693",NA,"EXP13596","ES770037",NA,NA,"SDY301",28,"Days","SUB133804","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"446",9612,"ARM2107","BS712693",NA,"EXP13596","ES770038",NA,NA,"SDY301",28,"Days","SUB133804","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"447",9613,"ARM2107","BS712693",NA,"EXP13596","ES770039",NA,NA,"SDY301",28,"Days","SUB133804","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"448",9614,"ARM2107","BS712709",NA,"EXP13596","ES770040",NA,NA,"SDY301",28,"Days","SUB133805","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"449",9615,"ARM2107","BS712709",NA,"EXP13596","ES770041",NA,NA,"SDY301",28,"Days","SUB133805","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"450",9616,"ARM2107","BS712709",NA,"EXP13596","ES770042",NA,NA,"SDY301",28,"Days","SUB133805","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"451",9617,"ARM2107","BS712725",NA,"EXP13596","ES770043",NA,NA,"SDY301",28,"Days","SUB133806","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"452",9618,"ARM2107","BS712725",NA,"EXP13596","ES770044",NA,NA,"SDY301",28,"Days","SUB133806","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"453",9619,"ARM2107","BS712725",NA,"EXP13596","ES770045",NA,NA,"SDY301",28,"Days","SUB133806","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"454",9620,"ARM2107","BS712741",NA,"EXP13596","ES770046",NA,NA,"SDY301",28,"Days","SUB133807","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"455",9621,"ARM2107","BS712741",NA,"EXP13596","ES770047",NA,NA,"SDY301",28,"Days","SUB133807","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"456",9622,"ARM2107","BS712741",NA,"EXP13596","ES770048",NA,NA,"SDY301",28,"Days","SUB133807","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"457",9623,"ARM2107","BS712757",NA,"EXP13596","ES770049",NA,NA,"SDY301",28,"Days","SUB133808","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"458",9624,"ARM2107","BS712757",NA,"EXP13596","ES770050",NA,NA,"SDY301",28,"Days","SUB133808","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"459",9625,"ARM2107","BS712757",NA,"EXP13596","ES770051",NA,NA,"SDY301",28,"Days","SUB133808","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"460",9626,"ARM2107","BS712773",NA,"EXP13596","ES770052",NA,NA,"SDY301",28,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"461",9627,"ARM2107","BS712773",NA,"EXP13596","ES770053",NA,NA,"SDY301",28,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"462",9628,"ARM2107","BS712773",NA,"EXP13596","ES770054",NA,NA,"SDY301",28,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"463",9629,"ARM2107","BS712789",NA,"EXP13596","ES770055",NA,NA,"SDY301",28,"Days","SUB133810","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"464",9630,"ARM2107","BS712789",NA,"EXP13596","ES770056",NA,NA,"SDY301",28,"Days","SUB133810","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"465",9631,"ARM2107","BS712789",NA,"EXP13596","ES770057",NA,NA,"SDY301",28,"Days","SUB133810","Antibody titer","Antibody titer",640,640,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"466",9632,"ARM2107","BS712805",NA,"EXP13596","ES770058",NA,NA,"SDY301",28,"Days","SUB133811","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"467",9633,"ARM2107","BS712805",NA,"EXP13596","ES770059",NA,NA,"SDY301",28,"Days","SUB133811","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"468",9634,"ARM2107","BS712805",NA,"EXP13596","ES770060",NA,NA,"SDY301",28,"Days","SUB133811","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"469",9635,"ARM2107","BS712821",NA,"EXP13596","ES770061",NA,NA,"SDY301",28,"Days","SUB133812","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"470",9636,"ARM2107","BS712821",NA,"EXP13596","ES770062",NA,NA,"SDY301",28,"Days","SUB133812","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"471",9637,"ARM2107","BS712821",NA,"EXP13596","ES770063",NA,NA,"SDY301",28,"Days","SUB133812","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"472",9638,"ARM2107","BS712837",NA,"EXP13596","ES770064",NA,NA,"SDY301",28,"Days","SUB133813","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"473",9639,"ARM2107","BS712837",NA,"EXP13596","ES770065",NA,NA,"SDY301",28,"Days","SUB133813","Antibody titer","Antibody titer",80,80,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"474",9640,"ARM2107","BS712837",NA,"EXP13596","ES770066",NA,NA,"SDY301",28,"Days","SUB133813","Antibody titer","Antibody titer",40,40,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"475",9641,"ARM2107","BS712853",NA,"EXP13596","ES770067",NA,NA,"SDY301",28,"Days","SUB133814","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"476",9642,"ARM2107","BS712853",NA,"EXP13596","ES770068",NA,NA,"SDY301",28,"Days","SUB133814","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"477",9643,"ARM2107","BS712853",NA,"EXP13596","ES770069",NA,NA,"SDY301",28,"Days","SUB133814","Antibody titer","Antibody titer",1280,1280,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"478",9644,"ARM2107","BS712869",NA,"EXP13596","ES770070",NA,NA,"SDY301",28,"Days","SUB133815","Antibody titer","Antibody titer",320,320,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"479",9645,"ARM2107","BS712869",NA,"EXP13596","ES770071",NA,NA,"SDY301",28,"Days","SUB133815","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"480",9646,"ARM2107","BS712869",NA,"EXP13596","ES770072",NA,NA,"SDY301",28,"Days","SUB133815","Antibody titer","Antibody titer",160,160,"A/Victoria/361/2011","A/Victoria/361/2011 H3N2",2799
+"481",9647,"ARM2107","BS712296",NA,"EXP13596","ES769833",NA,NA,"SDY301",0,"Days","SUB122716","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"482",9648,"ARM2107","BS712296",NA,"EXP13596","ES769834",NA,NA,"SDY301",0,"Days","SUB122716","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"483",9649,"ARM2107","BS712296",NA,"EXP13596","ES769835",NA,NA,"SDY301",0,"Days","SUB122716","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"484",9650,"ARM2107","BS712310",NA,"EXP13596","ES769836",NA,NA,"SDY301",0,"Days","SUB122718","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"485",9651,"ARM2107","BS712310",NA,"EXP13596","ES769837",NA,NA,"SDY301",0,"Days","SUB122718","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"486",9652,"ARM2107","BS712310",NA,"EXP13596","ES769838",NA,NA,"SDY301",0,"Days","SUB122718","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"487",9653,"ARM2107","BS712324",NA,"EXP13596","ES769839",NA,NA,"SDY301",0,"Days","SUB122719","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"488",9654,"ARM2107","BS712324",NA,"EXP13596","ES769840",NA,NA,"SDY301",0,"Days","SUB122719","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"489",9655,"ARM2107","BS712324",NA,"EXP13596","ES769841",NA,NA,"SDY301",0,"Days","SUB122719","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"490",9656,"ARM2107","BS712338",NA,"EXP13596","ES769842",NA,NA,"SDY301",0,"Days","SUB122722","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"491",9657,"ARM2107","BS712338",NA,"EXP13596","ES769843",NA,NA,"SDY301",0,"Days","SUB122722","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"492",9658,"ARM2107","BS712338",NA,"EXP13596","ES769844",NA,NA,"SDY301",0,"Days","SUB122722","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"493",9659,"ARM2107","BS712352",NA,"EXP13596","ES769845",NA,NA,"SDY301",0,"Days","SUB122723","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"494",9660,"ARM2107","BS712352",NA,"EXP13596","ES769846",NA,NA,"SDY301",0,"Days","SUB122723","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"495",9661,"ARM2107","BS712352",NA,"EXP13596","ES769847",NA,NA,"SDY301",0,"Days","SUB122723","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"496",9662,"ARM2107","BS712366",NA,"EXP13596","ES769848",NA,NA,"SDY301",0,"Days","SUB122724","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"497",9663,"ARM2107","BS712366",NA,"EXP13596","ES769849",NA,NA,"SDY301",0,"Days","SUB122724","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"498",9664,"ARM2107","BS712366",NA,"EXP13596","ES769850",NA,NA,"SDY301",0,"Days","SUB122724","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"499",9665,"ARM2107","BS712380",NA,"EXP13596","ES769851",NA,NA,"SDY301",0,"Days","SUB122725","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"500",9666,"ARM2107","BS712380",NA,"EXP13596","ES769852",NA,NA,"SDY301",0,"Days","SUB122725","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"501",9667,"ARM2107","BS712380",NA,"EXP13596","ES769853",NA,NA,"SDY301",0,"Days","SUB122725","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"502",9668,"ARM2107","BS712394",NA,"EXP13596","ES769854",NA,NA,"SDY301",0,"Days","SUB122728","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"503",9669,"ARM2107","BS712394",NA,"EXP13596","ES769855",NA,NA,"SDY301",0,"Days","SUB122728","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"504",9670,"ARM2107","BS712394",NA,"EXP13596","ES769856",NA,NA,"SDY301",0,"Days","SUB122728","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"505",9671,"ARM2107","BS712408",NA,"EXP13596","ES769857",NA,NA,"SDY301",0,"Days","SUB122729","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"506",9672,"ARM2107","BS712408",NA,"EXP13596","ES769858",NA,NA,"SDY301",0,"Days","SUB122729","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"507",9673,"ARM2107","BS712408",NA,"EXP13596","ES769859",NA,NA,"SDY301",0,"Days","SUB122729","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"508",9674,"ARM2107","BS712422",NA,"EXP13596","ES769860",NA,NA,"SDY301",0,"Days","SUB122732","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"509",9675,"ARM2107","BS712422",NA,"EXP13596","ES769861",NA,NA,"SDY301",0,"Days","SUB122732","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"510",9676,"ARM2107","BS712422",NA,"EXP13596","ES769862",NA,NA,"SDY301",0,"Days","SUB122732","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"511",9677,"ARM2107","BS712435",NA,"EXP13596","ES769863",NA,NA,"SDY301",0,"Days","SUB122733","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"512",9678,"ARM2107","BS712435",NA,"EXP13596","ES769864",NA,NA,"SDY301",0,"Days","SUB122733","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"513",9679,"ARM2107","BS712435",NA,"EXP13596","ES769865",NA,NA,"SDY301",0,"Days","SUB122733","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"514",9680,"ARM2107","BS712449",NA,"EXP13596","ES769866",NA,NA,"SDY301",0,"Days","SUB122734","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"515",9681,"ARM2107","BS712449",NA,"EXP13596","ES769867",NA,NA,"SDY301",0,"Days","SUB122734","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"516",9682,"ARM2107","BS712449",NA,"EXP13596","ES769868",NA,NA,"SDY301",0,"Days","SUB122734","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"517",9683,"ARM2107","BS712463",NA,"EXP13596","ES769869",NA,NA,"SDY301",0,"Days","SUB122735","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"518",9684,"ARM2107","BS712463",NA,"EXP13596","ES769870",NA,NA,"SDY301",0,"Days","SUB122735","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"519",9685,"ARM2107","BS712463",NA,"EXP13596","ES769871",NA,NA,"SDY301",0,"Days","SUB122735","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"520",9686,"ARM2107","BS712477",NA,"EXP13596","ES769872",NA,NA,"SDY301",0,"Days","SUB122737","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"521",9687,"ARM2107","BS712477",NA,"EXP13596","ES769873",NA,NA,"SDY301",0,"Days","SUB122737","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"522",9688,"ARM2107","BS712477",NA,"EXP13596","ES769874",NA,NA,"SDY301",0,"Days","SUB122737","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"523",9689,"ARM2107","BS712491",NA,"EXP13596","ES769875",NA,NA,"SDY301",0,"Days","SUB122739","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"524",9690,"ARM2107","BS712491",NA,"EXP13596","ES769876",NA,NA,"SDY301",0,"Days","SUB122739","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"525",9691,"ARM2107","BS712491",NA,"EXP13596","ES769877",NA,NA,"SDY301",0,"Days","SUB122739","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"526",9692,"ARM2107","BS712505",NA,"EXP13596","ES769878",NA,NA,"SDY301",0,"Days","SUB122740","Antibody titer","Antibody titer",10,10,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"527",9693,"ARM2107","BS712505",NA,"EXP13596","ES769879",NA,NA,"SDY301",0,"Days","SUB122740","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"528",9694,"ARM2107","BS712505",NA,"EXP13596","ES769880",NA,NA,"SDY301",0,"Days","SUB122740","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"529",9695,"ARM2107","BS712519",NA,"EXP13596","ES769881",NA,NA,"SDY301",0,"Days","SUB122742","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"530",9696,"ARM2107","BS712519",NA,"EXP13596","ES769882",NA,NA,"SDY301",0,"Days","SUB122742","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"531",9697,"ARM2107","BS712519",NA,"EXP13596","ES769883",NA,NA,"SDY301",0,"Days","SUB122742","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"532",9698,"ARM2107","BS712533",NA,"EXP13596","ES769884",NA,NA,"SDY301",0,"Days","SUB122743","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"533",9699,"ARM2107","BS712533",NA,"EXP13596","ES769885",NA,NA,"SDY301",0,"Days","SUB122743","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"534",9700,"ARM2107","BS712533",NA,"EXP13596","ES769886",NA,NA,"SDY301",0,"Days","SUB122743","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"535",9701,"ARM2107","BS712547",NA,"EXP13596","ES769887",NA,NA,"SDY301",0,"Days","SUB122744","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"536",9702,"ARM2107","BS712547",NA,"EXP13596","ES769888",NA,NA,"SDY301",0,"Days","SUB122744","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"537",9703,"ARM2107","BS712547",NA,"EXP13596","ES769889",NA,NA,"SDY301",0,"Days","SUB122744","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"538",9704,"ARM2107","BS712561",NA,"EXP13596","ES769890",NA,NA,"SDY301",0,"Days","SUB122747","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"539",9705,"ARM2107","BS712561",NA,"EXP13596","ES769891",NA,NA,"SDY301",0,"Days","SUB122747","Antibody titer","Antibody titer",10,10,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"540",9706,"ARM2107","BS712561",NA,"EXP13596","ES769892",NA,NA,"SDY301",0,"Days","SUB122747","Antibody titer","Antibody titer",10,10,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"541",9707,"ARM2107","BS712575",NA,"EXP13596","ES769893",NA,NA,"SDY301",0,"Days","SUB122748","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"542",9708,"ARM2107","BS712575",NA,"EXP13596","ES769894",NA,NA,"SDY301",0,"Days","SUB122748","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"543",9709,"ARM2107","BS712575",NA,"EXP13596","ES769895",NA,NA,"SDY301",0,"Days","SUB122748","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"544",9710,"ARM2107","BS712589",NA,"EXP13596","ES769896",NA,NA,"SDY301",0,"Days","SUB122749","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"545",9711,"ARM2107","BS712589",NA,"EXP13596","ES769897",NA,NA,"SDY301",0,"Days","SUB122749","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"546",9712,"ARM2107","BS712589",NA,"EXP13596","ES769898",NA,NA,"SDY301",0,"Days","SUB122749","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"547",9713,"ARM2107","BS712603",NA,"EXP13596","ES769899",NA,NA,"SDY301",0,"Days","SUB122750","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"548",9714,"ARM2107","BS712603",NA,"EXP13596","ES769900",NA,NA,"SDY301",0,"Days","SUB122750","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"549",9715,"ARM2107","BS712603",NA,"EXP13596","ES769901",NA,NA,"SDY301",0,"Days","SUB122750","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"550",9716,"ARM2107","BS712617",NA,"EXP13596","ES769902",NA,NA,"SDY301",0,"Days","SUB122752","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"551",9717,"ARM2107","BS712617",NA,"EXP13596","ES769903",NA,NA,"SDY301",0,"Days","SUB122752","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"552",9718,"ARM2107","BS712617",NA,"EXP13596","ES769904",NA,NA,"SDY301",0,"Days","SUB122752","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"553",9719,"ARM2107","BS712631",NA,"EXP13596","ES769905",NA,NA,"SDY301",0,"Days","SUB122753","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"554",9720,"ARM2107","BS712631",NA,"EXP13596","ES769906",NA,NA,"SDY301",0,"Days","SUB122753","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"555",9721,"ARM2107","BS712631",NA,"EXP13596","ES769907",NA,NA,"SDY301",0,"Days","SUB122753","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"556",9722,"ARM2107","BS712645",NA,"EXP13596","ES769908",NA,NA,"SDY301",0,"Days","SUB122756","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"557",9723,"ARM2107","BS712645",NA,"EXP13596","ES769909",NA,NA,"SDY301",0,"Days","SUB122756","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"558",9724,"ARM2107","BS712645",NA,"EXP13596","ES769910",NA,NA,"SDY301",0,"Days","SUB122756","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"559",9725,"ARM2107","BS712292",NA,"EXP13596","ES769911",NA,NA,"SDY301",28,"Days","SUB122716","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"560",9726,"ARM2107","BS712292",NA,"EXP13596","ES769912",NA,NA,"SDY301",28,"Days","SUB122716","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"561",9727,"ARM2107","BS712292",NA,"EXP13596","ES769913",NA,NA,"SDY301",28,"Days","SUB122716","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"562",9728,"ARM2107","BS712306",NA,"EXP13596","ES769914",NA,NA,"SDY301",28,"Days","SUB122718","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"563",9729,"ARM2107","BS712306",NA,"EXP13596","ES769915",NA,NA,"SDY301",28,"Days","SUB122718","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"564",9730,"ARM2107","BS712306",NA,"EXP13596","ES769916",NA,NA,"SDY301",28,"Days","SUB122718","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"565",9731,"ARM2107","BS712320",NA,"EXP13596","ES769917",NA,NA,"SDY301",28,"Days","SUB122719","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"566",9732,"ARM2107","BS712320",NA,"EXP13596","ES769918",NA,NA,"SDY301",28,"Days","SUB122719","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"567",9733,"ARM2107","BS712320",NA,"EXP13596","ES769919",NA,NA,"SDY301",28,"Days","SUB122719","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"568",9734,"ARM2107","BS712334",NA,"EXP13596","ES769920",NA,NA,"SDY301",28,"Days","SUB122722","Antibody titer","Antibody titer",1280,1280,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"569",9735,"ARM2107","BS712334",NA,"EXP13596","ES769921",NA,NA,"SDY301",28,"Days","SUB122722","Antibody titer","Antibody titer",1280,1280,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"570",9736,"ARM2107","BS712334",NA,"EXP13596","ES769922",NA,NA,"SDY301",28,"Days","SUB122722","Antibody titer","Antibody titer",1280,1280,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"571",9737,"ARM2107","BS712348",NA,"EXP13596","ES769923",NA,NA,"SDY301",28,"Days","SUB122723","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"572",9738,"ARM2107","BS712348",NA,"EXP13596","ES769924",NA,NA,"SDY301",28,"Days","SUB122723","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"573",9739,"ARM2107","BS712348",NA,"EXP13596","ES769925",NA,NA,"SDY301",28,"Days","SUB122723","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"574",9740,"ARM2107","BS712362",NA,"EXP13596","ES769926",NA,NA,"SDY301",28,"Days","SUB122724","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"575",9741,"ARM2107","BS712362",NA,"EXP13596","ES769927",NA,NA,"SDY301",28,"Days","SUB122724","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"576",9742,"ARM2107","BS712362",NA,"EXP13596","ES769928",NA,NA,"SDY301",28,"Days","SUB122724","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"577",9743,"ARM2107","BS712376",NA,"EXP13596","ES769929",NA,NA,"SDY301",28,"Days","SUB122725","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"578",9744,"ARM2107","BS712376",NA,"EXP13596","ES769930",NA,NA,"SDY301",28,"Days","SUB122725","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"579",9745,"ARM2107","BS712376",NA,"EXP13596","ES769931",NA,NA,"SDY301",28,"Days","SUB122725","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"580",9746,"ARM2107","BS712390",NA,"EXP13596","ES769932",NA,NA,"SDY301",28,"Days","SUB122728","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"581",9747,"ARM2107","BS712390",NA,"EXP13596","ES769933",NA,NA,"SDY301",28,"Days","SUB122728","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"582",9748,"ARM2107","BS712390",NA,"EXP13596","ES769934",NA,NA,"SDY301",28,"Days","SUB122728","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"583",9749,"ARM2107","BS712404",NA,"EXP13596","ES769935",NA,NA,"SDY301",28,"Days","SUB122729","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"584",9750,"ARM2107","BS712404",NA,"EXP13596","ES769936",NA,NA,"SDY301",28,"Days","SUB122729","Antibody titer","Antibody titer",640,640,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"585",9751,"ARM2107","BS712404",NA,"EXP13596","ES769937",NA,NA,"SDY301",28,"Days","SUB122729","Antibody titer","Antibody titer",640,640,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"586",9752,"ARM2107","BS712418",NA,"EXP13596","ES769938",NA,NA,"SDY301",28,"Days","SUB122732","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"587",9753,"ARM2107","BS712418",NA,"EXP13596","ES769939",NA,NA,"SDY301",28,"Days","SUB122732","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"588",9754,"ARM2107","BS712418",NA,"EXP13596","ES769940",NA,NA,"SDY301",28,"Days","SUB122732","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"589",9755,"ARM2107","BS712431",NA,"EXP13596","ES769941",NA,NA,"SDY301",28,"Days","SUB122733","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"590",9756,"ARM2107","BS712431",NA,"EXP13596","ES769942",NA,NA,"SDY301",28,"Days","SUB122733","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"591",9757,"ARM2107","BS712431",NA,"EXP13596","ES769943",NA,NA,"SDY301",28,"Days","SUB122733","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"592",9758,"ARM2107","BS712445",NA,"EXP13596","ES769944",NA,NA,"SDY301",28,"Days","SUB122734","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"593",9759,"ARM2107","BS712445",NA,"EXP13596","ES769945",NA,NA,"SDY301",28,"Days","SUB122734","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"594",9760,"ARM2107","BS712445",NA,"EXP13596","ES769946",NA,NA,"SDY301",28,"Days","SUB122734","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"595",9761,"ARM2107","BS712459",NA,"EXP13596","ES769947",NA,NA,"SDY301",28,"Days","SUB122735","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"596",9762,"ARM2107","BS712459",NA,"EXP13596","ES769948",NA,NA,"SDY301",28,"Days","SUB122735","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"597",9763,"ARM2107","BS712459",NA,"EXP13596","ES769949",NA,NA,"SDY301",28,"Days","SUB122735","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"598",9764,"ARM2107","BS712473",NA,"EXP13596","ES769950",NA,NA,"SDY301",28,"Days","SUB122737","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"599",9765,"ARM2107","BS712473",NA,"EXP13596","ES769951",NA,NA,"SDY301",28,"Days","SUB122737","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"600",9766,"ARM2107","BS712473",NA,"EXP13596","ES769952",NA,NA,"SDY301",28,"Days","SUB122737","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"601",9767,"ARM2107","BS712487",NA,"EXP13596","ES769953",NA,NA,"SDY301",28,"Days","SUB122739","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"602",9768,"ARM2107","BS712487",NA,"EXP13596","ES769954",NA,NA,"SDY301",28,"Days","SUB122739","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"603",9769,"ARM2107","BS712487",NA,"EXP13596","ES769955",NA,NA,"SDY301",28,"Days","SUB122739","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"604",9770,"ARM2107","BS712501",NA,"EXP13596","ES769956",NA,NA,"SDY301",28,"Days","SUB122740","Antibody titer","Antibody titer",1280,1280,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"605",9771,"ARM2107","BS712501",NA,"EXP13596","ES769957",NA,NA,"SDY301",28,"Days","SUB122740","Antibody titer","Antibody titer",1280,1280,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"606",9772,"ARM2107","BS712501",NA,"EXP13596","ES769958",NA,NA,"SDY301",28,"Days","SUB122740","Antibody titer","Antibody titer",1280,1280,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"607",9773,"ARM2107","BS712515",NA,"EXP13596","ES769959",NA,NA,"SDY301",28,"Days","SUB122742","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"608",9774,"ARM2107","BS712515",NA,"EXP13596","ES769960",NA,NA,"SDY301",28,"Days","SUB122742","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"609",9775,"ARM2107","BS712515",NA,"EXP13596","ES769961",NA,NA,"SDY301",28,"Days","SUB122742","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"610",9776,"ARM2107","BS712529",NA,"EXP13596","ES769962",NA,NA,"SDY301",28,"Days","SUB122743","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"611",9777,"ARM2107","BS712529",NA,"EXP13596","ES769963",NA,NA,"SDY301",28,"Days","SUB122743","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"612",9778,"ARM2107","BS712529",NA,"EXP13596","ES769964",NA,NA,"SDY301",28,"Days","SUB122743","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"613",9779,"ARM2107","BS712543",NA,"EXP13596","ES769965",NA,NA,"SDY301",28,"Days","SUB122744","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"614",9780,"ARM2107","BS712543",NA,"EXP13596","ES769966",NA,NA,"SDY301",28,"Days","SUB122744","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"615",9781,"ARM2107","BS712543",NA,"EXP13596","ES769967",NA,NA,"SDY301",28,"Days","SUB122744","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"616",9782,"ARM2107","BS712557",NA,"EXP13596","ES769968",NA,NA,"SDY301",28,"Days","SUB122747","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"617",9783,"ARM2107","BS712557",NA,"EXP13596","ES769969",NA,NA,"SDY301",28,"Days","SUB122747","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"618",9784,"ARM2107","BS712557",NA,"EXP13596","ES769970",NA,NA,"SDY301",28,"Days","SUB122747","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"619",9785,"ARM2107","BS712571",NA,"EXP13596","ES769971",NA,NA,"SDY301",28,"Days","SUB122748","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"620",9786,"ARM2107","BS712571",NA,"EXP13596","ES769972",NA,NA,"SDY301",28,"Days","SUB122748","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"621",9787,"ARM2107","BS712571",NA,"EXP13596","ES769973",NA,NA,"SDY301",28,"Days","SUB122748","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"622",9788,"ARM2107","BS712585",NA,"EXP13596","ES769974",NA,NA,"SDY301",28,"Days","SUB122749","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"623",9789,"ARM2107","BS712585",NA,"EXP13596","ES769975",NA,NA,"SDY301",28,"Days","SUB122749","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"624",9790,"ARM2107","BS712585",NA,"EXP13596","ES769976",NA,NA,"SDY301",28,"Days","SUB122749","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"625",9791,"ARM2107","BS712599",NA,"EXP13596","ES769977",NA,NA,"SDY301",28,"Days","SUB122750","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"626",9792,"ARM2107","BS712599",NA,"EXP13596","ES769978",NA,NA,"SDY301",28,"Days","SUB122750","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"627",9793,"ARM2107","BS712599",NA,"EXP13596","ES769979",NA,NA,"SDY301",28,"Days","SUB122750","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"628",9794,"ARM2107","BS712613",NA,"EXP13596","ES769980",NA,NA,"SDY301",28,"Days","SUB122752","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"629",9795,"ARM2107","BS712613",NA,"EXP13596","ES769981",NA,NA,"SDY301",28,"Days","SUB122752","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"630",9796,"ARM2107","BS712613",NA,"EXP13596","ES769982",NA,NA,"SDY301",28,"Days","SUB122752","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"631",9797,"ARM2107","BS712627",NA,"EXP13596","ES769983",NA,NA,"SDY301",28,"Days","SUB122753","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"632",9798,"ARM2107","BS712627",NA,"EXP13596","ES769984",NA,NA,"SDY301",28,"Days","SUB122753","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"633",9799,"ARM2107","BS712627",NA,"EXP13596","ES769985",NA,NA,"SDY301",28,"Days","SUB122753","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"634",9800,"ARM2107","BS712641",NA,"EXP13596","ES769986",NA,NA,"SDY301",28,"Days","SUB122756","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"635",9801,"ARM2107","BS712641",NA,"EXP13596","ES769987",NA,NA,"SDY301",28,"Days","SUB122756","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"636",9802,"ARM2107","BS712641",NA,"EXP13596","ES769988",NA,NA,"SDY301",28,"Days","SUB122756","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"637",9803,"ARM2107","BS712651",NA,"EXP13596","ES769989",NA,NA,"SDY301",0,"Days","SUB133802","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"638",9804,"ARM2107","BS712651",NA,"EXP13596","ES769990",NA,NA,"SDY301",0,"Days","SUB133802","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"639",9805,"ARM2107","BS712651",NA,"EXP13596","ES769991",NA,NA,"SDY301",0,"Days","SUB133802","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"640",9806,"ARM2107","BS712667",NA,"EXP13596","ES769992",NA,NA,"SDY301",0,"Days","SUB133803","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"641",9807,"ARM2107","BS712667",NA,"EXP13596","ES769993",NA,NA,"SDY301",0,"Days","SUB133803","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"642",9808,"ARM2107","BS712667",NA,"EXP13596","ES769994",NA,NA,"SDY301",0,"Days","SUB133803","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"643",9809,"ARM2107","BS712683",NA,"EXP13596","ES769995",NA,NA,"SDY301",0,"Days","SUB133804","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"644",9810,"ARM2107","BS712683",NA,"EXP13596","ES769996",NA,NA,"SDY301",0,"Days","SUB133804","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"645",9811,"ARM2107","BS712683",NA,"EXP13596","ES769997",NA,NA,"SDY301",0,"Days","SUB133804","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"646",9812,"ARM2107","BS712699",NA,"EXP13596","ES769998",NA,NA,"SDY301",0,"Days","SUB133805","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"647",9813,"ARM2107","BS712699",NA,"EXP13596","ES769999",NA,NA,"SDY301",0,"Days","SUB133805","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"648",9814,"ARM2107","BS712699",NA,"EXP13596","ES770000",NA,NA,"SDY301",0,"Days","SUB133805","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"649",9815,"ARM2107","BS712715",NA,"EXP13596","ES770001",NA,NA,"SDY301",0,"Days","SUB133806","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"650",9816,"ARM2107","BS712715",NA,"EXP13596","ES770002",NA,NA,"SDY301",0,"Days","SUB133806","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"651",9817,"ARM2107","BS712715",NA,"EXP13596","ES770003",NA,NA,"SDY301",0,"Days","SUB133806","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"652",9818,"ARM2107","BS712731",NA,"EXP13596","ES770004",NA,NA,"SDY301",0,"Days","SUB133807","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"653",9819,"ARM2107","BS712731",NA,"EXP13596","ES770005",NA,NA,"SDY301",0,"Days","SUB133807","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"654",9820,"ARM2107","BS712731",NA,"EXP13596","ES770006",NA,NA,"SDY301",0,"Days","SUB133807","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"655",9821,"ARM2107","BS712747",NA,"EXP13596","ES770007",NA,NA,"SDY301",0,"Days","SUB133808","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"656",9822,"ARM2107","BS712747",NA,"EXP13596","ES770008",NA,NA,"SDY301",0,"Days","SUB133808","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"657",9823,"ARM2107","BS712747",NA,"EXP13596","ES770009",NA,NA,"SDY301",0,"Days","SUB133808","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"658",9824,"ARM2107","BS712763",NA,"EXP13596","ES770010",NA,NA,"SDY301",0,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"659",9825,"ARM2107","BS712763",NA,"EXP13596","ES770011",NA,NA,"SDY301",0,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"660",9826,"ARM2107","BS712763",NA,"EXP13596","ES770012",NA,NA,"SDY301",0,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"661",9827,"ARM2107","BS712779",NA,"EXP13596","ES770013",NA,NA,"SDY301",0,"Days","SUB133810","Antibody titer","Antibody titer",10,10,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"662",9828,"ARM2107","BS712779",NA,"EXP13596","ES770014",NA,NA,"SDY301",0,"Days","SUB133810","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"663",9829,"ARM2107","BS712779",NA,"EXP13596","ES770015",NA,NA,"SDY301",0,"Days","SUB133810","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"664",9830,"ARM2107","BS712795",NA,"EXP13596","ES770016",NA,NA,"SDY301",0,"Days","SUB133811","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"665",9831,"ARM2107","BS712795",NA,"EXP13596","ES770017",NA,NA,"SDY301",0,"Days","SUB133811","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"666",9832,"ARM2107","BS712795",NA,"EXP13596","ES770018",NA,NA,"SDY301",0,"Days","SUB133811","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"667",9833,"ARM2107","BS712811",NA,"EXP13596","ES770019",NA,NA,"SDY301",0,"Days","SUB133812","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"668",9834,"ARM2107","BS712811",NA,"EXP13596","ES770020",NA,NA,"SDY301",0,"Days","SUB133812","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"669",9835,"ARM2107","BS712811",NA,"EXP13596","ES770021",NA,NA,"SDY301",0,"Days","SUB133812","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"670",9836,"ARM2107","BS712827",NA,"EXP13596","ES770022",NA,NA,"SDY301",0,"Days","SUB133813","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"671",9837,"ARM2107","BS712827",NA,"EXP13596","ES770023",NA,NA,"SDY301",0,"Days","SUB133813","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"672",9838,"ARM2107","BS712827",NA,"EXP13596","ES770024",NA,NA,"SDY301",0,"Days","SUB133813","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"673",9839,"ARM2107","BS712843",NA,"EXP13596","ES770025",NA,NA,"SDY301",0,"Days","SUB133814","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"674",9840,"ARM2107","BS712843",NA,"EXP13596","ES770026",NA,NA,"SDY301",0,"Days","SUB133814","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"675",9841,"ARM2107","BS712843",NA,"EXP13596","ES770027",NA,NA,"SDY301",0,"Days","SUB133814","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"676",9842,"ARM2107","BS712859",NA,"EXP13596","ES770028",NA,NA,"SDY301",0,"Days","SUB133815","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"677",9843,"ARM2107","BS712859",NA,"EXP13596","ES770029",NA,NA,"SDY301",0,"Days","SUB133815","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"678",9844,"ARM2107","BS712859",NA,"EXP13596","ES770030",NA,NA,"SDY301",0,"Days","SUB133815","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"679",9845,"ARM2107","BS712661",NA,"EXP13596","ES770031",NA,NA,"SDY301",28,"Days","SUB133802","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"680",9846,"ARM2107","BS712661",NA,"EXP13596","ES770032",NA,NA,"SDY301",28,"Days","SUB133802","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"681",9847,"ARM2107","BS712661",NA,"EXP13596","ES770033",NA,NA,"SDY301",28,"Days","SUB133802","Antibody titer","Antibody titer",160,160,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"682",9848,"ARM2107","BS712677",NA,"EXP13596","ES770034",NA,NA,"SDY301",28,"Days","SUB133803","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"683",9849,"ARM2107","BS712677",NA,"EXP13596","ES770035",NA,NA,"SDY301",28,"Days","SUB133803","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"684",9850,"ARM2107","BS712677",NA,"EXP13596","ES770036",NA,NA,"SDY301",28,"Days","SUB133803","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"685",9851,"ARM2107","BS712693",NA,"EXP13596","ES770037",NA,NA,"SDY301",28,"Days","SUB133804","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"686",9852,"ARM2107","BS712693",NA,"EXP13596","ES770038",NA,NA,"SDY301",28,"Days","SUB133804","Antibody titer","Antibody titer",20,20,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"687",9853,"ARM2107","BS712693",NA,"EXP13596","ES770039",NA,NA,"SDY301",28,"Days","SUB133804","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"688",9854,"ARM2107","BS712709",NA,"EXP13596","ES770040",NA,NA,"SDY301",28,"Days","SUB133805","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"689",9855,"ARM2107","BS712709",NA,"EXP13596","ES770041",NA,NA,"SDY301",28,"Days","SUB133805","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"690",9856,"ARM2107","BS712709",NA,"EXP13596","ES770042",NA,NA,"SDY301",28,"Days","SUB133805","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"691",9857,"ARM2107","BS712725",NA,"EXP13596","ES770043",NA,NA,"SDY301",28,"Days","SUB133806","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"692",9858,"ARM2107","BS712725",NA,"EXP13596","ES770044",NA,NA,"SDY301",28,"Days","SUB133806","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"693",9859,"ARM2107","BS712725",NA,"EXP13596","ES770045",NA,NA,"SDY301",28,"Days","SUB133806","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"694",9860,"ARM2107","BS712741",NA,"EXP13596","ES770046",NA,NA,"SDY301",28,"Days","SUB133807","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"695",9861,"ARM2107","BS712741",NA,"EXP13596","ES770047",NA,NA,"SDY301",28,"Days","SUB133807","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"696",9862,"ARM2107","BS712741",NA,"EXP13596","ES770048",NA,NA,"SDY301",28,"Days","SUB133807","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"697",9863,"ARM2107","BS712757",NA,"EXP13596","ES770049",NA,NA,"SDY301",28,"Days","SUB133808","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"698",9864,"ARM2107","BS712757",NA,"EXP13596","ES770050",NA,NA,"SDY301",28,"Days","SUB133808","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"699",9865,"ARM2107","BS712757",NA,"EXP13596","ES770051",NA,NA,"SDY301",28,"Days","SUB133808","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"700",9866,"ARM2107","BS712773",NA,"EXP13596","ES770052",NA,NA,"SDY301",28,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"701",9867,"ARM2107","BS712773",NA,"EXP13596","ES770053",NA,NA,"SDY301",28,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"702",9868,"ARM2107","BS712773",NA,"EXP13596","ES770054",NA,NA,"SDY301",28,"Days","SUB133809","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"703",9869,"ARM2107","BS712789",NA,"EXP13596","ES770055",NA,NA,"SDY301",28,"Days","SUB133810","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"704",9870,"ARM2107","BS712789",NA,"EXP13596","ES770056",NA,NA,"SDY301",28,"Days","SUB133810","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"705",9871,"ARM2107","BS712789",NA,"EXP13596","ES770057",NA,NA,"SDY301",28,"Days","SUB133810","Antibody titer","Antibody titer",320,320,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"706",9872,"ARM2107","BS712805",NA,"EXP13596","ES770058",NA,NA,"SDY301",28,"Days","SUB133811","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"707",9873,"ARM2107","BS712805",NA,"EXP13596","ES770059",NA,NA,"SDY301",28,"Days","SUB133811","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"708",9874,"ARM2107","BS712805",NA,"EXP13596","ES770060",NA,NA,"SDY301",28,"Days","SUB133811","Antibody titer","Antibody titer",80,80,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"709",9875,"ARM2107","BS712821",NA,"EXP13596","ES770061",NA,NA,"SDY301",28,"Days","SUB133812","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"710",9876,"ARM2107","BS712821",NA,"EXP13596","ES770062",NA,NA,"SDY301",28,"Days","SUB133812","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"711",9877,"ARM2107","BS712821",NA,"EXP13596","ES770063",NA,NA,"SDY301",28,"Days","SUB133812","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"712",9878,"ARM2107","BS712837",NA,"EXP13596","ES770064",NA,NA,"SDY301",28,"Days","SUB133813","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"713",9879,"ARM2107","BS712837",NA,"EXP13596","ES770065",NA,NA,"SDY301",28,"Days","SUB133813","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"714",9880,"ARM2107","BS712837",NA,"EXP13596","ES770066",NA,NA,"SDY301",28,"Days","SUB133813","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"715",9881,"ARM2107","BS712853",NA,"EXP13596","ES770067",NA,NA,"SDY301",28,"Days","SUB133814","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"716",9882,"ARM2107","BS712853",NA,"EXP13596","ES770068",NA,NA,"SDY301",28,"Days","SUB133814","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"717",9883,"ARM2107","BS712853",NA,"EXP13596","ES770069",NA,NA,"SDY301",28,"Days","SUB133814","Antibody titer","Antibody titer",5,5,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"718",9884,"ARM2107","BS712869",NA,"EXP13596","ES770070",NA,NA,"SDY301",28,"Days","SUB133815","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"719",9885,"ARM2107","BS712869",NA,"EXP13596","ES770071",NA,NA,"SDY301",28,"Days","SUB133815","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799
+"720",9886,"ARM2107","BS712869",NA,"EXP13596","ES770072",NA,NA,"SDY301",28,"Days","SUB133815","Antibody titer","Antibody titer",40,40,"B/Wisconsin/01/2010","B/Wisconsin/1/2010",2799

@@ -1,0 +1,780 @@
+"","BIOSAMPLE_ACCESSION","DESCRIPTION","NAME","PLANNED_VISIT_ACCESSION","STUDY_ACCESSION","STUDY_TIME_COLLECTED","STUDY_TIME_COLLECTED_UNIT","STUDY_TIME_T0_EVENT","STUDY_TIME_T0_EVENT_SPECIFY","SUBJECT_ACCESSION","SUBTYPE","TYPE","WORKSPACE_ID"
+"1","BS712286","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"2","BS712287","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"3","BS712288","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"4","BS712289","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"5","BS712290","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"6","BS712291","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"7","BS712292","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"8","BS712293","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"9","BS712294","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"10","BS712295","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"11","BS712296","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"12","BS712297","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"13","BS712298","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"14","BS712299","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122716",NA,"Other",2799
+"15","BS712300","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"16","BS712301","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"17","BS712302","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"18","BS712303","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"19","BS712304","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"20","BS712305","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"21","BS712306","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"22","BS712307","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"23","BS712308","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"24","BS712309","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"25","BS712310","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"26","BS712311","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"27","BS712312","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"28","BS712313","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122718",NA,"Other",2799
+"29","BS712314","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"30","BS712315","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"31","BS712316","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"32","BS712317","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"33","BS712318","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"34","BS712319","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"35","BS712320","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"36","BS712321","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"37","BS712322","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"38","BS712323","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"39","BS712324","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"40","BS712325","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"41","BS712326","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"42","BS712327","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122719",NA,"Other",2799
+"43","BS712328","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"44","BS712329","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"45","BS712330","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"46","BS712331","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"47","BS712332","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"48","BS712333","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"49","BS712334","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"50","BS712335","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"51","BS712336","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"52","BS712337","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"53","BS712338","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"54","BS712339","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"55","BS712340","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"56","BS712341","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122722",NA,"Other",2799
+"57","BS712342","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"58","BS712343","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"59","BS712344","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"60","BS712345","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"61","BS712346","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"62","BS712347","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"63","BS712348","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"64","BS712349","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"65","BS712350","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"66","BS712351","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"67","BS712352","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"68","BS712353","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"69","BS712354","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"70","BS712355","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122723",NA,"Other",2799
+"71","BS712356","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"72","BS712357","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"73","BS712358","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"74","BS712359","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"75","BS712360","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"76","BS712361","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"77","BS712362","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"78","BS712363","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"79","BS712364","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"80","BS712365","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"81","BS712366","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"82","BS712367","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"83","BS712368","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"84","BS712369","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122724",NA,"Other",2799
+"85","BS712370","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"86","BS712371","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"87","BS712372","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"88","BS712373","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"89","BS712374","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"90","BS712375","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"91","BS712376","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"92","BS712377","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"93","BS712378","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"94","BS712379","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"95","BS712380","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"96","BS712381","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"97","BS712382","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"98","BS712383","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122725",NA,"Other",2799
+"99","BS712384","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"100","BS712385","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"101","BS712386","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"102","BS712387","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"103","BS712388","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"104","BS712389","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"105","BS712390","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"106","BS712391","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"107","BS712392","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"108","BS712393","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"109","BS712394","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"110","BS712395","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"111","BS712396","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"112","BS712397","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122728",NA,"Other",2799
+"113","BS712398","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"114","BS712399","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"115","BS712400","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"116","BS712401","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"117","BS712402","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"118","BS712403","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"119","BS712404","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"120","BS712405","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"121","BS712406","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"122","BS712407","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"123","BS712408","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"124","BS712409","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"125","BS712410","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"126","BS712411","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122729",NA,"Other",2799
+"127","BS712412","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"128","BS712413","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"129","BS712414","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"130","BS712415","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"131","BS712416","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"132","BS712417","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"133","BS712418","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"134","BS712419","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"135","BS712420","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"136","BS712421","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"137","BS712422","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"138","BS712423","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"139","BS712424","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122732",NA,"Other",2799
+"140","BS712425","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"141","BS712426","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"142","BS712427","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"143","BS712428","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"144","BS712429","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"145","BS712430","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"146","BS712431","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"147","BS712432","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"148","BS712433","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"149","BS712434","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"150","BS712435","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"151","BS712436","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"152","BS712437","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"153","BS712438","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122733",NA,"Other",2799
+"154","BS712439","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"155","BS712440","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"156","BS712441","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"157","BS712442","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"158","BS712443","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"159","BS712444","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"160","BS712445","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"161","BS712446","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"162","BS712447","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"163","BS712448","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"164","BS712449","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"165","BS712450","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"166","BS712451","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"167","BS712452","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122734",NA,"Other",2799
+"168","BS712453","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"169","BS712454","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"170","BS712455","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"171","BS712456","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"172","BS712457","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"173","BS712458","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"174","BS712459","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"175","BS712460","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"176","BS712461","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"177","BS712462","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"178","BS712463","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"179","BS712464","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"180","BS712465","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"181","BS712466","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122735",NA,"Other",2799
+"182","BS712467","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"183","BS712468","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"184","BS712469","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"185","BS712470","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"186","BS712471","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"187","BS712472","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"188","BS712473","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"189","BS712474","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"190","BS712475","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"191","BS712476","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"192","BS712477","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"193","BS712478","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"194","BS712479","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"195","BS712480","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122737",NA,"Other",2799
+"196","BS712481","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"197","BS712482","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"198","BS712483","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"199","BS712484","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"200","BS712485","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"201","BS712486","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"202","BS712487","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"203","BS712488","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"204","BS712489","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"205","BS712490","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"206","BS712491","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"207","BS712492","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"208","BS712493","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"209","BS712494","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122739",NA,"Other",2799
+"210","BS712495","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"211","BS712496","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"212","BS712497","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"213","BS712498","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"214","BS712499","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"215","BS712500","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"216","BS712501","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"217","BS712502","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"218","BS712503","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"219","BS712504","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"220","BS712505","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"221","BS712506","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"222","BS712507","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"223","BS712508","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122740",NA,"Other",2799
+"224","BS712509","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"225","BS712510","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"226","BS712511","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"227","BS712512","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"228","BS712513","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"229","BS712514","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"230","BS712515","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"231","BS712516","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"232","BS712517","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"233","BS712518","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"234","BS712519","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"235","BS712520","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"236","BS712521","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"237","BS712522","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122742",NA,"Other",2799
+"238","BS712523","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"239","BS712524","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"240","BS712525","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"241","BS712526","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"242","BS712527","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"243","BS712528","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"244","BS712529","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"245","BS712530","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"246","BS712531","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"247","BS712532","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"248","BS712533","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"249","BS712534","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"250","BS712535","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"251","BS712536","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122743",NA,"Other",2799
+"252","BS712537","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"253","BS712538","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"254","BS712539","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"255","BS712540","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"256","BS712541","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"257","BS712542","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"258","BS712543","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"259","BS712544","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"260","BS712545","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"261","BS712546","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"262","BS712547","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"263","BS712548","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"264","BS712549","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"265","BS712550","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122744",NA,"Other",2799
+"266","BS712551","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"267","BS712552","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"268","BS712553","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"269","BS712554","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"270","BS712555","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"271","BS712556","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"272","BS712557","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"273","BS712558","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"274","BS712559","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"275","BS712560","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"276","BS712561","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"277","BS712562","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"278","BS712563","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"279","BS712564","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122747",NA,"Other",2799
+"280","BS712565","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"281","BS712566","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"282","BS712567","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"283","BS712568","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"284","BS712569","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"285","BS712570","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"286","BS712571","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"287","BS712572","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"288","BS712573","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"289","BS712574","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"290","BS712575","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"291","BS712576","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"292","BS712577","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"293","BS712578","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122748",NA,"Other",2799
+"294","BS712579","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"295","BS712580","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"296","BS712581","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"297","BS712582","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"298","BS712583","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"299","BS712584","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"300","BS712585","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"301","BS712586","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"302","BS712587","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"303","BS712588","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"304","BS712589","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"305","BS712590","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"306","BS712591","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"307","BS712592","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122749",NA,"Other",2799
+"308","BS712593","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"309","BS712594","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"310","BS712595","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"311","BS712596","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"312","BS712597","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"313","BS712598","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"314","BS712599","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"315","BS712600","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"316","BS712601","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"317","BS712602","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"318","BS712603","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"319","BS712604","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"320","BS712605","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"321","BS712606","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122750",NA,"Other",2799
+"322","BS712607","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"323","BS712608","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"324","BS712609","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"325","BS712610","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"326","BS712611","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"327","BS712612","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"328","BS712613","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"329","BS712614","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"330","BS712615","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"331","BS712616","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"332","BS712617","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"333","BS712618","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"334","BS712619","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"335","BS712620","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122752",NA,"Other",2799
+"336","BS712621","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"337","BS712622","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"338","BS712623","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"339","BS712624","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"340","BS712625","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"341","BS712626","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"342","BS712627","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"343","BS712628","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"344","BS712629","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"345","BS712630","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"346","BS712631","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"347","BS712632","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"348","BS712633","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"349","BS712634","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122753",NA,"Other",2799
+"350","BS712635","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"351","BS712636","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"352","BS712637","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"353","BS712638","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"354","BS712639","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"355","BS712640","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"356","BS712641","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"357","BS712642","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"358","BS712643","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"359","BS712644","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"360","BS712645","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"361","BS712646","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"362","BS712647","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"363","BS712648","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122756",NA,"Other",2799
+"364","BS712649","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"365","BS712650","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"366","BS712651","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"367","BS712652","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"368","BS712653","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"369","BS712654","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"370","BS712655","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"371","BS712656","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"372","BS712657","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"373","BS712658","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"374","BS712659","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"375","BS712660","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"376","BS712661","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"377","BS712662","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"378","BS712663","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"379","BS712664","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133802",NA,"Other",2799
+"380","BS712665","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"381","BS712666","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"382","BS712667","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"383","BS712668","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"384","BS712669","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"385","BS712670","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"386","BS712671","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"387","BS712672","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"388","BS712673","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"389","BS712674","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"390","BS712675","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"391","BS712676","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"392","BS712677","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"393","BS712678","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"394","BS712679","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"395","BS712680","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133803",NA,"Other",2799
+"396","BS712681","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"397","BS712682","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"398","BS712683","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"399","BS712684","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"400","BS712685","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"401","BS712686","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"402","BS712687","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"403","BS712688","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"404","BS712689","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"405","BS712690","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"406","BS712691","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"407","BS712692","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"408","BS712693","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"409","BS712694","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"410","BS712695","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"411","BS712696","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133804",NA,"Other",2799
+"412","BS712697","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"413","BS712698","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"414","BS712699","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"415","BS712700","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"416","BS712701","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"417","BS712702","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"418","BS712703","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"419","BS712704","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"420","BS712705","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"421","BS712706","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"422","BS712707","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"423","BS712708","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"424","BS712709","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"425","BS712710","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"426","BS712711","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"427","BS712712","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133805",NA,"Other",2799
+"428","BS712713","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"429","BS712714","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"430","BS712715","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"431","BS712716","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"432","BS712717","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"433","BS712718","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"434","BS712719","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"435","BS712720","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"436","BS712721","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"437","BS712722","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"438","BS712723","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"439","BS712724","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"440","BS712725","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"441","BS712726","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"442","BS712727","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"443","BS712728","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133806",NA,"Other",2799
+"444","BS712729","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"445","BS712730","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"446","BS712731","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"447","BS712732","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"448","BS712733","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"449","BS712734","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"450","BS712735","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"451","BS712736","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"452","BS712737","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"453","BS712738","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"454","BS712739","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"455","BS712740","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"456","BS712741","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"457","BS712742","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"458","BS712743","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"459","BS712744","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133807",NA,"Other",2799
+"460","BS712745","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"461","BS712746","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"462","BS712747","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"463","BS712748","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"464","BS712749","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"465","BS712750","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"466","BS712751","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"467","BS712752","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"468","BS712753","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"469","BS712754","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"470","BS712755","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"471","BS712756","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"472","BS712757","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"473","BS712758","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"474","BS712759","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"475","BS712760","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133808",NA,"Other",2799
+"476","BS712761","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"477","BS712762","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"478","BS712763","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"479","BS712764","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"480","BS712765","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"481","BS712766","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"482","BS712767","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"483","BS712768","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"484","BS712769","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"485","BS712770","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"486","BS712771","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"487","BS712772","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"488","BS712773","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"489","BS712774","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"490","BS712775","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"491","BS712776","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133809",NA,"Other",2799
+"492","BS712777","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"493","BS712778","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"494","BS712779","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"495","BS712780","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"496","BS712781","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"497","BS712782","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"498","BS712783","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"499","BS712784","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"500","BS712785","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"501","BS712786","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"502","BS712787","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"503","BS712788","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"504","BS712789","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"505","BS712790","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"506","BS712791","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"507","BS712792","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133810",NA,"Other",2799
+"508","BS712793","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"509","BS712794","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"510","BS712795","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"511","BS712796","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"512","BS712797","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"513","BS712798","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"514","BS712799","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"515","BS712800","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"516","BS712801","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"517","BS712802","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"518","BS712803","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"519","BS712804","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"520","BS712805","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"521","BS712806","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"522","BS712807","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"523","BS712808","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133811",NA,"Other",2799
+"524","BS712809","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"525","BS712810","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"526","BS712811","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"527","BS712812","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"528","BS712813","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"529","BS712814","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"530","BS712815","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"531","BS712816","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"532","BS712817","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"533","BS712818","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"534","BS712819","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"535","BS712820","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"536","BS712821","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"537","BS712822","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"538","BS712823","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"539","BS712824","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133812",NA,"Other",2799
+"540","BS712825","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"541","BS712826","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"542","BS712827","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"543","BS712828","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"544","BS712829","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"545","BS712830","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"546","BS712831","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"547","BS712832","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"548","BS712833","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"549","BS712834","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"550","BS712835","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"551","BS712836","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"552","BS712837","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"553","BS712838","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"554","BS712839","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"555","BS712840","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133813",NA,"Other",2799
+"556","BS712841","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"557","BS712842","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"558","BS712843","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"559","BS712844","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"560","BS712845","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"561","BS712846","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"562","BS712847","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"563","BS712848","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"564","BS712849","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"565","BS712850","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"566","BS712851","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"567","BS712852","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"568","BS712853","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"569","BS712854","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"570","BS712855","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"571","BS712856","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133814",NA,"Other",2799
+"572","BS712857","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"573","BS712858","","","PV2888","SDY301",-5,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"574","BS712859","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"575","BS712860","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"576","BS712861","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"577","BS712862","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"578","BS712863","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"579","BS712864","","","PV2890","SDY301",1,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"580","BS712865","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"581","BS712866","","","PV2891","SDY301",3,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"582","BS712867","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"583","BS712868","","","PV2892","SDY301",7,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"584","BS712869","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"585","BS712870","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"586","BS712871","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"587","BS712872","","","PV2893","SDY301",28,"Days","Time of enrollment",NA,"SUB133815",NA,"Other",2799
+"588","BS720957","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122732",NA,"Other",2799
+"589","BS720958","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122742",NA,"Other",2799
+"590","BS720959","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122734",NA,"Other",2799
+"591","BS720960","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122739",NA,"Other",2799
+"592","BS720961","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122740",NA,"Other",2799
+"593","BS720962","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122741",NA,"Other",2799
+"594","BS720963","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122744",NA,"Other",2799
+"595","BS720964","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122747",NA,"Other",2799
+"596","BS720965","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122748",NA,"Other",2799
+"597","BS720966","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122752",NA,"Other",2799
+"598","BS720967","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133814",NA,"Other",2799
+"599","BS720968","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122735",NA,"Other",2799
+"600","BS720969","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133802",NA,"Other",2799
+"601","BS720970","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133803",NA,"Other",2799
+"602","BS720971","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133804",NA,"Other",2799
+"603","BS720972","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133805",NA,"Other",2799
+"604","BS720973","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133806",NA,"Other",2799
+"605","BS720974","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133807",NA,"Other",2799
+"606","BS720975","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133808",NA,"Other",2799
+"607","BS720976","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133809",NA,"Other",2799
+"608","BS720977","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133809",NA,"Other",2799
+"609","BS720978","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133810",NA,"Other",2799
+"610","BS720979","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133811",NA,"Other",2799
+"611","BS720980","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133812",NA,"Other",2799
+"612","BS720981","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133813",NA,"Other",2799
+"613","BS720982","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133814",NA,"Other",2799
+"614","BS720983","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122732",NA,"Other",2799
+"615","BS720984","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122743",NA,"Other",2799
+"616","BS720985","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122733",NA,"Other",2799
+"617","BS720986","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122740",NA,"Other",2799
+"618","BS720987","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122741",NA,"Other",2799
+"619","BS720988","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122744",NA,"Other",2799
+"620","BS720989","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122747",NA,"Other",2799
+"621","BS720990","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122748",NA,"Other",2799
+"622","BS720991","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122752",NA,"Other",2799
+"623","BS720992","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133814",NA,"Other",2799
+"624","BS720993","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122735",NA,"Other",2799
+"625","BS720994","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133802",NA,"Other",2799
+"626","BS720995","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133803",NA,"Other",2799
+"627","BS720996","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133804",NA,"Other",2799
+"628","BS720997","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133805",NA,"Other",2799
+"629","BS720998","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133806",NA,"Other",2799
+"630","BS720999","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133807",NA,"Other",2799
+"631","BS721000","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133808",NA,"Other",2799
+"632","BS721001","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133809",NA,"Other",2799
+"633","BS721002","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133809",NA,"Other",2799
+"634","BS721003","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133810",NA,"Other",2799
+"635","BS721004","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133811",NA,"Other",2799
+"636","BS721005","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133813",NA,"Other",2799
+"637","BS721006","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133814",NA,"Other",2799
+"638","BS721007","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122732",NA,"Other",2799
+"639","BS721008","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122742",NA,"Other",2799
+"640","BS721009","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122743",NA,"Other",2799
+"641","BS721010","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122733",NA,"Other",2799
+"642","BS721011","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122734",NA,"Other",2799
+"643","BS721012","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122737",NA,"Other",2799
+"644","BS721013","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122739",NA,"Other",2799
+"645","BS721014","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122740",NA,"Other",2799
+"646","BS721015","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122741",NA,"Other",2799
+"647","BS721016","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122744",NA,"Other",2799
+"648","BS721017","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122747",NA,"Other",2799
+"649","BS721018","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122748",NA,"Other",2799
+"650","BS721019","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122749",NA,"Other",2799
+"651","BS721020","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122752",NA,"Other",2799
+"652","BS721021","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133814",NA,"Other",2799
+"653","BS721022","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122735",NA,"Other",2799
+"654","BS721023","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133802",NA,"Other",2799
+"655","BS721024","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133803",NA,"Other",2799
+"656","BS721025","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133804",NA,"Other",2799
+"657","BS721026","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133805",NA,"Other",2799
+"658","BS721027","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133806",NA,"Other",2799
+"659","BS721028","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133807",NA,"Other",2799
+"660","BS721029","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133808",NA,"Other",2799
+"661","BS721030","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133809",NA,"Other",2799
+"662","BS721031","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133811",NA,"Other",2799
+"663","BS721032","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133812",NA,"Other",2799
+"664","BS721033","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133813",NA,"Other",2799
+"665","BS721034","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133814",NA,"Other",2799
+"666","BS721035","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122732",NA,"Other",2799
+"667","BS721036","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122742",NA,"Other",2799
+"668","BS721037","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122743",NA,"Other",2799
+"669","BS721038","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122733",NA,"Other",2799
+"670","BS721039","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122734",NA,"Other",2799
+"671","BS721040","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122737",NA,"Other",2799
+"672","BS721041","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122739",NA,"Other",2799
+"673","BS721042","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122740",NA,"Other",2799
+"674","BS721043","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122741",NA,"Other",2799
+"675","BS721044","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122744",NA,"Other",2799
+"676","BS721045","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122747",NA,"Other",2799
+"677","BS721046","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122748",NA,"Other",2799
+"678","BS721047","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122749",NA,"Other",2799
+"679","BS721048","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122752",NA,"Other",2799
+"680","BS721049","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133814",NA,"Other",2799
+"681","BS721050","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122735",NA,"Other",2799
+"682","BS721051","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133802",NA,"Other",2799
+"683","BS721052","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133803",NA,"Other",2799
+"684","BS721053","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133804",NA,"Other",2799
+"685","BS721054","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133805",NA,"Other",2799
+"686","BS721055","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133806",NA,"Other",2799
+"687","BS721056","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133807",NA,"Other",2799
+"688","BS721057","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133808",NA,"Other",2799
+"689","BS721058","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133809",NA,"Other",2799
+"690","BS721059","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133810",NA,"Other",2799
+"691","BS721060","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133811",NA,"Other",2799
+"692","BS721061","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133812",NA,"Other",2799
+"693","BS721062","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133813",NA,"Other",2799
+"694","BS721063","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB133814",NA,"Other",2799
+"695","BS721064","","","PV2143","SDY301",0,"Days","Time of initial vaccine administration",NA,"SUB122753",NA,"Other",2799
+"696","BS751054","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133802",NA,"Whole blood",2799
+"697","BS751055","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133803",NA,"Whole blood",2799
+"698","BS751056","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133804",NA,"Whole blood",2799
+"699","BS751057","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133805",NA,"Whole blood",2799
+"700","BS751058","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133806",NA,"Whole blood",2799
+"701","BS751059","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133807",NA,"Whole blood",2799
+"702","BS751060","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133808",NA,"Whole blood",2799
+"703","BS751061","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133809",NA,"Whole blood",2799
+"704","BS751062","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133810",NA,"Whole blood",2799
+"705","BS751063","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133811",NA,"Whole blood",2799
+"706","BS751064","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133812",NA,"Whole blood",2799
+"707","BS751065","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133813",NA,"Whole blood",2799
+"708","BS751066","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133814",NA,"Whole blood",2799
+"709","BS751067","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB133815",NA,"Whole blood",2799
+"710","BS751068","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122716",NA,"Whole blood",2799
+"711","BS751069","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122718",NA,"Whole blood",2799
+"712","BS751070","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122719",NA,"Whole blood",2799
+"713","BS751071","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122722",NA,"Whole blood",2799
+"714","BS751072","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122723",NA,"Whole blood",2799
+"715","BS751073","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122725",NA,"Whole blood",2799
+"716","BS751074","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122728",NA,"Whole blood",2799
+"717","BS751075","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122729",NA,"Whole blood",2799
+"718","BS751076","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122733",NA,"Whole blood",2799
+"719","BS751077","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122734",NA,"Whole blood",2799
+"720","BS751078","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122735",NA,"Whole blood",2799
+"721","BS751079","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122737",NA,"Whole blood",2799
+"722","BS751080","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122739",NA,"Whole blood",2799
+"723","BS751081","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122740",NA,"Whole blood",2799
+"724","BS751082","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122742",NA,"Whole blood",2799
+"725","BS751083","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122743",NA,"Whole blood",2799
+"726","BS751084","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122744",NA,"Whole blood",2799
+"727","BS751085","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122747",NA,"Whole blood",2799
+"728","BS751086","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122748",NA,"Whole blood",2799
+"729","BS751087","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122749",NA,"Whole blood",2799
+"730","BS751088","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122750",NA,"Whole blood",2799
+"731","BS751089","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122752",NA,"Whole blood",2799
+"732","BS751090","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122753",NA,"Whole blood",2799
+"733","BS751091","","","PV2889","SDY301",0,"Days","Time of enrollment",NA,"SUB122756",NA,"Whole blood",2799
+"734","BS770823","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122716",NA,"Whole blood",2799
+"735","BS770824","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122716",NA,"Whole blood",2799
+"736","BS770825","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122718",NA,"Whole blood",2799
+"737","BS770826","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122718",NA,"Whole blood",2799
+"738","BS770827","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122719",NA,"Whole blood",2799
+"739","BS770828","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122719",NA,"Whole blood",2799
+"740","BS770829","WB","V13","PV2893","SDY301",28,"Days","Time of initial vaccine administration",NA,"SUB122722",NA,"Whole blood",2799
+"741","BS770830","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122722",NA,"Whole blood",2799
+"742","BS770831","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122722",NA,"Whole blood",2799
+"743","BS770832","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122723",NA,"Whole blood",2799
+"744","BS770833","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122723",NA,"Whole blood",2799
+"745","BS770834","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122724",NA,"Whole blood",2799
+"746","BS770835","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122724",NA,"Whole blood",2799
+"747","BS770836","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122725",NA,"Whole blood",2799
+"748","BS770837","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122725",NA,"Whole blood",2799
+"749","BS770838","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122728",NA,"Whole blood",2799
+"750","BS770839","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122728",NA,"Whole blood",2799
+"751","BS770840","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122732",NA,"Whole blood",2799
+"752","BS770841","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122732",NA,"Whole blood",2799
+"753","BS770842","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122733",NA,"Whole blood",2799
+"754","BS770843","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122733",NA,"Whole blood",2799
+"755","BS770844","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122734",NA,"Whole blood",2799
+"756","BS770845","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122734",NA,"Whole blood",2799
+"757","BS770846","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122735",NA,"Whole blood",2799
+"758","BS770847","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122735",NA,"Whole blood",2799
+"759","BS770848","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122737",NA,"Whole blood",2799
+"760","BS770849","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122737",NA,"Whole blood",2799
+"761","BS770850","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122739",NA,"Whole blood",2799
+"762","BS770851","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122740",NA,"Whole blood",2799
+"763","BS770852","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122740",NA,"Whole blood",2799
+"764","BS770853","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122742",NA,"Whole blood",2799
+"765","BS770854","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122742",NA,"Whole blood",2799
+"766","BS770855","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122743",NA,"Whole blood",2799
+"767","BS770856","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122743",NA,"Whole blood",2799
+"768","BS770857","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122748",NA,"Whole blood",2799
+"769","BS770858","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122748",NA,"Whole blood",2799
+"770","BS770859","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122749",NA,"Whole blood",2799
+"771","BS770860","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122749",NA,"Whole blood",2799
+"772","BS770861","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122750",NA,"Whole blood",2799
+"773","BS770862","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122750",NA,"Whole blood",2799
+"774","BS770863","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122752",NA,"Whole blood",2799
+"775","BS770864","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122752",NA,"Whole blood",2799
+"776","BS770865","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122753",NA,"Whole blood",2799
+"777","BS770866","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122753",NA,"Whole blood",2799
+"778","BS770867","WB","V14","PV2894","SDY301",120,"Days","Time of initial vaccine administration",NA,"SUB122756",NA,"Whole blood",2799
+"779","BS770868","WB","V15","PV2895","SDY301",240,"Days","Time of initial vaccine administration",NA,"SUB122756",NA,"Whole blood",2799

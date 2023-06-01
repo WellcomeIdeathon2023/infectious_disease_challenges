@@ -1,0 +1,10 @@
+"","NAME","DESCRIPTION","LINK","YEAR_DEVISOR"
+"1","Days","Unit of Days.","http://purl.obolibrary.org/obo/NCIT_C25301",365
+"2","Hours","Unit of Hours.","http://purl.obolibrary.org/obo/NCIT_C25529",8760
+"3","Minutes","Unit of Minutes.","http://purl.obolibrary.org/obo/NCIT_C48154",525600
+"4","Months","Unit of Months.","http://purl.obolibrary.org/obo/NCIT_C29846",12
+"5","Not Specified","Unit is not specified or not received. If no Unit value is received, then this is the system default value.","",-1
+"6","Seconds","Unit of Seconds.","http://purl.obolibrary.org/obo/NCIT_C25666",31536000
+"7","Weeks","Unit of Weeks.","http://purl.obolibrary.org/obo/NCIT_C29844",52.142857143
+"8","Years","Unit of Years.","http://purl.obolibrary.org/obo/NCIT_C29848",1
+"9","d.p.c.","Unit of Days Post Coitum (d.p.c.).","https://en.wikipedia.org/wiki/Days_post_coitum",365

@@ -1,0 +1,48 @@
+"","REAGENT_ACCESSION","ANALYTE_ACCESSION","ANALYTE_PREFERRED","ANALYTE_REPORTED","ANTIBODY_REGISTRY_ID","CATALOG_NUMBER","CLONE_NAME","CONTACT","DESCRIPTION","IS_SET","LOT_NUMBER","MANUFACTURER","NAME","REPORTER_NAME","TYPE","WEBLINK","WORKSPACE_ID"
+"1","ESR11386","","","Recombinant (6:2) influenza A virus A/Puerto Rico/8/1934: A/California/7/09 HA, NA (H1N1)","",NA,"",NA,"","N","","Serology Core","Recombinant (6:2) influenza A virus A/Puerto Rico/8/1934: A/California/7/09 HA, NA (H1N1)","","",NA,2799
+"2","ESR11387","","","A/Perth/16/2009 (H3N2)","","FR-370; Lot 59035772","",NA,"","N","","ATCC","A/Perth/16/2009 (H3N2)","","",NA,2799
+"3","ESR11388","","","B/Brisbane/60/2008","","CDC","",NA,"","","","","","","",NA,NA
+"4","ESR11389","ANA809","CD3","CD3","",NA,"Anti-CD3",NA,"","N",NA,NA,"CD3","FITC","Other",NA,2799
+"5","ESR11390","ANA804","CD14","CD14","AB_400312","347497","Clone M phi P9",NA,"AB_400312","N",NA,"BD Biosciences","CD14","PE","Flow Cytometry",NA,2799
+"6","ESR11391","ANA805","CD19","CD19","AB_130854","IM2708U","Clone J4.119",NA,"AB_130854","N","44","Beckman Coulter","CD19","ECD","Flow Cytometry",NA,2799
+"7","ESR11392","ANA806","CD20","CD20","AB_395990","555624","Clone 2H7",NA,"AB_395990","N","29917","BD Biosciences","CD20","PC5","Flow Cytometry",NA,2799
+"8","ESR11393","ANA815","CD56","CD56","AB_395907","555517","Clone B159",NA,"AB_395907","N",NA,"BD Biosciences","CD56","PC5","Flow Cytometry",NA,2799
+"9","ESR11394","ANA808","CD38","CD38","AB_399969","335790","Clone HB7",NA,"AB_399969","N","52279","BD Biosciences","CD38","PC7","Flow Cytometry",NA,2799
+"10","ESR11395","ANA891","CD138","CD138","AB_400571","347207","Clone MI15",NA,"AB_400571","N","8320","BD Biosciences","CD138","APC","Flow Cytometry",NA,2799
+"11","ESR11396","ANA811","CD16","CD16","",NA,"Anti-CD16",NA,"","N",NA,NA,"CD16","A700","Other",NA,2799
+"12","ESR11397","ANA40","CD27","CD27","AB_571977","302816","Clone O323",NA,"AB_571977","N","B122214","Biolegend","CD27","APC-Cy7","Flow Cytometry",NA,2799
+"13","ESR11398","ANA868","B7-2","B7-2","AB_1645585","560357","Anti-CD86",NA,"AB_1645585","N","77916","BD Biosciences","CD86","V450 (PB)","Flow Cytometry",NA,2799
+"14","ESR11399","ANA822","CD45RO","CD45","AB_10376143; AB_1475776","MHCD4530","Clone HI30",NA,"AB_1475776,AB_10376143","N","954368A","Invitrogen","CD45","PO","Other",NA,2799
+"15","ESR11400","","","Lin-1","AB_400053","340546","Anti-Lin-1",NA,"AB_400053","N","67775","BD Biosciences","Lin-1","FITC","Flow Cytometry",NA,2799
+"16","ESR11401","ANA870","BDCA2, CD303","BDCA2, CD303","AB_244168","130-090-511","Clone AC144",NA,"AB_244168","N","5100614231","Miltenyi","BDCA-2","PE","Other",NA,2799
+"17","ESR11402","ANA860","CD2","CD2","AB_10374323; AB_1500438","CD0217","Clone S5.5",NA,"AB_1500438,AB_10374323","N","730063A","Invitrogen","CD2","ECD","Other",NA,2799
+"18","ESR11403","ANA42","CD40","CD40","AB_395965","555590","Clone 5C3",NA,"AB_395965","N","93876","BD Biosciences","CD40","PC5","Flow Cytometry",NA,2799
+"19","ESR11404","ANA895","BDCA1","BDCA1","AB_2275574","331516","Clone L161",NA,"AB_2275574","N","B128483","Biolegend","CD1c","PC7","Flow Cytometry",NA,2799
+"20","ESR11405","ANA894","BDCA3","BDCA3","AB_244170","130-090-907","Clone AD5-14H12",NA,"AB_244170","N","5100322219","Miltenyi","BDCA-3","APC","Other",NA,2799
+"21","ESR11406","ANA812","HLADR","HLADR","AB_893565","327014","Clone LN3",NA,"AB_893565","N","B125317","Biolegend","HLA-DR","A700","Flow Cytometry",NA,2799
+"22","ESR11407","ANA814","CD11c","CD11c","",NA,"Anti-CD11c",NA,"","N","B136454","Biolegend","CD11c","APC-Cy7","Flow Cytometry",NA,2799
+"23","ESR11408","ANA78","CXCR5","CXCR5","AB_397034","558112","Clone RF8B2",NA,"AB_397034","N","61380","BD Biosciences","CXCR5","FITC","Flow Cytometry",NA,2799
+"24","ESR11409","","","CCR6 (CD196)","AB_397273","559562","Clone 11A9",NA,"AB_397273","N","42943","BD Biosciences","CCR6 (CD196)","PE","Flow Cytometry",NA,2799
+"25","ESR11410","ANA816","CD45RA","CD45RA","AB_10640553","IM2711U","Anti-CD45RA",NA,"AB_10640553","N","42","Beckman Coulter","CD45RA","ECD","Flow Cytometry",NA,2799
+"26","ESR11411","","","CXCR3 (CD183)","AB_394061","551128","Clone 1C6/CXCR3",NA,"AB_394061","N","57696","BD Biosciences","CXCR3 (CD183)","PC5","Flow Cytometry",NA,2799
+"27","ESR11412","","","ICOS (CD278)","",NA,"Anti-ICOS (CD278)",NA,"","N",NA,NA,"ICOS (CD278)","PC7","Other",NA,2799
+"28","ESR11413","ANA810","CD8","CD8","",NA,"Anti-CD8",NA,"","N",NA,NA,"CD8","APC","Other",NA,2799
+"29","ESR11414","ANA809","CD3","CD3","AB_396952","557943","Clone UCHT1",NA,"AB_396952","N","72537","BD Biosciences","CD3","A700","Flow Cytometry",NA,2799
+"30","ESR11415","ANA41","CD4","CD4","",NA,"Anti-CD4",NA,"","N",NA,NA,"CD4","APC-Cy7","Other",NA,2799
+"31","ESR11416","ANA812","HLADR","HLADR","",NA,"Anti-HLA-DR",NA,"","N",NA,NA,"HLA-DR","V450 (PB)","Other",NA,2799
+"32","ESR11417","","","","",NA,"",NA,"","Y","",NA,"AIRFV_BCELL_TUBE1","","Flow Cytometry",NA,2799
+"33","ESR11418","","","","",NA,"",NA,"","Y","",NA,"AIRFV_DC_TUBE2","","Flow Cytometry",NA,2799
+"34","ESR11419","","","","",NA,"",NA,"","Y","",NA,"AIRFV_TFH_TUBE3","","Flow Cytometry",NA,2799
+"35","ESR11481","","","","","BD-103-0204","",NA,"","N","","Illumina","GX-BeadChip HT12v4","","",NA,2799
+"36","ESR12849","","","","","15025062","",NA,"","N","","Illumina","TRUSEQ RNA SAMPLE PREP KIT V2_Box A","","Sequencing",NA,2799
+"37","ESR12850","","","","","15027078","",NA,"","N","","Illumina","TRUSEQ RNA SAMPLE PREP KIT V2_Box 1","","Sequencing",NA,2799
+"38","ESR12851","","","","","15027387","",NA,"","N","","Illumina","TRUSEQ RNA SAMPLE PREP KIT V2_Box 2_8441530/8527616 combined","","Sequencing",NA,2799
+"39","ESR12852","","","","","15027084","",NA,"","N","","Illumina","TRUSEQ RNA SAMPLE PREP KIT V2_PCR Box","","Sequencing",NA,2799
+"40","ESR12853","","","","","NA","",NA,"","N","","Illumina","Cluster generation_Reagent_GA2001014-PE3/GA2158702-PE3","","Sequencing",NA,2799
+"41","ESR12854","","","","","15022186","",NA,"","N","","Illumina","Cluster generation_Flow cell_COUMKACXX/D16B4ACXX","","Sequencing",NA,2799
+"42","ESR12855","","","","","15010705","",NA,"","N","","Illumina","Cluster generation_Manifold","","Sequencing",NA,2799
+"43","ESR12856","","","","","15021655","",NA,"","N","","Illumina","TRUSEQ PE CLUSTER KIT V3_Box 2_RGT2020137/RGT2158708","","Sequencing",NA,2799
+"44","ESR12857","","","","","15021661","",NA,"","N","","Illumina","SBS reagents_SBS box 1_RGT2120666/RGT2167122","","Sequencing",NA,2799
+"45","ESR12858","","","","","15021662","",NA,"","N","","Illumina","SBS reagents_SBS box 2_RGT2176218/REA0266475","","Sequencing",NA,2799
+"46","ESR12859","","","","","15017557","",NA,"","N","","Illumina","SBS reagents_TRUSEQ MULTIPLEX_RGT2090581/REA0207987","","Sequencing",NA,2799
+"47","ESR14772","","","","","100050","",NA,"","N","","Nanostring","Master Kit","","Other",NA,2799

@@ -1,0 +1,514 @@
+"","ASSESSMENT_COMPONENT_ACCESSION","AGE_AT_ONSET_PREFERRED","AGE_AT_ONSET_REPORTED","AGE_AT_ONSET_UNIT_PREFERRED","AGE_AT_ONSET_UNIT_REPORTED","ASSESSMENT_PANEL_ACCESSION","IS_CLINICALLY_SIGNIFICANT","LOCATION_OF_FINDING_PREFERRED","LOCATION_OF_FINDING_REPORTED","NAME_PREFERRED","NAME_REPORTED","ORGAN_OR_BODY_SYSTEM_PREFERRED","ORGAN_OR_BODY_SYSTEM_REPORTED","PLANNED_VISIT_ACCESSION","REFERENCE_RANGE_ACCESSION","RESULT_UNIT_PREFERRED","RESULT_UNIT_REPORTED","RESULT_VALUE_CATEGORY","RESULT_VALUE_PREFERRED","RESULT_VALUE_REPORTED","STUDY_DAY","SUBJECT_ACCESSION","SUBJECT_POSITION_PREFERRED","SUBJECT_POSITION_REPORTED","TIME_OF_DAY","VERBATIM_QUESTION","WHO_IS_ASSESSED","WORKSPACE_ID"
+"1","AC705061",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"2","AC705062",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"3","AC705063",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"4","AC705064",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"5","AC705065",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Unk",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"6","AC705066",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"7","AC705067",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"8","AC705068",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"9","AC705069",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"10","AC705070",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"11","AC705071",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"12","AC705072",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"13","AC705073",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"14","AC705074",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"15","AC705075",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"16","AC705076",48,48,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122716",NA,NA,NA,NA,NA,2799
+"17","AC705077",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"18","AC705078",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"19","AC705079",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"20","AC705080",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"21","AC705081",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"22","AC705082",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"23","AC705083",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"24","AC705084",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"25","AC705085",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"26","AC705086",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"27","AC705087",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"28","AC705088",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"29","AC705089",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"30","AC705090",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"31","AC705091",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"32","AC705092",26,26,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122717",NA,NA,NA,NA,NA,2799
+"33","AC705093",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"34","AC705094",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"35","AC705095",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"36","AC705096",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"UNK",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"37","AC705097",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"38","AC705098",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"39","AC705099",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"40","AC705100",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"41","AC705101",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"42","AC705102",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"43","AC705103",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"44","AC705104",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"45","AC705105",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"46","AC705106",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"47","AC705107",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"48","AC705108",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122718",NA,NA,NA,NA,NA,2799
+"49","AC705109",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"50","AC705110",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"51","AC705111",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"52","AC705112",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"53","AC705113",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"54","AC705114",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"55","AC705115",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"56","AC705116",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"57","AC705117",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"58","AC705118",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"59","AC705119",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"60","AC705120",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"61","AC705121",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"62","AC705122",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"63","AC705123",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"64","AC705124",50,50,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122719",NA,NA,NA,NA,NA,2799
+"65","AC705125",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"66","AC705126",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"UNK",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"67","AC705127",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"68","AC705128",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"69","AC705129",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"70","AC705130",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"71","AC705131",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"72","AC705132",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"73","AC705133",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"74","AC705134",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"75","AC705135",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"76","AC705136",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"77","AC705137",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"78","AC705138",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"79","AC705139",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"80","AC705140",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122721",NA,NA,NA,NA,NA,2799
+"81","AC705141",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"82","AC705142",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"83","AC705143",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"84","AC705144",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"85","AC705145",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"86","AC705146",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"87","AC705147",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"88","AC705148",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"89","AC705149",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"90","AC705150",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"91","AC705151",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"92","AC705152",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"93","AC705153",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"94","AC705154",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"95","AC705155",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"96","AC705156",33,33,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122723",NA,NA,NA,NA,NA,2799
+"97","AC705157",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"98","AC705158",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"99","AC705159",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"100","AC705160",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"101","AC705161",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"102","AC705162",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"103","AC705163",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"104","AC705164",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"105","AC705165",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"106","AC705166",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"107","AC705167",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"108","AC705168",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"109","AC705169",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"110","AC705170",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"111","AC705171",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"112","AC705172",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122724",NA,NA,NA,NA,NA,2799
+"113","AC705173",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"114","AC705174",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"115","AC705175",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"116","AC705176",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"117","AC705177",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"118","AC705178",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"119","AC705179",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"120","AC705180",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"121","AC705181",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"122","AC705182",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"123","AC705183",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"124","AC705184",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"125","AC705185",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"126","AC705186",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"127","AC705187",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"128","AC705188",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122725",NA,NA,NA,NA,NA,2799
+"129","AC705189",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"130","AC705190",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"131","AC705191",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"132","AC705192",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"133","AC705193",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"134","AC705194",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"135","AC705195",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"136","AC705196",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"137","AC705197",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"138","AC705198",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"139","AC705199",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"140","AC705200",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"141","AC705201",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"142","AC705202",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"143","AC705203",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"144","AC705204",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122726",NA,NA,NA,NA,NA,2799
+"145","AC705205",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"146","AC705206",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"147","AC705207",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"148","AC705208",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"149","AC705209",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Unk",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"150","AC705210",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"151","AC705211",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"152","AC705212",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"153","AC705213",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"154","AC705214",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"155","AC705215",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"156","AC705216",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"157","AC705217",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"158","AC705218",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"159","AC705219",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"160","AC705220",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122727",NA,NA,NA,NA,NA,2799
+"161","AC705221",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"162","AC705222",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"163","AC705223",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"164","AC705224",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"165","AC705225",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"166","AC705226",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"167","AC705227",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"168","AC705228",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"169","AC705229",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"170","AC705230",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"171","AC705231",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"172","AC705232",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"173","AC705233",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"174","AC705234",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"175","AC705235",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"176","AC705236",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122729",NA,NA,NA,NA,NA,2799
+"177","AC705237",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"178","AC705238",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"179","AC705239",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"180","AC705240",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"181","AC705241",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"182","AC705242",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"183","AC705243",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"184","AC705244",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"185","AC705245",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"186","AC705246",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"187","AC705247",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"188","AC705248",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"189","AC705249",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"190","AC705250",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"191","AC705251",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"192","AC705252",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122731",NA,NA,NA,NA,NA,2799
+"193","AC705253",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"194","AC705254",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"195","AC705255",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"196","AC705256",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"197","AC705257",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"198","AC705258",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"199","AC705259",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"200","AC705260",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"201","AC705261",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"202","AC705262",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"203","AC705263",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"204","AC705264",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"205","AC705265",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"206","AC705266",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"207","AC705267",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"208","AC705268",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122732",NA,NA,NA,NA,NA,2799
+"209","AC705269",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"210","AC705270",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"211","AC705271",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"212","AC705272",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"213","AC705273",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"214","AC705274",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"215","AC705275",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"216","AC705276",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"217","AC705277",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"218","AC705278",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"219","AC705279",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"220","AC705280",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"221","AC705281",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"222","AC705282",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"223","AC705283",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"224","AC705284",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122733",NA,NA,NA,NA,NA,2799
+"225","AC705285",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"226","AC705286",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"227","AC705287",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"228","AC705288",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"229","AC705289",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"230","AC705290",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"231","AC705291",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"232","AC705292",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"233","AC705293",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"234","AC705294",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"235","AC705295",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"236","AC705296",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"237","AC705297",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"238","AC705298",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"239","AC705299",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"240","AC705300",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122737",NA,NA,NA,NA,NA,2799
+"241","AC705301",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"242","AC705302",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"243","AC705303",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"244","AC705304",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"245","AC705305",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"246","AC705306",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"247","AC705307",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"248","AC705308",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"249","AC705309",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"250","AC705310",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"251","AC705311",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"252","AC705312",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"253","AC705313",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"254","AC705314",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"255","AC705315",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"256","AC705316",44,44,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122740",NA,NA,NA,NA,NA,2799
+"257","AC705317",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"258","AC705318",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"259","AC705319",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"260","AC705320",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"261","AC705321",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"262","AC705322",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"263","AC705323",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"264","AC705324",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"265","AC705325",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"266","AC705326",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"267","AC705327",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"268","AC705328",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"269","AC705329",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"270","AC705330",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"271","AC705331",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"272","AC705332",58,58,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122742",NA,NA,NA,NA,NA,2799
+"273","AC705333",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"274","AC705334",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"275","AC705335",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"276","AC705336",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"277","AC705337",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"278","AC705338",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"279","AC705339",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"280","AC705340",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"281","AC705341",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"282","AC705342",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"283","AC705343",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"284","AC705344",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"285","AC705345",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"286","AC705346",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"287","AC705347",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"288","AC705348",56,56,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122743",NA,NA,NA,NA,NA,2799
+"289","AC705349",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"290","AC705350",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"291","AC705351",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"292","AC705352",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"293","AC705353",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"294","AC705354",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"295","AC705355",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"296","AC705356",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"297","AC705357",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"298","AC705358",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"299","AC705359",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"300","AC705360",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"301","AC705361",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"302","AC705362",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"303","AC705363",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"304","AC705364",24,24,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122748",NA,NA,NA,NA,NA,2799
+"305","AC705365",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"306","AC705366",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"307","AC705367",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"308","AC705368",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"309","AC705369",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"310","AC705370",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"311","AC705371",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"312","AC705372",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"313","AC705373",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"314","AC705374",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"315","AC705375",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"316","AC705376",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"317","AC705377",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"318","AC705378",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"319","AC705379",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"320","AC705380",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122749",NA,NA,NA,NA,NA,2799
+"321","AC705381",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"322","AC705382",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"323","AC705383",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"324","AC705384",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"325","AC705385",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"326","AC705386",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"327","AC705387",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"328","AC705388",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"329","AC705389",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"330","AC705390",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"331","AC705391",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"332","AC705392",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"333","AC705393",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"334","AC705394",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"335","AC705395",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"336","AC705396",46,46,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122750",NA,NA,NA,NA,NA,2799
+"337","AC705397",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"338","AC705398",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"339","AC705399",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"340","AC705400",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"341","AC705401",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"342","AC705402",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"343","AC705403",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"344","AC705404",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"345","AC705405",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"346","AC705406",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"347","AC705407",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"348","AC705408",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"349","AC705409",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"350","AC705410",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"351","AC705411",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"352","AC705412",35,35,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122752",NA,NA,NA,NA,NA,2799
+"353","AC705413",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"354","AC705414",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"355","AC705415",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"356","AC705416",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"357","AC705417",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"358","AC705418",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"359","AC705419",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"360","AC705420",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"361","AC705421",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"362","AC705422",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"363","AC705423",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"364","AC705424",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"365","AC705425",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"366","AC705426",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"367","AC705427",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"368","AC705428",29,29,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122754",NA,NA,NA,NA,NA,2799
+"369","AC705429",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"370","AC705430",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"371","AC705431",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"372","AC705432",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"373","AC705433",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"374","AC705434",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"375","AC705435",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"376","AC705436",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"377","AC705437",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"378","AC705438",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"379","AC705439",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"380","AC705440",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"381","AC705441",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"382","AC705442",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"383","AC705443",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"384","AC705444",53,53,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122755",NA,NA,NA,NA,NA,2799
+"385","AC705445",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"386","AC705446",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"387","AC705447",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"388","AC705448",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"389","AC705449",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"390","AC705450",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"391","AC705451",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"392","AC705452",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"393","AC705453",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"394","AC705454",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"395","AC705455",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"396","AC705456",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"397","AC705457",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"398","AC705458",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"399","AC705459",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"400","AC705460",57,57,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122756",NA,NA,NA,NA,NA,2799
+"401","AC705461",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"402","AC705462",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"403","AC705463",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"404","AC705464",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"405","AC705465",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"406","AC705466",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"407","AC705467",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Td Tdap",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"408","AC705468",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Varicella",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"409","AC705469",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"HPV",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"410","AC705470",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Shingles",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"411","AC705471",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"MMR",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"412","AC705472",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Polysaccharide",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"413","AC705473",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Meningococcal",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"414","AC705474",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis A",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"415","AC705475",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"416","AC705476",42,42,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis C",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122722",NA,NA,NA,NA,NA,2799
+"417","AC705477",39,39,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122720",NA,NA,NA,NA,NA,2799
+"418","AC705478",39,39,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122720",NA,NA,NA,NA,NA,2799
+"419","AC705479",39,39,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122720",NA,NA,NA,NA,NA,2799
+"420","AC705480",39,39,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122720",NA,NA,NA,NA,NA,2799
+"421","AC705481",39,39,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122720",NA,NA,NA,NA,NA,2799
+"422","AC705482",39,39,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122720",NA,NA,NA,NA,NA,2799
+"423","AC705483",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122730",NA,NA,NA,NA,NA,2799
+"424","AC705484",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122730",NA,NA,NA,NA,NA,2799
+"425","AC705485",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122730",NA,NA,NA,NA,NA,2799
+"426","AC705486",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122730",NA,NA,NA,NA,NA,2799
+"427","AC705487",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122730",NA,NA,NA,NA,NA,2799
+"428","AC705488",21,21,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122730",NA,NA,NA,NA,NA,2799
+"429","AC705489",55,55,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122734",NA,NA,NA,NA,NA,2799
+"430","AC705490",55,55,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122734",NA,NA,NA,NA,NA,2799
+"431","AC705491",55,55,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122734",NA,NA,NA,NA,NA,2799
+"432","AC705492",55,55,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122734",NA,NA,NA,NA,NA,2799
+"433","AC705493",55,55,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122734",NA,NA,NA,NA,NA,2799
+"434","AC705494",55,55,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122734",NA,NA,NA,NA,NA,2799
+"435","AC705495",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122735",NA,NA,NA,NA,NA,2799
+"436","AC705496",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122735",NA,NA,NA,NA,NA,2799
+"437","AC705497",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122735",NA,NA,NA,NA,NA,2799
+"438","AC705498",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122735",NA,NA,NA,NA,NA,2799
+"439","AC705499",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122735",NA,NA,NA,NA,NA,2799
+"440","AC705500",43,43,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122735",NA,NA,NA,NA,NA,2799
+"441","AC705501",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122736",NA,NA,NA,NA,NA,2799
+"442","AC705502",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122736",NA,NA,NA,NA,NA,2799
+"443","AC705503",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122736",NA,NA,NA,NA,NA,2799
+"444","AC705504",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122736",NA,NA,NA,NA,NA,2799
+"445","AC705505",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122736",NA,NA,NA,NA,NA,2799
+"446","AC705506",51,51,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122736",NA,NA,NA,NA,NA,2799
+"447","AC705507",28,28,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122738",NA,NA,NA,NA,NA,2799
+"448","AC705508",28,28,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122738",NA,NA,NA,NA,NA,2799
+"449","AC705509",28,28,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122738",NA,NA,NA,NA,NA,2799
+"450","AC705510",28,28,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122738",NA,NA,NA,NA,NA,2799
+"451","AC705511",28,28,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122738",NA,NA,NA,NA,NA,2799
+"452","AC705512",28,28,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122738",NA,NA,NA,NA,NA,2799
+"453","AC705513",36,36,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122739",NA,NA,NA,NA,NA,2799
+"454","AC705514",36,36,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122739",NA,NA,NA,NA,NA,2799
+"455","AC705515",36,36,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122739",NA,NA,NA,NA,NA,2799
+"456","AC705516",36,36,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122739",NA,NA,NA,NA,NA,2799
+"457","AC705517",36,36,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122739",NA,NA,NA,NA,NA,2799
+"458","AC705518",36,36,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122739",NA,NA,NA,NA,NA,2799
+"459","AC705519",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133685",NA,NA,NA,NA,NA,2799
+"460","AC705520",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133685",NA,NA,NA,NA,NA,2799
+"461","AC705521",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133685",NA,NA,NA,NA,NA,2799
+"462","AC705522",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133685",NA,NA,NA,NA,NA,2799
+"463","AC705523",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB133685",NA,NA,NA,NA,NA,2799
+"464","AC705524",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133685",NA,NA,NA,NA,NA,2799
+"465","AC705525",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133686",NA,NA,NA,NA,NA,2799
+"466","AC705526",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133686",NA,NA,NA,NA,NA,2799
+"467","AC705527",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133686",NA,NA,NA,NA,NA,2799
+"468","AC705528",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133686",NA,NA,NA,NA,NA,2799
+"469","AC705529",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB133686",NA,NA,NA,NA,NA,2799
+"470","AC705530",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133686",NA,NA,NA,NA,NA,2799
+"471","AC705531",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122741",NA,NA,NA,NA,NA,2799
+"472","AC705532",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122741",NA,NA,NA,NA,NA,2799
+"473","AC705533",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122741",NA,NA,NA,NA,NA,2799
+"474","AC705534",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122741",NA,NA,NA,NA,NA,2799
+"475","AC705535",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122741",NA,NA,NA,NA,NA,2799
+"476","AC705536",27,27,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122741",NA,NA,NA,NA,NA,2799
+"477","AC705537",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122744",NA,NA,NA,NA,NA,2799
+"478","AC705538",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122744",NA,NA,NA,NA,NA,2799
+"479","AC705539",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122744",NA,NA,NA,NA,NA,2799
+"480","AC705540",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122744",NA,NA,NA,NA,NA,2799
+"481","AC705541",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122744",NA,NA,NA,NA,NA,2799
+"482","AC705542",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122744",NA,NA,NA,NA,NA,2799
+"483","AC705543",25,25,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122745",NA,NA,NA,NA,NA,2799
+"484","AC705544",25,25,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122745",NA,NA,NA,NA,NA,2799
+"485","AC705545",25,25,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122745",NA,NA,NA,NA,NA,2799
+"486","AC705546",25,25,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122745",NA,NA,NA,NA,NA,2799
+"487","AC705547",25,25,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122745",NA,NA,NA,NA,NA,2799
+"488","AC705548",25,25,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122745",NA,NA,NA,NA,NA,2799
+"489","AC705549",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122747",NA,NA,NA,NA,NA,2799
+"490","AC705550",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122747",NA,NA,NA,NA,NA,2799
+"491","AC705551",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122747",NA,NA,NA,NA,NA,2799
+"492","AC705552",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122747",NA,NA,NA,NA,NA,2799
+"493","AC705553",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122747",NA,NA,NA,NA,NA,2799
+"494","AC705554",40,40,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122747",NA,NA,NA,NA,NA,2799
+"495","AC705555",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133687",NA,NA,NA,NA,NA,2799
+"496","AC705556",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB133687",NA,NA,NA,NA,NA,2799
+"497","AC705557",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB133687",NA,NA,NA,NA,NA,2799
+"498","AC705558",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB133687",NA,NA,NA,NA,NA,2799
+"499","AC705559",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB133687",NA,NA,NA,NA,NA,2799
+"500","AC705560",22,22,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB133687",NA,NA,NA,NA,NA,2799
+"501","AC705561",49,49,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122751",NA,NA,NA,NA,NA,2799
+"502","AC705562",49,49,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122751",NA,NA,NA,NA,NA,2799
+"503","AC705563",49,49,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122751",NA,NA,NA,NA,NA,2799
+"504","AC705564",49,49,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122751",NA,NA,NA,NA,NA,2799
+"505","AC705565",49,49,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122751",NA,NA,NA,NA,NA,2799
+"506","AC705566",49,49,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122751",NA,NA,NA,NA,NA,2799
+"507","AC705567",49,49,"Years","Years","AP112061",NA,NA,NA,NA,"Hepatitis B",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"Yes",NA,"SUB122751",NA,NA,NA,NA,NA,2799
+"508","AC705568",37,37,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122753",NA,NA,NA,NA,NA,2799
+"509","AC705569",37,37,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2009-July2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122753",NA,NA,NA,NA,NA,2799
+"510","AC705570",37,37,"Years","Years","AP112061",NA,NA,NA,NA,"Seas_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122753",NA,NA,NA,NA,NA,2799
+"511","AC705571",37,37,"Years","Years","AP112061",NA,NA,NA,NA,"H1N1_Vac_2009-2010",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122753",NA,NA,NA,NA,NA,2799
+"512","AC705572",37,37,"Years","Years","AP112061",NA,NA,NA,NA,"Flu_Vac_Aug2008-July2009",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122753",NA,NA,NA,NA,NA,2799
+"513","AC705573",37,37,"Years","Years","AP112061",NA,NA,NA,NA,"Other_Vac_Aug2010-today",NA,NA,"PV2855",NA,"Yes, No, or Unknown Response","Y,N,U",NA,NA,"No",NA,"SUB122753",NA,NA,NA,NA,NA,2799

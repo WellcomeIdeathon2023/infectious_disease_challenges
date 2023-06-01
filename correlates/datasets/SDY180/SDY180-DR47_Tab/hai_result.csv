@@ -1,0 +1,175 @@
+"","RESULT_ID","ARM_ACCESSION","BIOSAMPLE_ACCESSION","COMMENTS","EXPERIMENT_ACCESSION","EXPSAMPLE_ACCESSION","REPOSITORY_ACCESSION","REPOSITORY_NAME","STUDY_ACCESSION","STUDY_TIME_COLLECTED","STUDY_TIME_COLLECTED_UNIT","SUBJECT_ACCESSION","UNIT_PREFERRED","UNIT_REPORTED","VALUE_PREFERRED","VALUE_REPORTED","VIRUS_STRAIN_PREFERRED","VIRUS_STRAIN_REPORTED","WORKSPACE_ID"
+"1",121,"ARM773","BS584929",NA,"EXP10592","ES492968",NA,NA,"SDY180",28,"Days","SUB119293","Antibody titer","Antibody titer",9.99,9.99,"B/Brisbane/60/2008","B/Brisbane/60/2008",2799
+"2",122,"ARM773","BS584938",NA,"EXP10592","ES492977",NA,NA,"SDY180",28,"Days","SUB119296","Antibody titer","Antibody titer",9.99,9.99,"B/Brisbane/60/2008","B/Brisbane/60/2008",2799
+"3",123,"ARM773","BS584941",NA,"EXP10592","ES492980",NA,NA,"SDY180",28,"Days","SUB119297","Antibody titer","Antibody titer",9.99,9.99,"B/Brisbane/60/2008","B/Brisbane/60/2008",2799
+"4",124,"ARM775","BS584918",NA,"EXP10592","ES492957",NA,NA,"SDY180",0,"Days","SUB119282","Antibody titer","Antibody titer",10,10,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"5",125,"ARM775","BS584918",NA,"EXP10592","ES492957",NA,NA,"SDY180",0,"Days","SUB119282","Antibody titer","Antibody titer",10,10,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"6",126,"ARM775","BS584919",NA,"EXP10592","ES492958",NA,NA,"SDY180",14,"Days","SUB119282","Antibody titer","Antibody titer",10,10,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"7",127,"ARM775","BS584919",NA,"EXP10592","ES492958",NA,NA,"SDY180",14,"Days","SUB119282","Antibody titer","Antibody titer",10,10,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"8",128,"ARM773","BS584926",NA,"EXP10592","ES492965",NA,NA,"SDY180",28,"Days","SUB119292","Antibody titer","Antibody titer",10,10,"B/Brisbane/60/2008","B/Brisbane/60/2008",2799
+"9",129,"ARM773","BS584936",NA,"EXP10592","ES492975",NA,NA,"SDY180",0,"Days","SUB119296","Antibody titer","Antibody titer",10,10,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"10",130,"ARM773","BS584938",NA,"EXP10592","ES492977",NA,NA,"SDY180",28,"Days","SUB119296","Antibody titer","Antibody titer",1280,1280,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"11",131,"ARM775","BS584920",NA,"EXP10592","ES492959",NA,NA,"SDY180",0,"Days","SUB119283","Antibody titer","Antibody titer",160,160,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"12",132,"ARM775","BS584920",NA,"EXP10592","ES492959",NA,NA,"SDY180",0,"Days","SUB119283","Antibody titer","Antibody titer",160,160,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"13",133,"ARM775","BS584921",NA,"EXP10592","ES492960",NA,NA,"SDY180",14,"Days","SUB119283","Antibody titer","Antibody titer",160,160,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"14",134,"ARM775","BS584921",NA,"EXP10592","ES492960",NA,NA,"SDY180",14,"Days","SUB119283","Antibody titer","Antibody titer",160,160,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"15",135,"ARM773","BS584926",NA,"EXP10592","ES492965",NA,NA,"SDY180",28,"Days","SUB119292","Antibody titer","Antibody titer",160,160,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"16",136,"ARM773","BS584928",NA,"EXP10592","ES492967",NA,NA,"SDY180",14,"Days","SUB119293","Antibody titer","Antibody titer",160,160,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"17",137,"ARM773","BS584931",NA,"EXP10592","ES492970",NA,NA,"SDY180",14,"Days","SUB119294","Antibody titer","Antibody titer",160,160,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"18",138,"ARM773","BS584934",NA,"EXP10592","ES492973",NA,NA,"SDY180",14,"Days","SUB119295","Antibody titer","Antibody titer",160,160,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"19",139,"ARM773","BS584924",NA,"EXP10592","ES492963",NA,NA,"SDY180",0,"Days","SUB119292","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"20",140,"ARM773","BS584924",NA,"EXP10592","ES492963",NA,NA,"SDY180",0,"Days","SUB119292","Antibody titer","Antibody titer",20,20,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"21",141,"ARM773","BS584927",NA,"EXP10592","ES492966",NA,NA,"SDY180",0,"Days","SUB119293","Antibody titer","Antibody titer",20,20,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"22",142,"ARM773","BS584933",NA,"EXP10592","ES492972",NA,NA,"SDY180",0,"Days","SUB119295","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"23",143,"ARM773","BS584935",NA,"EXP10592","ES492974",NA,NA,"SDY180",28,"Days","SUB119295","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"24",144,"ARM773","BS584925",NA,"EXP10592","ES492964",NA,NA,"SDY180",14,"Days","SUB119292","Antibody titer","Antibody titer",320,320,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"25",145,"ARM773","BS584925",NA,"EXP10592","ES492964",NA,NA,"SDY180",14,"Days","SUB119292","Antibody titer","Antibody titer",320,320,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"26",146,"ARM773","BS584926",NA,"EXP10592","ES492965",NA,NA,"SDY180",28,"Days","SUB119292","Antibody titer","Antibody titer",320,320,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"27",147,"ARM773","BS584928",NA,"EXP10592","ES492967",NA,NA,"SDY180",14,"Days","SUB119293","Antibody titer","Antibody titer",320,320,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"28",148,"ARM773","BS584929",NA,"EXP10592","ES492968",NA,NA,"SDY180",28,"Days","SUB119293","Antibody titer","Antibody titer",320,320,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"29",149,"ARM773","BS584931",NA,"EXP10592","ES492970",NA,NA,"SDY180",14,"Days","SUB119294","Antibody titer","Antibody titer",320,320,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"30",150,"ARM773","BS584932",NA,"EXP10592","ES492971",NA,NA,"SDY180",28,"Days","SUB119294","Antibody titer","Antibody titer",320,320,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"31",151,"ARM773","BS584938",NA,"EXP10592","ES492977",NA,NA,"SDY180",28,"Days","SUB119296","Antibody titer","Antibody titer",320,320,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"32",152,"ARM773","BS584930",NA,"EXP10592","ES492969",NA,NA,"SDY180",0,"Days","SUB119294","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"33",153,"ARM773","BS584932",NA,"EXP10592","ES492971",NA,NA,"SDY180",28,"Days","SUB119294","Antibody titer","Antibody titer",40,40,"B/Brisbane/60/2008","B/Brisbane/60/2008",2799
+"34",154,"ARM773","BS584934",NA,"EXP10592","ES492973",NA,NA,"SDY180",14,"Days","SUB119295","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"35",155,"ARM773","BS584935",NA,"EXP10592","ES492974",NA,NA,"SDY180",28,"Days","SUB119295","Antibody titer","Antibody titer",40,40,"B/Brisbane/60/2008","B/Brisbane/60/2008",2799
+"36",156,"ARM773","BS584939",NA,"EXP10592","ES492978",NA,NA,"SDY180",0,"Days","SUB119297","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"37",157,"ARM773","BS584939",NA,"EXP10592","ES492978",NA,NA,"SDY180",0,"Days","SUB119297","Antibody titer","Antibody titer",40,40,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"38",158,"ARM773","BS584940",NA,"EXP10592","ES492979",NA,NA,"SDY180",14,"Days","SUB119297","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"39",159,"ARM773","BS584941",NA,"EXP10592","ES492980",NA,NA,"SDY180",28,"Days","SUB119297","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"40",160,"ARM773","BS584937",NA,"EXP10592","ES492976",NA,NA,"SDY180",14,"Days","SUB119296","Antibody titer","Antibody titer",640,640,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"41",161,"ARM773","BS584937",NA,"EXP10592","ES492976",NA,NA,"SDY180",14,"Days","SUB119296","Antibody titer","Antibody titer",640,640,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"42",162,"ARM775","BS584922",NA,"EXP10592","ES492961",NA,NA,"SDY180",0,"Days","SUB119288","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"43",163,"ARM775","BS584922",NA,"EXP10592","ES492961",NA,NA,"SDY180",0,"Days","SUB119288","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"44",164,"ARM775","BS584923",NA,"EXP10592","ES492962",NA,NA,"SDY180",14,"Days","SUB119288","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"45",165,"ARM775","BS584923",NA,"EXP10592","ES492962",NA,NA,"SDY180",14,"Days","SUB119288","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"46",166,"ARM773","BS584927",NA,"EXP10592","ES492966",NA,NA,"SDY180",0,"Days","SUB119293","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"47",167,"ARM773","BS584929",NA,"EXP10592","ES492968",NA,NA,"SDY180",28,"Days","SUB119293","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"48",168,"ARM773","BS584930",NA,"EXP10592","ES492969",NA,NA,"SDY180",0,"Days","SUB119294","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"49",169,"ARM773","BS584932",NA,"EXP10592","ES492971",NA,NA,"SDY180",28,"Days","SUB119294","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"50",170,"ARM773","BS584933",NA,"EXP10592","ES492972",NA,NA,"SDY180",0,"Days","SUB119295","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"51",171,"ARM773","BS584935",NA,"EXP10592","ES492974",NA,NA,"SDY180",28,"Days","SUB119295","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"52",172,"ARM773","BS584936",NA,"EXP10592","ES492975",NA,NA,"SDY180",0,"Days","SUB119296","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","A/Brisbane/59/2007",2799
+"53",173,"ARM773","BS584940",NA,"EXP10592","ES492979",NA,NA,"SDY180",14,"Days","SUB119297","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"54",174,"ARM773","BS584941",NA,"EXP10592","ES492980",NA,NA,"SDY180",28,"Days","SUB119297","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","A/Brisbane/10/2007",2799
+"55",7059,"ARM776","BS661774",NA,"EXP13539","ES760873",NA,NA,"SDY180",-7,"Days","SUB119262","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"56",7060,"ARM776","BS661774",NA,"EXP13539","ES760873",NA,NA,"SDY180",-7,"Days","SUB119262","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"57",7061,"ARM776","BS661774",NA,"EXP13539","ES760873",NA,NA,"SDY180",-7,"Days","SUB119262","Antibody titer","Antibody titer",320,320,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"58",7062,"ARM776","BS661775",NA,"EXP13539","ES760872",NA,NA,"SDY180",28,"Days","SUB119262","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"59",7063,"ARM776","BS661775",NA,"EXP13539","ES760872",NA,NA,"SDY180",28,"Days","SUB119262","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"60",7064,"ARM776","BS661775",NA,"EXP13539","ES760872",NA,NA,"SDY180",28,"Days","SUB119262","Antibody titer","Antibody titer",320,320,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"61",7065,"ARM776","BS661776",NA,"EXP13539","ES760875",NA,NA,"SDY180",-7,"Days","SUB119267","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"62",7066,"ARM776","BS661776",NA,"EXP13539","ES760875",NA,NA,"SDY180",-7,"Days","SUB119267","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"63",7067,"ARM776","BS661776",NA,"EXP13539","ES760875",NA,NA,"SDY180",-7,"Days","SUB119267","Antibody titer","Antibody titer",5,5,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"64",7068,"ARM776","BS661777",NA,"EXP13539","ES760874",NA,NA,"SDY180",28,"Days","SUB119267","Antibody titer","Antibody titer",160,160,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"65",7069,"ARM776","BS661777",NA,"EXP13539","ES760874",NA,NA,"SDY180",28,"Days","SUB119267","Antibody titer","Antibody titer",10,10,"B/Brisbane/60/2008","B Brisbane",2799
+"66",7070,"ARM776","BS661777",NA,"EXP13539","ES760874",NA,NA,"SDY180",28,"Days","SUB119267","Antibody titer","Antibody titer",20,20,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"67",7071,"ARM776","BS661778",NA,"EXP13539","ES760877",NA,NA,"SDY180",-7,"Days","SUB119268","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"68",7072,"ARM776","BS661778",NA,"EXP13539","ES760877",NA,NA,"SDY180",-7,"Days","SUB119268","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"69",7073,"ARM776","BS661778",NA,"EXP13539","ES760877",NA,NA,"SDY180",-7,"Days","SUB119268","Antibody titer","Antibody titer",40,40,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"70",7074,"ARM776","BS661779",NA,"EXP13539","ES760876",NA,NA,"SDY180",28,"Days","SUB119268","Antibody titer","Antibody titer",1280,1280,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"71",7075,"ARM776","BS661779",NA,"EXP13539","ES760876",NA,NA,"SDY180",28,"Days","SUB119268","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"72",7076,"ARM776","BS661779",NA,"EXP13539","ES760876",NA,NA,"SDY180",28,"Days","SUB119268","Antibody titer","Antibody titer",640,640,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"73",7077,"ARM776","BS661780",NA,"EXP13539","ES760879",NA,NA,"SDY180",-7,"Days","SUB119274","Antibody titer","Antibody titer",5,5,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"74",7078,"ARM776","BS661780",NA,"EXP13539","ES760879",NA,NA,"SDY180",-7,"Days","SUB119274","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"75",7079,"ARM776","BS661780",NA,"EXP13539","ES760879",NA,NA,"SDY180",-7,"Days","SUB119274","Antibody titer","Antibody titer",20,20,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"76",7080,"ARM776","BS661781",NA,"EXP13539","ES760878",NA,NA,"SDY180",28,"Days","SUB119274","Antibody titer","Antibody titer",160,160,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"77",7081,"ARM776","BS661781",NA,"EXP13539","ES760878",NA,NA,"SDY180",28,"Days","SUB119274","Antibody titer","Antibody titer",40,40,"B/Brisbane/60/2008","B Brisbane",2799
+"78",7082,"ARM776","BS661781",NA,"EXP13539","ES760878",NA,NA,"SDY180",28,"Days","SUB119274","Antibody titer","Antibody titer",160,160,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"79",7083,"ARM776","BS661782",NA,"EXP13539","ES760881",NA,NA,"SDY180",-7,"Days","SUB119277","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"80",7084,"ARM776","BS661782",NA,"EXP13539","ES760881",NA,NA,"SDY180",-7,"Days","SUB119277","Antibody titer","Antibody titer",20,20,"B/Brisbane/60/2008","B Brisbane",2799
+"81",7085,"ARM776","BS661782",NA,"EXP13539","ES760881",NA,NA,"SDY180",-7,"Days","SUB119277","Antibody titer","Antibody titer",160,160,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"82",7086,"ARM776","BS661783",NA,"EXP13539","ES760880",NA,NA,"SDY180",28,"Days","SUB119277","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"83",7087,"ARM776","BS661783",NA,"EXP13539","ES760880",NA,NA,"SDY180",28,"Days","SUB119277","Antibody titer","Antibody titer",20,20,"B/Brisbane/60/2008","B Brisbane",2799
+"84",7088,"ARM776","BS661783",NA,"EXP13539","ES760880",NA,NA,"SDY180",28,"Days","SUB119277","Antibody titer","Antibody titer",160,160,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"85",7089,"ARM776","BS661784",NA,"EXP13539","ES760883",NA,NA,"SDY180",-7,"Days","SUB119278","Antibody titer","Antibody titer",5,5,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"86",7090,"ARM776","BS661784",NA,"EXP13539","ES760883",NA,NA,"SDY180",-7,"Days","SUB119278","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"87",7091,"ARM776","BS661784",NA,"EXP13539","ES760883",NA,NA,"SDY180",-7,"Days","SUB119278","Antibody titer","Antibody titer",40,40,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"88",7092,"ARM776","BS661785",NA,"EXP13539","ES760882",NA,NA,"SDY180",28,"Days","SUB119278","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"89",7093,"ARM776","BS661785",NA,"EXP13539","ES760882",NA,NA,"SDY180",28,"Days","SUB119278","Antibody titer","Antibody titer",160,160,"B/Brisbane/60/2008","B Brisbane",2799
+"90",7094,"ARM776","BS661785",NA,"EXP13539","ES760882",NA,NA,"SDY180",28,"Days","SUB119278","Antibody titer","Antibody titer",1280,1280,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"91",7095,"ARM773","BS661786",NA,"EXP13539","ES760884",NA,NA,"SDY180",0,"Days","SUB119292","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"92",7096,"ARM773","BS661786",NA,"EXP13539","ES760884",NA,NA,"SDY180",0,"Days","SUB119292","Antibody titer","Antibody titer",10,10,"B/Brisbane/60/2008","B Brisbane",2799
+"93",7097,"ARM773","BS661786",NA,"EXP13539","ES760884",NA,NA,"SDY180",0,"Days","SUB119292","Antibody titer","Antibody titer",20,20,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"94",7098,"ARM773","BS661787",NA,"EXP13539","ES760885",NA,NA,"SDY180",14,"Days","SUB119292","Antibody titer","Antibody titer",320,320,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"95",7099,"ARM773","BS661787",NA,"EXP13539","ES760885",NA,NA,"SDY180",14,"Days","SUB119292","Antibody titer","Antibody titer",320,320,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"96",7100,"ARM773","BS661788",NA,"EXP13539","ES760886",NA,NA,"SDY180",28,"Days","SUB119292","Antibody titer","Antibody titer",160,160,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"97",7101,"ARM773","BS661788",NA,"EXP13539","ES760886",NA,NA,"SDY180",28,"Days","SUB119292","Antibody titer","Antibody titer",20,20,"B/Brisbane/60/2008","B Brisbane",2799
+"98",7102,"ARM773","BS661788",NA,"EXP13539","ES760886",NA,NA,"SDY180",28,"Days","SUB119292","Antibody titer","Antibody titer",320,320,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"99",7103,"ARM773","BS661789",NA,"EXP13539","ES760887",NA,NA,"SDY180",0,"Days","SUB119293","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"100",7104,"ARM773","BS661789",NA,"EXP13539","ES760887",NA,NA,"SDY180",0,"Days","SUB119293","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"101",7105,"ARM773","BS661789",NA,"EXP13539","ES760887",NA,NA,"SDY180",0,"Days","SUB119293","Antibody titer","Antibody titer",20,20,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"102",7106,"ARM773","BS661790",NA,"EXP13539","ES760888",NA,NA,"SDY180",14,"Days","SUB119293","Antibody titer","Antibody titer",160,160,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"103",7107,"ARM773","BS661790",NA,"EXP13539","ES760888",NA,NA,"SDY180",14,"Days","SUB119293","Antibody titer","Antibody titer",320,320,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"104",7108,"ARM773","BS661791",NA,"EXP13539","ES760889",NA,NA,"SDY180",28,"Days","SUB119293","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"105",7109,"ARM773","BS661791",NA,"EXP13539","ES760889",NA,NA,"SDY180",28,"Days","SUB119293","Antibody titer","Antibody titer",20,20,"B/Brisbane/60/2008","B Brisbane",2799
+"106",7110,"ARM773","BS661791",NA,"EXP13539","ES760889",NA,NA,"SDY180",28,"Days","SUB119293","Antibody titer","Antibody titer",320,320,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"107",7111,"ARM773","BS661792",NA,"EXP13539","ES760890",NA,NA,"SDY180",0,"Days","SUB119294","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"108",7112,"ARM773","BS661792",NA,"EXP13539","ES760890",NA,NA,"SDY180",0,"Days","SUB119294","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"109",7113,"ARM773","BS661792",NA,"EXP13539","ES760890",NA,NA,"SDY180",0,"Days","SUB119294","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"110",7114,"ARM773","BS661793",NA,"EXP13539","ES760891",NA,NA,"SDY180",14,"Days","SUB119294","Antibody titer","Antibody titer",320,320,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"111",7115,"ARM773","BS661793",NA,"EXP13539","ES760891",NA,NA,"SDY180",14,"Days","SUB119294","Antibody titer","Antibody titer",160,160,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"112",7116,"ARM773","BS661794",NA,"EXP13539","ES760892",NA,NA,"SDY180",28,"Days","SUB119294","Antibody titer","Antibody titer",320,320,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"113",7117,"ARM773","BS661794",NA,"EXP13539","ES760892",NA,NA,"SDY180",28,"Days","SUB119294","Antibody titer","Antibody titer",80,80,"B/Brisbane/60/2008","B Brisbane",2799
+"114",7118,"ARM773","BS661794",NA,"EXP13539","ES760892",NA,NA,"SDY180",28,"Days","SUB119294","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"115",7119,"ARM773","BS661795",NA,"EXP13539","ES760893",NA,NA,"SDY180",0,"Days","SUB119295","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"116",7120,"ARM773","BS661795",NA,"EXP13539","ES760893",NA,NA,"SDY180",0,"Days","SUB119295","Antibody titer","Antibody titer",80,80,"B/Brisbane/60/2008","B Brisbane",2799
+"117",7121,"ARM773","BS661795",NA,"EXP13539","ES760893",NA,NA,"SDY180",0,"Days","SUB119295","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"118",7122,"ARM773","BS661796",NA,"EXP13539","ES760894",NA,NA,"SDY180",14,"Days","SUB119295","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"119",7123,"ARM773","BS661796",NA,"EXP13539","ES760894",NA,NA,"SDY180",14,"Days","SUB119295","Antibody titer","Antibody titer",160,160,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"120",7124,"ARM773","BS661797",NA,"EXP13539","ES760895",NA,NA,"SDY180",28,"Days","SUB119295","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"121",7125,"ARM773","BS661797",NA,"EXP13539","ES760895",NA,NA,"SDY180",28,"Days","SUB119295","Antibody titer","Antibody titer",80,80,"B/Brisbane/60/2008","B Brisbane",2799
+"122",7126,"ARM773","BS661797",NA,"EXP13539","ES760895",NA,NA,"SDY180",28,"Days","SUB119295","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"123",7127,"ARM773","BS661798",NA,"EXP13539","ES760896",NA,NA,"SDY180",0,"Days","SUB119296","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"124",7128,"ARM773","BS661798",NA,"EXP13539","ES760896",NA,NA,"SDY180",0,"Days","SUB119296","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"125",7129,"ARM773","BS661798",NA,"EXP13539","ES760896",NA,NA,"SDY180",0,"Days","SUB119296","Antibody titer","Antibody titer",10,10,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"126",7130,"ARM773","BS661799",NA,"EXP13539","ES760897",NA,NA,"SDY180",14,"Days","SUB119296","Antibody titer","Antibody titer",640,640,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"127",7131,"ARM773","BS661799",NA,"EXP13539","ES760897",NA,NA,"SDY180",14,"Days","SUB119296","Antibody titer","Antibody titer",640,640,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"128",7132,"ARM773","BS661800",NA,"EXP13539","ES760898",NA,NA,"SDY180",28,"Days","SUB119296","Antibody titer","Antibody titer",320,320,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"129",7133,"ARM773","BS661800",NA,"EXP13539","ES760898",NA,NA,"SDY180",28,"Days","SUB119296","Antibody titer","Antibody titer",40,40,"B/Brisbane/60/2008","B Brisbane",2799
+"130",7134,"ARM773","BS661800",NA,"EXP13539","ES760898",NA,NA,"SDY180",28,"Days","SUB119296","Antibody titer","Antibody titer",1280,1280,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"131",7135,"ARM773","BS661801",NA,"EXP13539","ES760899",NA,NA,"SDY180",0,"Days","SUB119297","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"132",7136,"ARM773","BS661801",NA,"EXP13539","ES760899",NA,NA,"SDY180",0,"Days","SUB119297","Antibody titer","Antibody titer",10,10,"B/Brisbane/60/2008","B Brisbane",2799
+"133",7137,"ARM773","BS661801",NA,"EXP13539","ES760899",NA,NA,"SDY180",0,"Days","SUB119297","Antibody titer","Antibody titer",40,40,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"134",7138,"ARM773","BS661802",NA,"EXP13539","ES760900",NA,NA,"SDY180",14,"Days","SUB119297","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"135",7139,"ARM773","BS661802",NA,"EXP13539","ES760900",NA,NA,"SDY180",14,"Days","SUB119297","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"136",7140,"ARM773","BS661803",NA,"EXP13539","ES760901",NA,NA,"SDY180",28,"Days","SUB119297","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"137",7141,"ARM773","BS661803",NA,"EXP13539","ES760901",NA,NA,"SDY180",28,"Days","SUB119297","Antibody titer","Antibody titer",10,10,"B/Brisbane/60/2008","B Brisbane",2799
+"138",7142,"ARM773","BS661803",NA,"EXP13539","ES760901",NA,NA,"SDY180",28,"Days","SUB119297","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"139",7143,"ARM779","BS661804",NA,"EXP13539","ES760860",NA,NA,"SDY180",0,"Days","SUB119252","Antibody titer","Antibody titer",5,5,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"140",7144,"ARM779","BS661804",NA,"EXP13539","ES760860",NA,NA,"SDY180",0,"Days","SUB119252","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"141",7145,"ARM779","BS661804",NA,"EXP13539","ES760860",NA,NA,"SDY180",0,"Days","SUB119252","Antibody titer","Antibody titer",40,40,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"142",7146,"ARM779","BS661805",NA,"EXP13539","ES760861",NA,NA,"SDY180",28,"Days","SUB119252","Antibody titer","Antibody titer",40,40,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"143",7147,"ARM779","BS661805",NA,"EXP13539","ES760861",NA,NA,"SDY180",28,"Days","SUB119252","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"144",7148,"ARM779","BS661805",NA,"EXP13539","ES760861",NA,NA,"SDY180",28,"Days","SUB119252","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"145",7149,"ARM779","BS661806",NA,"EXP13539","ES760862",NA,NA,"SDY180",0,"Days","SUB119253","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"146",7150,"ARM779","BS661806",NA,"EXP13539","ES760862",NA,NA,"SDY180",0,"Days","SUB119253","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"147",7151,"ARM779","BS661806",NA,"EXP13539","ES760862",NA,NA,"SDY180",0,"Days","SUB119253","Antibody titer","Antibody titer",40,40,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"148",7152,"ARM779","BS661807",NA,"EXP13539","ES760863",NA,NA,"SDY180",28,"Days","SUB119253","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"149",7153,"ARM779","BS661807",NA,"EXP13539","ES760863",NA,NA,"SDY180",28,"Days","SUB119253","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"150",7154,"ARM779","BS661807",NA,"EXP13539","ES760863",NA,NA,"SDY180",28,"Days","SUB119253","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"151",7155,"ARM779","BS661808",NA,"EXP13539","ES760864",NA,NA,"SDY180",0,"Days","SUB119254","Antibody titer","Antibody titer",10,10,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"152",7156,"ARM779","BS661808",NA,"EXP13539","ES760864",NA,NA,"SDY180",0,"Days","SUB119254","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"153",7157,"ARM779","BS661808",NA,"EXP13539","ES760864",NA,NA,"SDY180",0,"Days","SUB119254","Antibody titer","Antibody titer",10,10,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"154",7158,"ARM779","BS661809",NA,"EXP13539","ES760865",NA,NA,"SDY180",28,"Days","SUB119254","Antibody titer","Antibody titer",10,10,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"155",7159,"ARM779","BS661809",NA,"EXP13539","ES760865",NA,NA,"SDY180",28,"Days","SUB119254","Antibody titer","Antibody titer",10,10,"B/Brisbane/60/2008","B Brisbane",2799
+"156",7160,"ARM779","BS661809",NA,"EXP13539","ES760865",NA,NA,"SDY180",28,"Days","SUB119254","Antibody titer","Antibody titer",10,10,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"157",7161,"ARM779","BS661810",NA,"EXP13539","ES760866",NA,NA,"SDY180",0,"Days","SUB119255","Antibody titer","Antibody titer",5,5,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"158",7162,"ARM779","BS661810",NA,"EXP13539","ES760866",NA,NA,"SDY180",0,"Days","SUB119255","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"159",7163,"ARM779","BS661810",NA,"EXP13539","ES760866",NA,NA,"SDY180",0,"Days","SUB119255","Antibody titer","Antibody titer",20,20,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"160",7164,"ARM779","BS661811",NA,"EXP13539","ES760867",NA,NA,"SDY180",28,"Days","SUB119255","Antibody titer","Antibody titer",80,80,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"161",7165,"ARM779","BS661811",NA,"EXP13539","ES760867",NA,NA,"SDY180",28,"Days","SUB119255","Antibody titer","Antibody titer",20,20,"B/Brisbane/60/2008","B Brisbane",2799
+"162",7166,"ARM779","BS661811",NA,"EXP13539","ES760867",NA,NA,"SDY180",28,"Days","SUB119255","Antibody titer","Antibody titer",640,640,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"163",7167,"ARM779","BS661812",NA,"EXP13539","ES760868",NA,NA,"SDY180",0,"Days","SUB119256","Antibody titer","Antibody titer",5,5,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"164",7168,"ARM779","BS661812",NA,"EXP13539","ES760868",NA,NA,"SDY180",0,"Days","SUB119256","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"165",7169,"ARM779","BS661812",NA,"EXP13539","ES760868",NA,NA,"SDY180",0,"Days","SUB119256","Antibody titer","Antibody titer",80,80,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"166",7170,"ARM779","BS661813",NA,"EXP13539","ES760869",NA,NA,"SDY180",28,"Days","SUB119256","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"167",7171,"ARM779","BS661813",NA,"EXP13539","ES760869",NA,NA,"SDY180",28,"Days","SUB119256","Antibody titer","Antibody titer",5,5,"B/Brisbane/60/2008","B Brisbane",2799
+"168",7172,"ARM779","BS661813",NA,"EXP13539","ES760869",NA,NA,"SDY180",28,"Days","SUB119256","Antibody titer","Antibody titer",160,160,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"169",7173,"ARM779","BS661814",NA,"EXP13539","ES760870",NA,NA,"SDY180",0,"Days","SUB119257","Antibody titer","Antibody titer",20,20,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"170",7174,"ARM779","BS661814",NA,"EXP13539","ES760870",NA,NA,"SDY180",0,"Days","SUB119257","Antibody titer","Antibody titer",20,20,"B/Brisbane/60/2008","B Brisbane",2799
+"171",7175,"ARM779","BS661814",NA,"EXP13539","ES760870",NA,NA,"SDY180",0,"Days","SUB119257","Antibody titer","Antibody titer",40,40,"A/Brisbane/10/2007","Brisbane H3N2",2799
+"172",7176,"ARM779","BS661815",NA,"EXP13539","ES760871",NA,NA,"SDY180",28,"Days","SUB119257","Antibody titer","Antibody titer",160,160,"A/Brisbane/59/2007","Brisbane H1N1",2799
+"173",7177,"ARM779","BS661815",NA,"EXP13539","ES760871",NA,NA,"SDY180",28,"Days","SUB119257","Antibody titer","Antibody titer",40,40,"B/Brisbane/60/2008","B Brisbane",2799
+"174",7178,"ARM779","BS661815",NA,"EXP13539","ES760871",NA,NA,"SDY180",28,"Days","SUB119257","Antibody titer","Antibody titer",640,640,"A/Brisbane/10/2007","Brisbane H3N2",2799

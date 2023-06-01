@@ -1,0 +1,4 @@
+"","NAME","DESCRIPTION","LINK"
+"1","CONTROL SAMPLE","Sample used to perform quality control of assay results.",NA
+"2","EXPSAMPLE","Biological sample that is assayed or measured.",NA
+"3","STANDARD CURVE","An analysis product from analyzing the assay result from known quantities and used to interpret the assay result from a sample.",NA
