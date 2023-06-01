@@ -8,7 +8,7 @@ Your prototype also does not need to show realistic analyses, we are interested 
 
 **Common files**
 
-* Description: These files provide metadata that may be used by any of the three studies listed below, for example values for mapping variables between numeric codes and their actual values (e.g., [lk_race.csv](https://github.com/WellcomeIdeathon2023/infectious_disease_challenges/blob/main/correlates/datasets/Common%20files/lk_race.csv) shows the mappings between codes (1-9) and race.
+* Description: These files provide metadata that may be used by any of the three studies listed below, for example values for mapping variables between numeric codes and their actual values (e.g., [lk_race.csv](https://github.com/WellcomeIdeathon2023/infectious_disease_challenges/blob/main/correlates/datasets/Common%20files/lk_race.csv) shows the mappings between codes (1-9) and race).
 * [link to data](https://www.immport.org/browser/?path=SDY180)
 * [Terms of use](https://docs.immport.org/home/agreement/)
 
