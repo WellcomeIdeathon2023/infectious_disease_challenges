@@ -2,6 +2,9 @@
 
 For this challenge you must use the datasets in this folder.
 Please ensure you have read the Terms of Use before using any of the datasets.
+The complexity of this challenge is in understanding which data to use and how it links together and we have given some hints below to help you.
+We are *not* expecting you to generate novel results from these datasets but to demonstrate how you would integrate datasets from the same study (SDY296 and SDY301) with datasets from different studies (SDY180) and how you would provide functionality including visualization, statistical analysis, and machine learning.
+Your prototype also does not need to show realistic analyses, we are interested in the functionality and its potential; not the results.
 
 **SDY180**
 
